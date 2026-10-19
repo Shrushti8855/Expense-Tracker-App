@@ -1,0 +1,10 @@
+EXPENSE TRACKER - AUTOMATED INSIGHTS
+=============================================
+Total income: Rs. 1,928,691.36
+Total expenses: Rs. 3,613,325.53
+Net balance: Rs. -1,684,634.17
+Highest spending category: Rent (Rs. 1,208,036.63)
+Highest expense month: 2025-06
+Lowest expense month: 2025-05
+Payment method with highest expense total: Upi
+Alert: total expenses exceed total income for this dataset.

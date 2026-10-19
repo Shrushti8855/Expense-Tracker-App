@@ -1,0 +1,1501 @@
+Transaction_ID,Date,Category,Description,Amount,Type,Payment_Method,Year,Month,Month_Name,Year_Month,Day,Weekday
+TXN01409,2025-01-01,Rent,Monthly rent,13794.67,Expense,Net Banking,2025,1,January,2025-01,1,Wednesday
+TXN01482,2025-01-01,Entertainment,Entertainment activity,1823.11,Expense,Net Banking,2025,1,January,2025-01,1,Wednesday
+TXN01488,2025-01-01,Transport,Local transport,588.05,Expense,Net Banking,2025,1,January,2025-01,1,Wednesday
+TXN00381,2025-01-02,Travel,Travel booking,1283.07,Expense,Cash,2025,1,January,2025-01,2,Thursday
+TXN00773,2025-01-02,Education,Education expense,2950.61,Expense,Net Banking,2025,1,January,2025-01,2,Thursday
+TXN00845,2025-01-02,Education,Education expense,2899.9,Expense,Credit Card,2025,1,January,2025-01,2,Thursday
+TXN00846,2025-01-02,Other Income,Other income received,8469.88,Income,Cash,2025,1,January,2025-01,2,Thursday
+TXN00901,2025-01-02,Transport,Local transport,30.63,Expense,Debit Card,2025,1,January,2025-01,2,Thursday
+TXN01237,2025-01-02,Transport,Local transport,550.82,Expense,Cash,2025,1,January,2025-01,2,Thursday
+TXN01294,2025-01-02,Travel,Travel booking,2639.85,Expense,Net Banking,2025,1,January,2025-01,2,Thursday
+TXN00104,2025-01-03,Travel,Travel booking,5708.6,Expense,Debit Card,2025,1,January,2025-01,3,Friday
+TXN00465,2025-01-03,Transport,Local transport,692.63,Expense,Upi,2025,1,January,2025-01,3,Friday
+TXN00575,2025-01-03,Transport,Local transport,785.18,Expense,Cash,2025,1,January,2025-01,3,Friday
+TXN00707,2025-01-03,Transport,Local transport,150.91,Expense,Debit Card,2025,1,January,2025-01,3,Friday
+TXN01190,2025-01-03,Food,Food purchase,735.68,Expense,Cash,2025,1,January,2025-01,3,Friday
+TXN01279,2025-01-03,Shopping,Shopping purchase,4220.56,Expense,Net Banking,2025,1,January,2025-01,3,Friday
+TXN00303,2025-01-04,Transport,Local transport,525.68,Expense,Credit Card,2025,1,January,2025-01,4,Saturday
+TXN01070,2025-01-04,Entertainment,Entertainment activity,691.32,Expense,Cash,2025,1,January,2025-01,4,Saturday
+TXN01175,2025-01-04,Transport,Local transport,148.73,Expense,Credit Card,2025,1,January,2025-01,4,Saturday
+TXN00790,2025-01-05,Shopping,Shopping purchase,3250.6,Expense,Credit Card,2025,1,January,2025-01,5,Sunday
+TXN00801,2025-01-05,Food,Food purchase,1069.54,Expense,Net Banking,2025,1,January,2025-01,5,Sunday
+TXN00410,2025-01-06,Utilities,Utility payment,1022.48,Expense,Debit Card,2025,1,January,2025-01,6,Monday
+TXN00839,2025-01-06,Transport,Local transport,451.05,Expense,Credit Card,2025,1,January,2025-01,6,Monday
+TXN00889,2025-01-06,Transport,Local transport,628.22,Expense,Net Banking,2025,1,January,2025-01,6,Monday
+TXN01038,2025-01-06,Healthcare,Healthcare expense,1742.11,Expense,Upi,2025,1,January,2025-01,6,Monday
+TXN01121,2025-01-06,Transport,Local transport,717.38,Expense,Cash,2025,1,January,2025-01,6,Monday
+TXN00415,2025-01-07,Food,Food purchase,615.35,Expense,Credit Card,2025,1,January,2025-01,7,Tuesday
+TXN00478,2025-01-07,Shopping,Shopping purchase,855.98,Expense,Credit Card,2025,1,January,2025-01,7,Tuesday
+TXN01366,2025-01-07,Other Income,Other income received,8295.05,Income,Upi,2025,1,January,2025-01,7,Tuesday
+TXN00233,2025-01-08,Utilities,Utility payment,638.4,Expense,Credit Card,2025,1,January,2025-01,8,Wednesday
+TXN00300,2025-01-08,Transport,Local transport,256.35,Expense,Upi,2025,1,January,2025-01,8,Wednesday
+TXN00540,2025-01-08,Entertainment,Entertainment activity,832.29,Expense,Credit Card,2025,1,January,2025-01,8,Wednesday
+TXN00170,2025-01-09,Shopping,Shopping purchase,4671.02,Expense,Credit Card,2025,1,January,2025-01,9,Thursday
+TXN00272,2025-01-09,Utilities,Utility payment,2102.61,Expense,Credit Card,2025,1,January,2025-01,9,Thursday
+TXN00369,2025-01-09,Transport,Local transport,663.76,Expense,Net Banking,2025,1,January,2025-01,9,Thursday
+TXN00821,2025-01-09,Rent,Monthly rent,5162.57,Expense,Upi,2025,1,January,2025-01,9,Thursday
+TXN01167,2025-01-09,Entertainment,Entertainment activity,1278.06,Expense,Cash,2025,1,January,2025-01,9,Thursday
+TXN00429,2025-01-10,Food,Food purchase,907.5,Expense,Net Banking,2025,1,January,2025-01,10,Friday
+TXN00454,2025-01-10,Healthcare,Healthcare expense,3267.96,Expense,Upi,2025,1,January,2025-01,10,Friday
+TXN01180,2025-01-10,Shopping,Shopping purchase,4143.74,Expense,Upi,2025,1,January,2025-01,10,Friday
+TXN01399,2025-01-10,Utilities,Utility payment,1090.62,Expense,Debit Card,2025,1,January,2025-01,10,Friday
+TXN00830,2025-01-11,Education,Education expense,1750.34,Expense,Cash,2025,1,January,2025-01,11,Saturday
+TXN01300,2025-01-11,Salary,Salary received,8073.7,Income,Debit Card,2025,1,January,2025-01,11,Saturday
+TXN01493,2025-01-11,Rent,Monthly rent,13564.96,Expense,Debit Card,2025,1,January,2025-01,11,Saturday
+TXN00138,2025-01-12,Food,Food purchase,101.61,Expense,Cash,2025,1,January,2025-01,12,Sunday
+TXN00385,2025-01-12,Travel,Travel booking,5449.27,Expense,Debit Card,2025,1,January,2025-01,12,Sunday
+TXN00787,2025-01-12,Utilities,Utility payment,2276.91,Expense,Upi,2025,1,January,2025-01,12,Sunday
+TXN00147,2025-01-13,Transport,Local transport,228.37,Expense,Cash,2025,1,January,2025-01,13,Monday
+TXN00663,2025-01-13,Education,Education expense,3293.65,Expense,Cash,2025,1,January,2025-01,13,Monday
+TXN00117,2025-01-14,Education,Education expense,1727.24,Expense,Debit Card,2025,1,January,2025-01,14,Tuesday
+TXN00328,2025-01-14,Shopping,Shopping purchase,4323.04,Expense,Net Banking,2025,1,January,2025-01,14,Tuesday
+TXN00844,2025-01-14,Rent,Monthly rent,14645.81,Expense,Net Banking,2025,1,January,2025-01,14,Tuesday
+TXN00970,2025-01-14,Utilities,Utility payment,1357.92,Expense,Cash,2025,1,January,2025-01,14,Tuesday
+TXN01266,2025-01-14,Shopping,Shopping purchase,3825.78,Expense,Credit Card,2025,1,January,2025-01,14,Tuesday
+TXN01446,2025-01-14,Other Income,Other income received,5955.77,Income,Credit Card,2025,1,January,2025-01,14,Tuesday
+TXN00870,2025-01-15,Food,Food purchase,363.76,Expense,Cash,2025,1,January,2025-01,15,Wednesday
+TXN01240,2025-01-15,Food,Food purchase,623.13,Expense,Cash,2025,1,January,2025-01,15,Wednesday
+TXN01452,2025-01-15,Travel,Travel booking,2818.6,Expense,Credit Card,2025,1,January,2025-01,15,Wednesday
+TXN00056,2025-01-16,Food,Food purchase,423.34,Expense,Credit Card,2025,1,January,2025-01,16,Thursday
+TXN00250,2025-01-16,Transport,Local transport,413.92,Expense,Debit Card,2025,1,January,2025-01,16,Thursday
+TXN00562,2025-01-16,Travel,Travel booking,8795.78,Expense,Credit Card,2025,1,January,2025-01,16,Thursday
+TXN00817,2025-01-16,Food,Food purchase,521.16,Expense,Upi,2025,1,January,2025-01,16,Thursday
+TXN00902,2025-01-16,Transport,Local transport,490.87,Expense,Upi,2025,1,January,2025-01,16,Thursday
+TXN01019,2025-01-16,Food,Food purchase,1144.27,Expense,Cash,2025,1,January,2025-01,16,Thursday
+TXN01099,2025-01-16,Rent,Monthly rent,12738.5,Expense,Debit Card,2025,1,January,2025-01,16,Thursday
+TXN00352,2025-01-17,Transport,Local transport,543.9,Expense,Net Banking,2025,1,January,2025-01,17,Friday
+TXN00397,2025-01-17,Utilities,Utility payment,2634.11,Expense,Credit Card,2025,1,January,2025-01,17,Friday
+TXN00811,2025-01-17,Freelance,Freelance payment,34931.13,Income,Debit Card,2025,1,January,2025-01,17,Friday
+TXN01110,2025-01-17,Transport,Local transport,543.56,Expense,Upi,2025,1,January,2025-01,17,Friday
+TXN00574,2025-01-18,Utilities,Utility payment,3358.75,Expense,Upi,2025,1,January,2025-01,18,Saturday
+TXN01270,2025-01-18,Rent,Monthly rent,12653.77,Expense,Cash,2025,1,January,2025-01,18,Saturday
+TXN01286,2025-01-18,Utilities,Utility payment,2845.04,Expense,Debit Card,2025,1,January,2025-01,18,Saturday
+TXN01463,2025-01-18,Freelance,Freelance payment,3590.75,Income,Net Banking,2025,1,January,2025-01,18,Saturday
+TXN00584,2025-01-19,Travel,Travel booking,8350.9,Expense,Debit Card,2025,1,January,2025-01,19,Sunday
+TXN00699,2025-01-19,Entertainment,Entertainment activity,1919.62,Expense,Credit Card,2025,1,January,2025-01,19,Sunday
+TXN00848,2025-01-19,Food,Food purchase,498.82,Expense,Credit Card,2025,1,January,2025-01,19,Sunday
+TXN01453,2025-01-19,Education,Education expense,3529.52,Expense,Debit Card,2025,1,January,2025-01,19,Sunday
+TXN01464,2025-01-19,Shopping,Shopping purchase,3820.93,Expense,Net Banking,2025,1,January,2025-01,19,Sunday
+TXN00546,2025-01-20,Rent,Monthly rent,10796.65,Expense,Upi,2025,1,January,2025-01,20,Monday
+TXN00887,2025-01-20,Rent,Monthly rent,13430.58,Expense,Credit Card,2025,1,January,2025-01,20,Monday
+TXN00898,2025-01-20,Utilities,Utility payment,2577.49,Expense,Upi,2025,1,January,2025-01,20,Monday
+TXN00542,2025-01-21,Entertainment,Entertainment activity,242.76,Expense,Upi,2025,1,January,2025-01,21,Tuesday
+TXN00858,2025-01-21,Transport,Local transport,527.75,Expense,Debit Card,2025,1,January,2025-01,21,Tuesday
+TXN01021,2025-01-21,Entertainment,Entertainment activity,1923.39,Expense,Net Banking,2025,1,January,2025-01,21,Tuesday
+TXN01026,2025-01-21,Shopping,Shopping purchase,4135.09,Expense,Net Banking,2025,1,January,2025-01,21,Tuesday
+TXN01267,2025-01-21,Transport,Local transport,499.26,Expense,Upi,2025,1,January,2025-01,21,Tuesday
+TXN00150,2025-01-22,Shopping,Shopping purchase,2865.23,Expense,Credit Card,2025,1,January,2025-01,22,Wednesday
+TXN01136,2025-01-22,Transport,Local transport,557.64,Expense,Upi,2025,1,January,2025-01,22,Wednesday
+TXN00619,2025-01-23,Food,Food purchase,1120.32,Expense,Cash,2025,1,January,2025-01,23,Thursday
+TXN01351,2025-01-23,Utilities,Utility payment,1217.87,Expense,Cash,2025,1,January,2025-01,23,Thursday
+TXN01411,2025-01-23,Other Income,Other income received,4324.51,Income,Net Banking,2025,1,January,2025-01,23,Thursday
+TXN01470,2025-01-23,Transport,Local transport,395.91,Expense,Net Banking,2025,1,January,2025-01,23,Thursday
+TXN00036,2025-01-24,Other Income,Other income received,9252.61,Income,Upi,2025,1,January,2025-01,24,Friday
+TXN00279,2025-01-24,Utilities,Utility payment,2953.08,Expense,Cash,2025,1,January,2025-01,24,Friday
+TXN01456,2025-01-24,Entertainment,Entertainment activity,390.89,Expense,Credit Card,2025,1,January,2025-01,24,Friday
+TXN00045,2025-01-25,Food,Food purchase,393.99,Expense,Upi,2025,1,January,2025-01,25,Saturday
+TXN00387,2025-01-25,Shopping,Shopping purchase,2429.13,Expense,Upi,2025,1,January,2025-01,25,Saturday
+TXN00518,2025-01-25,Travel,Travel booking,6915.77,Expense,Upi,2025,1,January,2025-01,25,Saturday
+TXN01035,2025-01-25,Salary,Salary received,59948.85,Income,Cash,2025,1,January,2025-01,25,Saturday
+TXN01362,2025-01-25,Shopping,Shopping purchase,1772.06,Expense,Cash,2025,1,January,2025-01,25,Saturday
+TXN00899,2025-01-26,Travel,Travel booking,8655.13,Expense,Debit Card,2025,1,January,2025-01,26,Sunday
+TXN00659,2025-01-27,Education,Education expense,5552.61,Expense,Debit Card,2025,1,January,2025-01,27,Monday
+TXN01022,2025-01-27,Utilities,Utility payment,2203.24,Expense,Debit Card,2025,1,January,2025-01,27,Monday
+TXN00069,2025-01-28,Entertainment,Entertainment activity,1042.95,Expense,Upi,2025,1,January,2025-01,28,Tuesday
+TXN01055,2025-01-28,Healthcare,Healthcare expense,2902.89,Expense,Upi,2025,1,January,2025-01,28,Tuesday
+TXN01215,2025-01-28,Utilities,Utility payment,2704.24,Expense,Upi,2025,1,January,2025-01,28,Tuesday
+TXN01253,2025-01-28,Travel,Travel booking,506.1,Expense,Net Banking,2025,1,January,2025-01,28,Tuesday
+TXN00127,2025-01-29,Rent,Monthly rent,13721.04,Expense,Upi,2025,1,January,2025-01,29,Wednesday
+TXN00217,2025-01-29,Travel,Travel booking,8360.69,Expense,Debit Card,2025,1,January,2025-01,29,Wednesday
+TXN01027,2025-01-29,Healthcare,Healthcare expense,1985.53,Expense,Cash,2025,1,January,2025-01,29,Wednesday
+TXN00439,2025-01-30,Food,Food purchase,343.39,Expense,Net Banking,2025,1,January,2025-01,30,Thursday
+TXN01096,2025-01-30,Entertainment,Entertainment activity,1376.59,Expense,Debit Card,2025,1,January,2025-01,30,Thursday
+TXN00246,2025-01-31,Shopping,Shopping purchase,2706.28,Expense,Net Banking,2025,1,January,2025-01,31,Friday
+TXN00280,2025-01-31,Rent,Monthly rent,11312.86,Expense,Debit Card,2025,1,January,2025-01,31,Friday
+TXN00431,2025-01-31,Utilities,Utility payment,2861.85,Expense,Credit Card,2025,1,January,2025-01,31,Friday
+TXN00678,2025-01-31,Food,Food purchase,726.37,Expense,Debit Card,2025,1,January,2025-01,31,Friday
+TXN01122,2025-01-31,Shopping,Shopping purchase,374.27,Expense,Net Banking,2025,1,January,2025-01,31,Friday
+TXN01256,2025-01-31,Education,Education expense,3489.23,Expense,Upi,2025,1,January,2025-01,31,Friday
+TXN01328,2025-01-31,Food,Food purchase,345.18,Expense,Debit Card,2025,1,January,2025-01,31,Friday
+TXN01361,2025-01-31,Shopping,Shopping purchase,3349.03,Expense,Net Banking,2025,1,January,2025-01,31,Friday
+TXN00007,2025-02-01,Transport,Local transport,730.54,Expense,Net Banking,2025,2,February,2025-02,1,Saturday
+TXN00196,2025-02-01,Transport,Local transport,470.11,Expense,Net Banking,2025,2,February,2025-02,1,Saturday
+TXN00753,2025-02-01,Rent,Monthly rent,7448.55,Expense,Cash,2025,2,February,2025-02,1,Saturday
+TXN00881,2025-02-01,Shopping,Shopping purchase,2248.62,Expense,Debit Card,2025,2,February,2025-02,1,Saturday
+TXN00001,2025-02-02,Transport,Local transport,441.11,Expense,Credit Card,2025,2,February,2025-02,2,Sunday
+TXN00172,2025-02-02,Education,Education expense,1348.29,Expense,Upi,2025,2,February,2025-02,2,Sunday
+TXN00695,2025-02-02,Food,Food purchase,376.14,Expense,Cash,2025,2,February,2025-02,2,Sunday
+TXN00728,2025-02-02,Travel,Travel booking,7245.01,Expense,Credit Card,2025,2,February,2025-02,2,Sunday
+TXN00033,2025-02-03,Other Income,Other income received,29754.64,Income,Debit Card,2025,2,February,2025-02,3,Monday
+TXN00133,2025-02-03,Travel,Travel booking,1930.71,Expense,Net Banking,2025,2,February,2025-02,3,Monday
+TXN00359,2025-02-03,Travel,Travel booking,6827.5,Expense,Upi,2025,2,February,2025-02,3,Monday
+TXN00826,2025-02-03,Transport,Local transport,728.24,Expense,Cash,2025,2,February,2025-02,3,Monday
+TXN00910,2025-02-03,Food,Food purchase,408.92,Expense,Net Banking,2025,2,February,2025-02,3,Monday
+TXN00010,2025-02-04,Shopping,Shopping purchase,2259.67,Expense,Cash,2025,2,February,2025-02,4,Tuesday
+TXN00243,2025-02-04,Utilities,Utility payment,463.02,Expense,Cash,2025,2,February,2025-02,4,Tuesday
+TXN00376,2025-02-04,Shopping,Shopping purchase,2227.98,Expense,Credit Card,2025,2,February,2025-02,4,Tuesday
+TXN00581,2025-02-04,Utilities,Utility payment,1010.25,Expense,Credit Card,2025,2,February,2025-02,4,Tuesday
+TXN00674,2025-02-04,Rent,Monthly rent,11741.44,Expense,Upi,2025,2,February,2025-02,4,Tuesday
+TXN00700,2025-02-04,Food,Food purchase,1056.59,Expense,Upi,2025,2,February,2025-02,4,Tuesday
+TXN00791,2025-02-04,Utilities,Utility payment,1515.1,Expense,Debit Card,2025,2,February,2025-02,4,Tuesday
+TXN00951,2025-02-04,Salary,Salary received,7167.84,Income,Debit Card,2025,2,February,2025-02,4,Tuesday
+TXN00977,2025-02-04,Rent,Monthly rent,11771.76,Expense,Credit Card,2025,2,February,2025-02,4,Tuesday
+TXN00087,2025-02-05,Utilities,Utility payment,3078.36,Expense,Credit Card,2025,2,February,2025-02,5,Wednesday
+TXN00218,2025-02-05,Food,Food purchase,732.47,Expense,Upi,2025,2,February,2025-02,5,Wednesday
+TXN00588,2025-02-06,Entertainment,Entertainment activity,613.89,Expense,Net Banking,2025,2,February,2025-02,6,Thursday
+TXN00891,2025-02-06,Utilities,Utility payment,1270.68,Expense,Upi,2025,2,February,2025-02,6,Thursday
+TXN00258,2025-02-07,Transport,Local transport,751.54,Expense,Cash,2025,2,February,2025-02,7,Friday
+TXN00580,2025-02-07,Salary,Salary received,4903.61,Income,Cash,2025,2,February,2025-02,7,Friday
+TXN01289,2025-02-07,Entertainment,Entertainment activity,393.44,Expense,Credit Card,2025,2,February,2025-02,7,Friday
+TXN01359,2025-02-07,Rent,Monthly rent,6989.57,Expense,Net Banking,2025,2,February,2025-02,7,Friday
+TXN01436,2025-02-07,Food,Food purchase,158.74,Expense,Debit Card,2025,2,February,2025-02,7,Friday
+TXN01450,2025-02-07,Healthcare,Healthcare expense,1777.1,Expense,Credit Card,2025,2,February,2025-02,7,Friday
+TXN00171,2025-02-08,Food,Food purchase,192.42,Expense,Debit Card,2025,2,February,2025-02,8,Saturday
+TXN00460,2025-02-08,Rent,Monthly rent,11428.04,Expense,Debit Card,2025,2,February,2025-02,8,Saturday
+TXN00516,2025-02-08,Utilities,Utility payment,3323.38,Expense,Debit Card,2025,2,February,2025-02,8,Saturday
+TXN00583,2025-02-08,Shopping,Shopping purchase,2421.43,Expense,Upi,2025,2,February,2025-02,8,Saturday
+TXN00818,2025-02-08,Food,Food purchase,259.23,Expense,Upi,2025,2,February,2025-02,8,Saturday
+TXN01166,2025-02-08,Food,Food purchase,316.89,Expense,Cash,2025,2,February,2025-02,8,Saturday
+TXN00310,2025-02-09,Healthcare,Healthcare expense,220.88,Expense,Net Banking,2025,2,February,2025-02,9,Sunday
+TXN00322,2025-02-09,Entertainment,Entertainment activity,1159.41,Expense,Credit Card,2025,2,February,2025-02,9,Sunday
+TXN00480,2025-02-09,Food,Food purchase,1076.84,Expense,Upi,2025,2,February,2025-02,9,Sunday
+TXN01227,2025-02-09,Shopping,Shopping purchase,4168.23,Expense,Credit Card,2025,2,February,2025-02,9,Sunday
+TXN01272,2025-02-09,Food,Food purchase,1048.47,Expense,Credit Card,2025,2,February,2025-02,9,Sunday
+TXN00808,2025-02-10,Shopping,Shopping purchase,927.99,Expense,Debit Card,2025,2,February,2025-02,10,Monday
+TXN01466,2025-02-10,Food,Food purchase,1007.22,Expense,Debit Card,2025,2,February,2025-02,10,Monday
+TXN01484,2025-02-10,Travel,Travel booking,6001.96,Expense,Upi,2025,2,February,2025-02,10,Monday
+TXN01489,2025-02-10,Rent,Monthly rent,12957.95,Expense,Net Banking,2025,2,February,2025-02,10,Monday
+TXN00120,2025-02-11,Food,Food purchase,649.66,Expense,Cash,2025,2,February,2025-02,11,Tuesday
+TXN00501,2025-02-11,Food,Food purchase,309.09,Expense,Credit Card,2025,2,February,2025-02,11,Tuesday
+TXN00873,2025-02-11,Utilities,Utility payment,1360.0,Expense,Net Banking,2025,2,February,2025-02,11,Tuesday
+TXN01216,2025-02-11,Food,Food purchase,961.97,Expense,Credit Card,2025,2,February,2025-02,11,Tuesday
+TXN01321,2025-02-11,Education,Education expense,4619.3,Expense,Credit Card,2025,2,February,2025-02,11,Tuesday
+TXN00365,2025-02-12,Travel,Travel booking,3075.81,Expense,Debit Card,2025,2,February,2025-02,12,Wednesday
+TXN00538,2025-02-12,Transport,Local transport,445.16,Expense,Net Banking,2025,2,February,2025-02,12,Wednesday
+TXN00726,2025-02-12,Shopping,Shopping purchase,4133.73,Expense,Debit Card,2025,2,February,2025-02,12,Wednesday
+TXN01020,2025-02-12,Utilities,Utility payment,748.58,Expense,Upi,2025,2,February,2025-02,12,Wednesday
+TXN00198,2025-02-13,Education,Education expense,2544.8,Expense,Debit Card,2025,2,February,2025-02,13,Thursday
+TXN00313,2025-02-13,Transport,Local transport,604.98,Expense,Credit Card,2025,2,February,2025-02,13,Thursday
+TXN00497,2025-02-13,Entertainment,Entertainment activity,491.92,Expense,Credit Card,2025,2,February,2025-02,13,Thursday
+TXN00724,2025-02-13,Shopping,Shopping purchase,4666.85,Expense,Cash,2025,2,February,2025-02,13,Thursday
+TXN00778,2025-02-13,Shopping,Shopping purchase,4326.47,Expense,Debit Card,2025,2,February,2025-02,13,Thursday
+TXN00863,2025-02-13,Utilities,Utility payment,2575.72,Expense,Credit Card,2025,2,February,2025-02,13,Thursday
+TXN00946,2025-02-13,Shopping,Shopping purchase,2062.66,Expense,Net Banking,2025,2,February,2025-02,13,Thursday
+TXN01050,2025-02-13,Entertainment,Entertainment activity,150.31,Expense,Cash,2025,2,February,2025-02,13,Thursday
+TXN01157,2025-02-13,Shopping,Shopping purchase,2676.31,Expense,Cash,2025,2,February,2025-02,13,Thursday
+TXN01343,2025-02-13,Entertainment,Entertainment activity,1631.38,Expense,Debit Card,2025,2,February,2025-02,13,Thursday
+TXN00386,2025-02-14,Transport,Local transport,360.02,Expense,Upi,2025,2,February,2025-02,14,Friday
+TXN00418,2025-02-14,Shopping,Shopping purchase,536.55,Expense,Net Banking,2025,2,February,2025-02,14,Friday
+TXN00783,2025-02-14,Shopping,Shopping purchase,1418.68,Expense,Net Banking,2025,2,February,2025-02,14,Friday
+TXN00784,2025-02-14,Healthcare,Healthcare expense,997.4,Expense,Upi,2025,2,February,2025-02,14,Friday
+TXN00436,2025-02-15,Utilities,Utility payment,2665.35,Expense,Net Banking,2025,2,February,2025-02,15,Saturday
+TXN00874,2025-02-15,Food,Food purchase,572.31,Expense,Debit Card,2025,2,February,2025-02,15,Saturday
+TXN01238,2025-02-15,Healthcare,Healthcare expense,3009.92,Expense,Debit Card,2025,2,February,2025-02,15,Saturday
+TXN00018,2025-02-16,Food,Food purchase,633.83,Expense,Cash,2025,2,February,2025-02,16,Sunday
+TXN00157,2025-02-16,Shopping,Shopping purchase,2868.21,Expense,Credit Card,2025,2,February,2025-02,16,Sunday
+TXN00221,2025-02-16,Freelance,Freelance payment,18891.79,Income,Upi,2025,2,February,2025-02,16,Sunday
+TXN00759,2025-02-16,Food,Food purchase,141.43,Expense,Net Banking,2025,2,February,2025-02,16,Sunday
+TXN01005,2025-02-16,Other Income,Other income received,7659.49,Income,Cash,2025,2,February,2025-02,16,Sunday
+TXN00074,2025-02-17,Healthcare,Healthcare expense,413.08,Expense,Credit Card,2025,2,February,2025-02,17,Monday
+TXN00434,2025-02-17,Food,Food purchase,720.08,Expense,Credit Card,2025,2,February,2025-02,17,Monday
+TXN00705,2025-02-17,Rent,Monthly rent,10178.79,Expense,Cash,2025,2,February,2025-02,17,Monday
+TXN00945,2025-02-17,Healthcare,Healthcare expense,2626.72,Expense,Upi,2025,2,February,2025-02,17,Monday
+TXN00414,2025-02-18,Food,Food purchase,332.88,Expense,Upi,2025,2,February,2025-02,18,Tuesday
+TXN00443,2025-02-18,Education,Education expense,5279.28,Expense,Cash,2025,2,February,2025-02,18,Tuesday
+TXN00670,2025-02-18,Travel,Travel booking,7234.19,Expense,Upi,2025,2,February,2025-02,18,Tuesday
+TXN00948,2025-02-18,Utilities,Utility payment,601.12,Expense,Upi,2025,2,February,2025-02,18,Tuesday
+TXN00604,2025-02-19,Transport,Local transport,277.04,Expense,Upi,2025,2,February,2025-02,19,Wednesday
+TXN00823,2025-02-19,Shopping,Shopping purchase,4115.67,Expense,Net Banking,2025,2,February,2025-02,19,Wednesday
+TXN01342,2025-02-19,Education,Education expense,2102.81,Expense,Upi,2025,2,February,2025-02,19,Wednesday
+TXN01358,2025-02-19,Travel,Travel booking,2841.52,Expense,Debit Card,2025,2,February,2025-02,19,Wednesday
+TXN00682,2025-02-20,Entertainment,Entertainment activity,494.51,Expense,Net Banking,2025,2,February,2025-02,20,Thursday
+TXN00721,2025-02-20,Travel,Travel booking,4956.77,Expense,Debit Card,2025,2,February,2025-02,20,Thursday
+TXN01445,2025-02-20,Entertainment,Entertainment activity,1528.71,Expense,Cash,2025,2,February,2025-02,20,Thursday
+TXN00100,2025-02-21,Travel,Travel booking,725.69,Expense,Net Banking,2025,2,February,2025-02,21,Friday
+TXN00118,2025-02-21,Utilities,Utility payment,1639.44,Expense,Credit Card,2025,2,February,2025-02,21,Friday
+TXN00241,2025-02-21,Other Income,Other income received,30471.29,Income,Credit Card,2025,2,February,2025-02,21,Friday
+TXN00306,2025-02-21,Healthcare,Healthcare expense,2801.81,Expense,Debit Card,2025,2,February,2025-02,21,Friday
+TXN00329,2025-02-21,Entertainment,Entertainment activity,332.35,Expense,Cash,2025,2,February,2025-02,21,Friday
+TXN00462,2025-02-21,Utilities,Utility payment,1091.22,Expense,Net Banking,2025,2,February,2025-02,21,Friday
+TXN00620,2025-02-21,Rent,Monthly rent,5362.22,Expense,Credit Card,2025,2,February,2025-02,21,Friday
+TXN00769,2025-02-21,Food,Food purchase,425.09,Expense,Debit Card,2025,2,February,2025-02,21,Friday
+TXN01090,2025-02-21,Utilities,Utility payment,1966.47,Expense,Debit Card,2025,2,February,2025-02,21,Friday
+TXN01187,2025-02-21,Shopping,Shopping purchase,1778.17,Expense,Cash,2025,2,February,2025-02,21,Friday
+TXN00256,2025-02-22,Rent,Monthly rent,5533.25,Expense,Net Banking,2025,2,February,2025-02,22,Saturday
+TXN00408,2025-02-22,Food,Food purchase,700.29,Expense,Upi,2025,2,February,2025-02,22,Saturday
+TXN00528,2025-02-22,Food,Food purchase,641.16,Expense,Cash,2025,2,February,2025-02,22,Saturday
+TXN00834,2025-02-22,Salary,Salary received,4842.39,Income,Credit Card,2025,2,February,2025-02,22,Saturday
+TXN00924,2025-02-22,Food,Food purchase,1182.27,Expense,Upi,2025,2,February,2025-02,22,Saturday
+TXN01063,2025-02-22,Utilities,Utility payment,2047.37,Expense,Net Banking,2025,2,February,2025-02,22,Saturday
+TXN00522,2025-02-23,Rent,Monthly rent,12995.13,Expense,Credit Card,2025,2,February,2025-02,23,Sunday
+TXN00752,2025-02-23,Travel,Travel booking,6143.91,Expense,Net Banking,2025,2,February,2025-02,23,Sunday
+TXN00975,2025-02-23,Shopping,Shopping purchase,867.22,Expense,Debit Card,2025,2,February,2025-02,23,Sunday
+TXN00457,2025-02-24,Entertainment,Entertainment activity,1795.72,Expense,Net Banking,2025,2,February,2025-02,24,Monday
+TXN00938,2025-02-24,Shopping,Shopping purchase,4347.56,Expense,Net Banking,2025,2,February,2025-02,24,Monday
+TXN01104,2025-02-24,Utilities,Utility payment,1352.62,Expense,Debit Card,2025,2,February,2025-02,24,Monday
+TXN00182,2025-02-25,Rent,Monthly rent,12183.51,Expense,Cash,2025,2,February,2025-02,25,Tuesday
+TXN00273,2025-02-25,Travel,Travel booking,3996.89,Expense,Upi,2025,2,February,2025-02,25,Tuesday
+TXN00357,2025-02-25,Food,Food purchase,756.33,Expense,Debit Card,2025,2,February,2025-02,25,Tuesday
+TXN00390,2025-02-25,Healthcare,Healthcare expense,873.69,Expense,Net Banking,2025,2,February,2025-02,25,Tuesday
+TXN01481,2025-02-25,Transport,Local transport,750.93,Expense,Net Banking,2025,2,February,2025-02,25,Tuesday
+TXN00058,2025-02-26,Food,Food purchase,545.82,Expense,Cash,2025,2,February,2025-02,26,Wednesday
+TXN00533,2025-02-26,Shopping,Shopping purchase,3261.39,Expense,Cash,2025,2,February,2025-02,26,Wednesday
+TXN00536,2025-02-26,Travel,Travel booking,7072.91,Expense,Credit Card,2025,2,February,2025-02,26,Wednesday
+TXN00884,2025-02-26,Healthcare,Healthcare expense,267.53,Expense,Debit Card,2025,2,February,2025-02,26,Wednesday
+TXN00961,2025-02-26,Utilities,Utility payment,1425.45,Expense,Cash,2025,2,February,2025-02,26,Wednesday
+TXN01046,2025-02-26,Transport,Local transport,774.05,Expense,Debit Card,2025,2,February,2025-02,26,Wednesday
+TXN01229,2025-02-26,Utilities,Utility payment,3282.75,Expense,Credit Card,2025,2,February,2025-02,26,Wednesday
+TXN01406,2025-02-26,Education,Education expense,681.03,Expense,Net Banking,2025,2,February,2025-02,26,Wednesday
+TXN00750,2025-02-27,Healthcare,Healthcare expense,482.51,Expense,Net Banking,2025,2,February,2025-02,27,Thursday
+TXN00847,2025-02-27,Food,Food purchase,146.1,Expense,Credit Card,2025,2,February,2025-02,27,Thursday
+TXN00937,2025-02-27,Shopping,Shopping purchase,3689.65,Expense,Debit Card,2025,2,February,2025-02,27,Thursday
+TXN00083,2025-02-28,Rent,Monthly rent,13267.62,Expense,Net Banking,2025,2,February,2025-02,28,Friday
+TXN00178,2025-02-28,Education,Education expense,4212.71,Expense,Credit Card,2025,2,February,2025-02,28,Friday
+TXN00287,2025-02-28,Rent,Monthly rent,12814.66,Expense,Upi,2025,2,February,2025-02,28,Friday
+TXN01076,2025-03-01,Food,Food purchase,1023.91,Expense,Upi,2025,3,March,2025-03,1,Saturday
+TXN01487,2025-03-01,Food,Food purchase,343.27,Expense,Cash,2025,3,March,2025-03,1,Saturday
+TXN00041,2025-03-02,Food,Food purchase,1167.88,Expense,Cash,2025,3,March,2025-03,2,Sunday
+TXN00168,2025-03-02,Food,Food purchase,656.78,Expense,Cash,2025,3,March,2025-03,2,Sunday
+TXN00187,2025-03-02,Travel,Travel booking,6081.46,Expense,Credit Card,2025,3,March,2025-03,2,Sunday
+TXN00350,2025-03-02,Food,Food purchase,1143.26,Expense,Cash,2025,3,March,2025-03,2,Sunday
+TXN00467,2025-03-02,Transport,Local transport,417.45,Expense,Net Banking,2025,3,March,2025-03,2,Sunday
+TXN00532,2025-03-02,Rent,Monthly rent,6033.23,Expense,Cash,2025,3,March,2025-03,2,Sunday
+TXN00623,2025-03-02,Rent,Monthly rent,5202.61,Expense,Net Banking,2025,3,March,2025-03,2,Sunday
+TXN01078,2025-03-02,Shopping,Shopping purchase,4274.11,Expense,Upi,2025,3,March,2025-03,2,Sunday
+TXN00685,2025-03-03,Food,Food purchase,816.86,Expense,Credit Card,2025,3,March,2025-03,3,Monday
+TXN00703,2025-03-03,Education,Education expense,1058.09,Expense,Net Banking,2025,3,March,2025-03,3,Monday
+TXN00262,2025-03-04,Entertainment,Entertainment activity,897.55,Expense,Debit Card,2025,3,March,2025-03,4,Tuesday
+TXN00704,2025-03-04,Travel,Travel booking,9177.12,Expense,Debit Card,2025,3,March,2025-03,4,Tuesday
+TXN01193,2025-03-04,Rent,Monthly rent,5404.32,Expense,Net Banking,2025,3,March,2025-03,4,Tuesday
+TXN01433,2025-03-04,Education,Education expense,2669.13,Expense,Upi,2025,3,March,2025-03,4,Tuesday
+TXN00259,2025-03-05,Healthcare,Healthcare expense,2176.42,Expense,Net Banking,2025,3,March,2025-03,5,Wednesday
+TXN00411,2025-03-05,Food,Food purchase,1016.8,Expense,Debit Card,2025,3,March,2025-03,5,Wednesday
+TXN00544,2025-03-05,Transport,Local transport,791.1,Expense,Cash,2025,3,March,2025-03,5,Wednesday
+TXN00908,2025-03-05,Education,Education expense,530.1,Expense,Credit Card,2025,3,March,2025-03,5,Wednesday
+TXN01032,2025-03-05,Freelance,Freelance payment,2154.62,Income,Cash,2025,3,March,2025-03,5,Wednesday
+TXN00230,2025-03-06,Food,Food purchase,1135.77,Expense,Net Banking,2025,3,March,2025-03,6,Thursday
+TXN00661,2025-03-06,Education,Education expense,4285.5,Expense,Credit Card,2025,3,March,2025-03,6,Thursday
+TXN00761,2025-03-06,Food,Food purchase,386.88,Expense,Debit Card,2025,3,March,2025-03,6,Thursday
+TXN01174,2025-03-06,Rent,Monthly rent,9026.13,Expense,Debit Card,2025,3,March,2025-03,6,Thursday
+TXN01405,2025-03-06,Entertainment,Entertainment activity,703.54,Expense,Debit Card,2025,3,March,2025-03,6,Thursday
+TXN00251,2025-03-07,Food,Food purchase,88.96,Expense,Cash,2025,3,March,2025-03,7,Friday
+TXN00349,2025-03-07,Education,Education expense,5666.53,Expense,Net Banking,2025,3,March,2025-03,7,Friday
+TXN00392,2025-03-07,Utilities,Utility payment,2731.95,Expense,Net Banking,2025,3,March,2025-03,7,Friday
+TXN00023,2025-03-08,Entertainment,Entertainment activity,1533.68,Expense,Net Banking,2025,3,March,2025-03,8,Saturday
+TXN00469,2025-03-08,Salary,Salary received,8056.55,Income,Net Banking,2025,3,March,2025-03,8,Saturday
+TXN00564,2025-03-08,Food,Food purchase,95.94,Expense,Debit Card,2025,3,March,2025-03,8,Saturday
+TXN00635,2025-03-08,Travel,Travel booking,5709.78,Expense,Credit Card,2025,3,March,2025-03,8,Saturday
+TXN00912,2025-03-08,Entertainment,Entertainment activity,1932.3,Expense,Credit Card,2025,3,March,2025-03,8,Saturday
+TXN01106,2025-03-08,Other Income,Other income received,33544.72,Income,Net Banking,2025,3,March,2025-03,8,Saturday
+TXN01432,2025-03-09,Travel,Travel booking,2124.53,Expense,Upi,2025,3,March,2025-03,9,Sunday
+TXN00253,2025-03-10,Food,Food purchase,1143.07,Expense,Cash,2025,3,March,2025-03,10,Monday
+TXN01326,2025-03-10,Shopping,Shopping purchase,2057.68,Expense,Upi,2025,3,March,2025-03,10,Monday
+TXN01345,2025-03-10,Other Income,Other income received,27676.52,Income,Credit Card,2025,3,March,2025-03,10,Monday
+TXN00072,2025-03-11,Entertainment,Entertainment activity,227.26,Expense,Debit Card,2025,3,March,2025-03,11,Tuesday
+TXN01178,2025-03-11,Healthcare,Healthcare expense,3526.04,Expense,Upi,2025,3,March,2025-03,11,Tuesday
+TXN00523,2025-03-12,Rent,Monthly rent,13874.23,Expense,Debit Card,2025,3,March,2025-03,12,Wednesday
+TXN00888,2025-03-12,Travel,Travel booking,1039.77,Expense,Debit Card,2025,3,March,2025-03,12,Wednesday
+TXN01113,2025-03-12,Travel,Travel booking,6058.9,Expense,Net Banking,2025,3,March,2025-03,12,Wednesday
+TXN01115,2025-03-12,Entertainment,Entertainment activity,697.93,Expense,Credit Card,2025,3,March,2025-03,12,Wednesday
+TXN00052,2025-03-13,Transport,Local transport,612.51,Expense,Net Banking,2025,3,March,2025-03,13,Thursday
+TXN00398,2025-03-13,Utilities,Utility payment,2856.0,Expense,Cash,2025,3,March,2025-03,13,Thursday
+TXN00543,2025-03-13,Shopping,Shopping purchase,3751.19,Expense,Debit Card,2025,3,March,2025-03,13,Thursday
+TXN00993,2025-03-13,Food,Food purchase,1107.03,Expense,Debit Card,2025,3,March,2025-03,13,Thursday
+TXN00102,2025-03-14,Food,Food purchase,1031.67,Expense,Net Banking,2025,3,March,2025-03,14,Friday
+TXN00426,2025-03-14,Utilities,Utility payment,1903.15,Expense,Debit Card,2025,3,March,2025-03,14,Friday
+TXN00838,2025-03-14,Shopping,Shopping purchase,2377.35,Expense,Upi,2025,3,March,2025-03,14,Friday
+TXN00009,2025-03-15,Salary,Salary received,5313.74,Income,Debit Card,2025,3,March,2025-03,15,Saturday
+TXN00224,2025-03-15,Travel,Travel booking,5437.66,Expense,Cash,2025,3,March,2025-03,15,Saturday
+TXN00339,2025-03-15,Shopping,Shopping purchase,2365.23,Expense,Cash,2025,3,March,2025-03,15,Saturday
+TXN00653,2025-03-15,Travel,Travel booking,1917.66,Expense,Net Banking,2025,3,March,2025-03,15,Saturday
+TXN00664,2025-03-15,Travel,Travel booking,6898.38,Expense,Debit Card,2025,3,March,2025-03,15,Saturday
+TXN00872,2025-03-15,Salary,Salary received,5836.59,Income,Net Banking,2025,3,March,2025-03,15,Saturday
+TXN01085,2025-03-15,Food,Food purchase,471.69,Expense,Credit Card,2025,3,March,2025-03,15,Saturday
+TXN01364,2025-03-15,Other Income,Other income received,3757.12,Income,Cash,2025,3,March,2025-03,15,Saturday
+TXN01474,2025-03-17,Food,Food purchase,546.06,Expense,Net Banking,2025,3,March,2025-03,17,Monday
+TXN00735,2025-03-18,Entertainment,Entertainment activity,226.07,Expense,Debit Card,2025,3,March,2025-03,18,Tuesday
+TXN01072,2025-03-18,Shopping,Shopping purchase,2283.37,Expense,Cash,2025,3,March,2025-03,18,Tuesday
+TXN00142,2025-03-20,Travel,Travel booking,7682.72,Expense,Credit Card,2025,3,March,2025-03,20,Thursday
+TXN01395,2025-03-20,Transport,Local transport,69.89,Expense,Upi,2025,3,March,2025-03,20,Thursday
+TXN00903,2025-03-21,Transport,Local transport,302.47,Expense,Debit Card,2025,3,March,2025-03,21,Friday
+TXN00964,2025-03-21,Education,Education expense,3623.24,Expense,Net Banking,2025,3,March,2025-03,21,Friday
+TXN01355,2025-03-22,Entertainment,Entertainment activity,1877.55,Expense,Debit Card,2025,3,March,2025-03,22,Saturday
+TXN00363,2025-03-23,Entertainment,Entertainment activity,1036.39,Expense,Credit Card,2025,3,March,2025-03,23,Sunday
+TXN01257,2025-03-23,Shopping,Shopping purchase,2583.48,Expense,Net Banking,2025,3,March,2025-03,23,Sunday
+TXN00032,2025-03-24,Travel,Travel booking,2286.99,Expense,Upi,2025,3,March,2025-03,24,Monday
+TXN00078,2025-03-24,Transport,Local transport,182.55,Expense,Credit Card,2025,3,March,2025-03,24,Monday
+TXN00976,2025-03-24,Food,Food purchase,979.01,Expense,Debit Card,2025,3,March,2025-03,24,Monday
+TXN00412,2025-03-25,Entertainment,Entertainment activity,853.45,Expense,Cash,2025,3,March,2025-03,25,Tuesday
+TXN00567,2025-03-25,Freelance,Freelance payment,4489.1,Income,Net Banking,2025,3,March,2025-03,25,Tuesday
+TXN00326,2025-03-26,Transport,Local transport,507.34,Expense,Upi,2025,3,March,2025-03,26,Wednesday
+TXN00486,2025-03-26,Food,Food purchase,579.04,Expense,Credit Card,2025,3,March,2025-03,26,Wednesday
+TXN00626,2025-03-26,Food,Food purchase,299.31,Expense,Cash,2025,3,March,2025-03,26,Wednesday
+TXN01112,2025-03-26,Travel,Travel booking,3789.04,Expense,Cash,2025,3,March,2025-03,26,Wednesday
+TXN01479,2025-03-26,Food,Food purchase,866.06,Expense,Net Banking,2025,3,March,2025-03,26,Wednesday
+TXN00148,2025-03-27,Food,Food purchase,267.91,Expense,Credit Card,2025,3,March,2025-03,27,Thursday
+TXN00637,2025-03-27,Healthcare,Healthcare expense,194.49,Expense,Debit Card,2025,3,March,2025-03,27,Thursday
+TXN01288,2025-03-27,Food,Food purchase,731.0,Expense,Credit Card,2025,3,March,2025-03,27,Thursday
+TXN01291,2025-03-27,Transport,Local transport,714.37,Expense,Net Banking,2025,3,March,2025-03,27,Thursday
+TXN01386,2025-03-27,Shopping,Shopping purchase,496.7,Expense,Upi,2025,3,March,2025-03,27,Thursday
+TXN00327,2025-03-28,Shopping,Shopping purchase,3544.28,Expense,Debit Card,2025,3,March,2025-03,28,Friday
+TXN00510,2025-03-28,Travel,Travel booking,5488.39,Expense,Net Banking,2025,3,March,2025-03,28,Friday
+TXN00566,2025-03-28,Healthcare,Healthcare expense,2278.83,Expense,Upi,2025,3,March,2025-03,28,Friday
+TXN00719,2025-03-28,Other Income,Other income received,5216.91,Income,Debit Card,2025,3,March,2025-03,28,Friday
+TXN01308,2025-03-28,Shopping,Shopping purchase,4644.04,Expense,Cash,2025,3,March,2025-03,28,Friday
+TXN00097,2025-03-29,Rent,Monthly rent,13625.48,Expense,Debit Card,2025,3,March,2025-03,29,Saturday
+TXN00189,2025-03-29,Education,Education expense,2735.34,Expense,Net Banking,2025,3,March,2025-03,29,Saturday
+TXN00384,2025-03-29,Healthcare,Healthcare expense,2557.59,Expense,Credit Card,2025,3,March,2025-03,29,Saturday
+TXN00593,2025-03-29,Shopping,Shopping purchase,2303.54,Expense,Net Banking,2025,3,March,2025-03,29,Saturday
+TXN00832,2025-03-29,Transport,Local transport,117.71,Expense,Credit Card,2025,3,March,2025-03,29,Saturday
+TXN00854,2025-03-29,Utilities,Utility payment,2734.68,Expense,Credit Card,2025,3,March,2025-03,29,Saturday
+TXN01047,2025-03-29,Entertainment,Entertainment activity,1536.96,Expense,Credit Card,2025,3,March,2025-03,29,Saturday
+TXN01265,2025-03-29,Rent,Monthly rent,14189.1,Expense,Upi,2025,3,March,2025-03,29,Saturday
+TXN01124,2025-03-30,Travel,Travel booking,2050.19,Expense,Debit Card,2025,3,March,2025-03,30,Sunday
+TXN01251,2025-03-30,Education,Education expense,2601.36,Expense,Net Banking,2025,3,March,2025-03,30,Sunday
+TXN01402,2025-03-30,Food,Food purchase,291.72,Expense,Cash,2025,3,March,2025-03,30,Sunday
+TXN00119,2025-03-31,Food,Food purchase,471.57,Expense,Credit Card,2025,3,March,2025-03,31,Monday
+TXN00315,2025-03-31,Transport,Local transport,495.04,Expense,Debit Card,2025,3,March,2025-03,31,Monday
+TXN00831,2025-03-31,Education,Education expense,1487.32,Expense,Cash,2025,3,March,2025-03,31,Monday
+TXN00857,2025-03-31,Travel,Travel booking,3649.01,Expense,Upi,2025,3,March,2025-03,31,Monday
+TXN00989,2025-03-31,Shopping,Shopping purchase,1904.98,Expense,Debit Card,2025,3,March,2025-03,31,Monday
+TXN01013,2025-03-31,Other Income,Other income received,24347.88,Income,Upi,2025,3,March,2025-03,31,Monday
+TXN01107,2025-03-31,Transport,Local transport,461.66,Expense,Cash,2025,3,March,2025-03,31,Monday
+TXN01454,2025-03-31,Food,Food purchase,836.95,Expense,Upi,2025,3,March,2025-03,31,Monday
+TXN00508,2025-04-01,Utilities,Utility payment,2534.97,Expense,Credit Card,2025,4,April,2025-04,1,Tuesday
+TXN00925,2025-04-01,Utilities,Utility payment,2469.64,Expense,Credit Card,2025,4,April,2025-04,1,Tuesday
+TXN00483,2025-04-02,Food,Food purchase,688.3,Expense,Net Banking,2025,4,April,2025-04,2,Wednesday
+TXN00568,2025-04-02,Food,Food purchase,736.24,Expense,Net Banking,2025,4,April,2025-04,2,Wednesday
+TXN00617,2025-04-02,Food,Food purchase,522.01,Expense,Debit Card,2025,4,April,2025-04,2,Wednesday
+TXN01413,2025-04-02,Rent,Monthly rent,13900.15,Expense,Credit Card,2025,4,April,2025-04,2,Wednesday
+TXN00696,2025-04-03,Entertainment,Entertainment activity,894.73,Expense,Net Banking,2025,4,April,2025-04,3,Thursday
+TXN00919,2025-04-03,Food,Food purchase,138.13,Expense,Net Banking,2025,4,April,2025-04,3,Thursday
+TXN01307,2025-04-03,Travel,Travel booking,5233.65,Expense,Cash,2025,4,April,2025-04,3,Thursday
+TXN00346,2025-04-04,Rent,Monthly rent,14133.18,Expense,Net Banking,2025,4,April,2025-04,4,Friday
+TXN00933,2025-04-04,Utilities,Utility payment,1872.84,Expense,Credit Card,2025,4,April,2025-04,4,Friday
+TXN01425,2025-04-04,Rent,Monthly rent,12906.74,Expense,Cash,2025,4,April,2025-04,4,Friday
+TXN01179,2025-04-05,Food,Food purchase,1112.93,Expense,Credit Card,2025,4,April,2025-04,5,Saturday
+TXN00211,2025-04-06,Shopping,Shopping purchase,4390.34,Expense,Upi,2025,4,April,2025-04,6,Sunday
+TXN00380,2025-04-06,Travel,Travel booking,2792.49,Expense,Credit Card,2025,4,April,2025-04,6,Sunday
+TXN01297,2025-04-06,Shopping,Shopping purchase,2504.38,Expense,Debit Card,2025,4,April,2025-04,6,Sunday
+TXN00209,2025-04-07,Shopping,Shopping purchase,1511.15,Expense,Credit Card,2025,4,April,2025-04,7,Monday
+TXN01459,2025-04-07,Food,Food purchase,554.89,Expense,Credit Card,2025,4,April,2025-04,7,Monday
+TXN00206,2025-04-08,Education,Education expense,3317.54,Expense,Cash,2025,4,April,2025-04,8,Tuesday
+TXN00292,2025-04-08,Healthcare,Healthcare expense,1804.26,Expense,Net Banking,2025,4,April,2025-04,8,Tuesday
+TXN00618,2025-04-08,Food,Food purchase,690.47,Expense,Upi,2025,4,April,2025-04,8,Tuesday
+TXN01261,2025-04-08,Food,Food purchase,1152.93,Expense,Credit Card,2025,4,April,2025-04,8,Tuesday
+TXN01429,2025-04-08,Transport,Local transport,244.18,Expense,Upi,2025,4,April,2025-04,8,Tuesday
+TXN00509,2025-04-09,Other Income,Other income received,44259.55,Income,Credit Card,2025,4,April,2025-04,9,Wednesday
+TXN00744,2025-04-09,Utilities,Utility payment,2056.65,Expense,Debit Card,2025,4,April,2025-04,9,Wednesday
+TXN00779,2025-04-09,Food,Food purchase,742.78,Expense,Credit Card,2025,4,April,2025-04,9,Wednesday
+TXN00890,2025-04-09,Healthcare,Healthcare expense,1568.5,Expense,Net Banking,2025,4,April,2025-04,9,Wednesday
+TXN01011,2025-04-09,Transport,Local transport,91.07,Expense,Cash,2025,4,April,2025-04,9,Wednesday
+TXN01123,2025-04-09,Travel,Travel booking,8624.06,Expense,Debit Card,2025,4,April,2025-04,9,Wednesday
+TXN00216,2025-04-10,Shopping,Shopping purchase,3723.28,Expense,Debit Card,2025,4,April,2025-04,10,Thursday
+TXN00143,2025-04-11,Transport,Local transport,306.59,Expense,Net Banking,2025,4,April,2025-04,11,Friday
+TXN00281,2025-04-11,Entertainment,Entertainment activity,1278.28,Expense,Debit Card,2025,4,April,2025-04,11,Friday
+TXN00505,2025-04-11,Food,Food purchase,1064.39,Expense,Cash,2025,4,April,2025-04,11,Friday
+TXN01322,2025-04-11,Shopping,Shopping purchase,874.16,Expense,Debit Card,2025,4,April,2025-04,11,Friday
+TXN01491,2025-04-11,Transport,Local transport,192.62,Expense,Credit Card,2025,4,April,2025-04,11,Friday
+TXN00039,2025-04-12,Utilities,Utility payment,939.34,Expense,Credit Card,2025,4,April,2025-04,12,Saturday
+TXN00111,2025-04-12,Utilities,Utility payment,2958.25,Expense,Debit Card,2025,4,April,2025-04,12,Saturday
+TXN00413,2025-04-12,Utilities,Utility payment,1561.07,Expense,Upi,2025,4,April,2025-04,12,Saturday
+TXN00950,2025-04-12,Healthcare,Healthcare expense,3734.0,Expense,Upi,2025,4,April,2025-04,12,Saturday
+TXN01192,2025-04-12,Shopping,Shopping purchase,1101.72,Expense,Net Banking,2025,4,April,2025-04,12,Saturday
+TXN00152,2025-04-13,Transport,Local transport,640.05,Expense,Upi,2025,4,April,2025-04,13,Sunday
+TXN00314,2025-04-13,Entertainment,Entertainment activity,1081.49,Expense,Credit Card,2025,4,April,2025-04,13,Sunday
+TXN00399,2025-04-13,Shopping,Shopping purchase,3389.98,Expense,Cash,2025,4,April,2025-04,13,Sunday
+TXN01028,2025-04-13,Shopping,Shopping purchase,2760.12,Expense,Debit Card,2025,4,April,2025-04,13,Sunday
+TXN00299,2025-04-14,Education,Education expense,2054.06,Expense,Net Banking,2025,4,April,2025-04,14,Monday
+TXN00534,2025-04-14,Entertainment,Entertainment activity,767.68,Expense,Debit Card,2025,4,April,2025-04,14,Monday
+TXN00573,2025-04-14,Food,Food purchase,112.16,Expense,Upi,2025,4,April,2025-04,14,Monday
+TXN00814,2025-04-14,Travel,Travel booking,8886.69,Expense,Cash,2025,4,April,2025-04,14,Monday
+TXN01209,2025-04-14,Education,Education expense,318.57,Expense,Debit Card,2025,4,April,2025-04,14,Monday
+TXN01382,2025-04-14,Utilities,Utility payment,3388.45,Expense,Credit Card,2025,4,April,2025-04,14,Monday
+TXN01410,2025-04-14,Food,Food purchase,115.88,Expense,Upi,2025,4,April,2025-04,14,Monday
+TXN00450,2025-04-15,Utilities,Utility payment,3086.35,Expense,Debit Card,2025,4,April,2025-04,15,Tuesday
+TXN00096,2025-04-16,Education,Education expense,585.11,Expense,Debit Card,2025,4,April,2025-04,16,Wednesday
+TXN00481,2025-04-16,Salary,Salary received,59866.19,Income,Upi,2025,4,April,2025-04,16,Wednesday
+TXN00495,2025-04-16,Rent,Monthly rent,8605.65,Expense,Net Banking,2025,4,April,2025-04,16,Wednesday
+TXN00660,2025-04-16,Healthcare,Healthcare expense,2314.46,Expense,Credit Card,2025,4,April,2025-04,16,Wednesday
+TXN00841,2025-04-16,Food,Food purchase,1056.05,Expense,Debit Card,2025,4,April,2025-04,16,Wednesday
+TXN00855,2025-04-16,Transport,Local transport,523.53,Expense,Net Banking,2025,4,April,2025-04,16,Wednesday
+TXN01230,2025-04-16,Food,Food purchase,698.94,Expense,Debit Card,2025,4,April,2025-04,16,Wednesday
+TXN01483,2025-04-16,Food,Food purchase,709.55,Expense,Credit Card,2025,4,April,2025-04,16,Wednesday
+TXN00342,2025-04-17,Entertainment,Entertainment activity,1796.95,Expense,Net Banking,2025,4,April,2025-04,17,Thursday
+TXN01114,2025-04-17,Shopping,Shopping purchase,3062.88,Expense,Credit Card,2025,4,April,2025-04,17,Thursday
+TXN00154,2025-04-18,Shopping,Shopping purchase,4484.2,Expense,Cash,2025,4,April,2025-04,18,Friday
+TXN00271,2025-04-18,Education,Education expense,1146.6,Expense,Net Banking,2025,4,April,2025-04,18,Friday
+TXN00796,2025-04-18,Rent,Monthly rent,14754.04,Expense,Cash,2025,4,April,2025-04,18,Friday
+TXN01451,2025-04-18,Food,Food purchase,1065.85,Expense,Upi,2025,4,April,2025-04,18,Friday
+TXN00419,2025-04-19,Utilities,Utility payment,2139.43,Expense,Cash,2025,4,April,2025-04,19,Saturday
+TXN00638,2025-04-19,Transport,Local transport,754.85,Expense,Cash,2025,4,April,2025-04,19,Saturday
+TXN01239,2025-04-19,Travel,Travel booking,2482.13,Expense,Debit Card,2025,4,April,2025-04,19,Saturday
+TXN01338,2025-04-19,Rent,Monthly rent,9842.14,Expense,Cash,2025,4,April,2025-04,19,Saturday
+TXN00263,2025-04-20,Salary,Salary received,7683.12,Income,Net Banking,2025,4,April,2025-04,20,Sunday
+TXN00353,2025-04-20,Utilities,Utility payment,1761.59,Expense,Cash,2025,4,April,2025-04,20,Sunday
+TXN00442,2025-04-20,Rent,Monthly rent,8813.08,Expense,Debit Card,2025,4,April,2025-04,20,Sunday
+TXN00928,2025-04-20,Shopping,Shopping purchase,1950.46,Expense,Upi,2025,4,April,2025-04,20,Sunday
+TXN00971,2025-04-20,Food,Food purchase,365.38,Expense,Credit Card,2025,4,April,2025-04,20,Sunday
+TXN01316,2025-04-20,Travel,Travel booking,8215.81,Expense,Upi,2025,4,April,2025-04,20,Sunday
+TXN01400,2025-04-20,Food,Food purchase,1038.06,Expense,Debit Card,2025,4,April,2025-04,20,Sunday
+TXN01403,2025-04-20,Utilities,Utility payment,1289.6,Expense,Cash,2025,4,April,2025-04,20,Sunday
+TXN00136,2025-04-21,Rent,Monthly rent,12622.51,Expense,Debit Card,2025,4,April,2025-04,21,Monday
+TXN00190,2025-04-21,Food,Food purchase,919.54,Expense,Upi,2025,4,April,2025-04,21,Monday
+TXN00307,2025-04-21,Travel,Travel booking,737.88,Expense,Net Banking,2025,4,April,2025-04,21,Monday
+TXN00802,2025-04-21,Shopping,Shopping purchase,668.21,Expense,Upi,2025,4,April,2025-04,21,Monday
+TXN01367,2025-04-21,Transport,Local transport,311.44,Expense,Credit Card,2025,4,April,2025-04,21,Monday
+TXN01476,2025-04-21,Transport,Local transport,645.5,Expense,Credit Card,2025,4,April,2025-04,21,Monday
+TXN00226,2025-04-22,Entertainment,Entertainment activity,195.72,Expense,Credit Card,2025,4,April,2025-04,22,Tuesday
+TXN00952,2025-04-22,Travel,Travel booking,9266.02,Expense,Net Banking,2025,4,April,2025-04,22,Tuesday
+TXN01105,2025-04-22,Education,Education expense,3073.85,Expense,Net Banking,2025,4,April,2025-04,22,Tuesday
+TXN01155,2025-04-22,Entertainment,Entertainment activity,1768.18,Expense,Upi,2025,4,April,2025-04,22,Tuesday
+TXN01391,2025-04-22,Education,Education expense,1804.12,Expense,Cash,2025,4,April,2025-04,22,Tuesday
+TXN00239,2025-04-23,Salary,Salary received,8774.42,Income,Credit Card,2025,4,April,2025-04,23,Wednesday
+TXN01186,2025-04-23,Food,Food purchase,696.23,Expense,Credit Card,2025,4,April,2025-04,23,Wednesday
+TXN00333,2025-04-24,Travel,Travel booking,1229.03,Expense,Net Banking,2025,4,April,2025-04,24,Thursday
+TXN00400,2025-04-24,Education,Education expense,5108.79,Expense,Credit Card,2025,4,April,2025-04,24,Thursday
+TXN00526,2025-04-24,Transport,Local transport,303.14,Expense,Credit Card,2025,4,April,2025-04,24,Thursday
+TXN01060,2025-04-24,Food,Food purchase,132.3,Expense,Debit Card,2025,4,April,2025-04,24,Thursday
+TXN00088,2025-04-25,Travel,Travel booking,4010.93,Expense,Net Banking,2025,4,April,2025-04,25,Friday
+TXN00447,2025-04-25,Transport,Local transport,661.14,Expense,Credit Card,2025,4,April,2025-04,25,Friday
+TXN00748,2025-04-25,Entertainment,Entertainment activity,499.17,Expense,Net Banking,2025,4,April,2025-04,25,Friday
+TXN00749,2025-04-25,Rent,Monthly rent,14792.43,Expense,Credit Card,2025,4,April,2025-04,25,Friday
+TXN01014,2025-04-25,Food,Food purchase,598.65,Expense,Net Banking,2025,4,April,2025-04,25,Friday
+TXN01034,2025-04-25,Food,Food purchase,158.36,Expense,Upi,2025,4,April,2025-04,25,Friday
+TXN01462,2025-04-25,Shopping,Shopping purchase,3840.19,Expense,Upi,2025,4,April,2025-04,25,Friday
+TXN00309,2025-04-26,Shopping,Shopping purchase,2425.85,Expense,Debit Card,2025,4,April,2025-04,26,Saturday
+TXN00338,2025-04-26,Utilities,Utility payment,831.18,Expense,Upi,2025,4,April,2025-04,26,Saturday
+TXN00368,2025-04-26,Utilities,Utility payment,3054.84,Expense,Credit Card,2025,4,April,2025-04,26,Saturday
+TXN00799,2025-04-26,Transport,Local transport,737.37,Expense,Debit Card,2025,4,April,2025-04,26,Saturday
+TXN00968,2025-04-26,Entertainment,Entertainment activity,124.69,Expense,Net Banking,2025,4,April,2025-04,26,Saturday
+TXN00988,2025-04-26,Food,Food purchase,377.59,Expense,Cash,2025,4,April,2025-04,26,Saturday
+TXN01177,2025-04-26,Rent,Monthly rent,5863.6,Expense,Credit Card,2025,4,April,2025-04,26,Saturday
+TXN00403,2025-04-27,Food,Food purchase,986.0,Expense,Upi,2025,4,April,2025-04,27,Sunday
+TXN00525,2025-04-27,Food,Food purchase,917.2,Expense,Credit Card,2025,4,April,2025-04,27,Sunday
+TXN00554,2025-04-27,Transport,Local transport,488.81,Expense,Credit Card,2025,4,April,2025-04,27,Sunday
+TXN01435,2025-04-27,Shopping,Shopping purchase,1085.46,Expense,Net Banking,2025,4,April,2025-04,27,Sunday
+TXN01439,2025-04-27,Transport,Local transport,503.65,Expense,Credit Card,2025,4,April,2025-04,27,Sunday
+TXN00167,2025-04-28,Food,Food purchase,322.21,Expense,Debit Card,2025,4,April,2025-04,28,Monday
+TXN00321,2025-04-28,Education,Education expense,291.66,Expense,Net Banking,2025,4,April,2025-04,28,Monday
+TXN00595,2025-04-28,Travel,Travel booking,2489.56,Expense,Credit Card,2025,4,April,2025-04,28,Monday
+TXN00607,2025-04-28,Other Income,Other income received,2318.85,Income,Net Banking,2025,4,April,2025-04,28,Monday
+TXN01404,2025-04-28,Utilities,Utility payment,950.08,Expense,Net Banking,2025,4,April,2025-04,28,Monday
+TXN00066,2025-04-29,Education,Education expense,1867.34,Expense,Net Banking,2025,4,April,2025-04,29,Tuesday
+TXN01249,2025-04-29,Education,Education expense,2473.85,Expense,Debit Card,2025,4,April,2025-04,29,Tuesday
+TXN01388,2025-04-29,Utilities,Utility payment,993.27,Expense,Net Banking,2025,4,April,2025-04,29,Tuesday
+TXN00632,2025-04-30,Food,Food purchase,157.6,Expense,Upi,2025,4,April,2025-04,30,Wednesday
+TXN00646,2025-04-30,Food,Food purchase,151.7,Expense,Debit Card,2025,4,April,2025-04,30,Wednesday
+TXN01095,2025-04-30,Food,Food purchase,628.44,Expense,Debit Card,2025,4,April,2025-04,30,Wednesday
+TXN00077,2025-05-01,Entertainment,Entertainment activity,497.02,Expense,Credit Card,2025,5,May,2025-05,1,Thursday
+TXN00254,2025-05-01,Food,Food purchase,1003.52,Expense,Cash,2025,5,May,2025-05,1,Thursday
+TXN01145,2025-05-01,Transport,Local transport,600.14,Expense,Cash,2025,5,May,2025-05,1,Thursday
+TXN00294,2025-05-02,Salary,Salary received,6992.68,Income,Upi,2025,5,May,2025-05,2,Friday
+TXN00487,2025-05-02,Food,Food purchase,258.75,Expense,Credit Card,2025,5,May,2025-05,2,Friday
+TXN00738,2025-05-02,Shopping,Shopping purchase,2834.66,Expense,Upi,2025,5,May,2025-05,2,Friday
+TXN01030,2025-05-02,Shopping,Shopping purchase,705.24,Expense,Cash,2025,5,May,2025-05,2,Friday
+TXN01069,2025-05-02,Shopping,Shopping purchase,610.68,Expense,Upi,2025,5,May,2025-05,2,Friday
+TXN01494,2025-05-02,Transport,Local transport,423.28,Expense,Net Banking,2025,5,May,2025-05,2,Friday
+TXN00169,2025-05-03,Transport,Local transport,81.88,Expense,Upi,2025,5,May,2025-05,3,Saturday
+TXN00371,2025-05-03,Other Income,Other income received,44292.48,Income,Upi,2025,5,May,2025-05,3,Saturday
+TXN00199,2025-05-04,Education,Education expense,3581.27,Expense,Credit Card,2025,5,May,2025-05,4,Sunday
+TXN00627,2025-05-04,Entertainment,Entertainment activity,621.68,Expense,Cash,2025,5,May,2025-05,4,Sunday
+TXN01142,2025-05-04,Utilities,Utility payment,2535.63,Expense,Cash,2025,5,May,2025-05,4,Sunday
+TXN01176,2025-05-04,Food,Food purchase,657.96,Expense,Upi,2025,5,May,2025-05,4,Sunday
+TXN01160,2025-05-05,Education,Education expense,784.71,Expense,Credit Card,2025,5,May,2025-05,5,Monday
+TXN01330,2025-05-05,Food,Food purchase,134.77,Expense,Credit Card,2025,5,May,2025-05,5,Monday
+TXN00197,2025-05-06,Healthcare,Healthcare expense,291.39,Expense,Upi,2025,5,May,2025-05,6,Tuesday
+TXN00991,2025-05-06,Transport,Local transport,721.65,Expense,Cash,2025,5,May,2025-05,6,Tuesday
+TXN01357,2025-05-06,Healthcare,Healthcare expense,658.47,Expense,Net Banking,2025,5,May,2025-05,6,Tuesday
+TXN01372,2025-05-06,Food,Food purchase,369.14,Expense,Net Banking,2025,5,May,2025-05,6,Tuesday
+TXN00139,2025-05-07,Freelance,Freelance payment,19165.15,Income,Debit Card,2025,5,May,2025-05,7,Wednesday
+TXN00268,2025-05-07,Education,Education expense,1514.85,Expense,Upi,2025,5,May,2025-05,7,Wednesday
+TXN01236,2025-05-07,Travel,Travel booking,7622.43,Expense,Net Banking,2025,5,May,2025-05,7,Wednesday
+TXN01383,2025-05-07,Travel,Travel booking,6189.15,Expense,Upi,2025,5,May,2025-05,7,Wednesday
+TXN01407,2025-05-07,Food,Food purchase,232.31,Expense,Net Banking,2025,5,May,2025-05,7,Wednesday
+TXN01312,2025-05-08,Transport,Local transport,418.03,Expense,Upi,2025,5,May,2025-05,8,Thursday
+TXN00979,2025-05-09,Food,Food purchase,795.31,Expense,Credit Card,2025,5,May,2025-05,9,Friday
+TXN01363,2025-05-09,Food,Food purchase,757.28,Expense,Debit Card,2025,5,May,2025-05,9,Friday
+TXN00044,2025-05-10,Food,Food purchase,403.77,Expense,Cash,2025,5,May,2025-05,10,Saturday
+TXN00521,2025-05-11,Other Income,Other income received,24860.25,Income,Debit Card,2025,5,May,2025-05,11,Sunday
+TXN00765,2025-05-12,Education,Education expense,1815.92,Expense,Cash,2025,5,May,2025-05,12,Monday
+TXN00998,2025-05-12,Shopping,Shopping purchase,4049.15,Expense,Debit Card,2025,5,May,2025-05,12,Monday
+TXN00053,2025-05-13,Education,Education expense,2935.51,Expense,Credit Card,2025,5,May,2025-05,13,Tuesday
+TXN00194,2025-05-13,Rent,Monthly rent,10394.38,Expense,Upi,2025,5,May,2025-05,13,Tuesday
+TXN00301,2025-05-13,Other Income,Other income received,16905.28,Income,Net Banking,2025,5,May,2025-05,13,Tuesday
+TXN00746,2025-05-13,Entertainment,Entertainment activity,998.49,Expense,Upi,2025,5,May,2025-05,13,Tuesday
+TXN00063,2025-05-14,Travel,Travel booking,4154.49,Expense,Credit Card,2025,5,May,2025-05,14,Wednesday
+TXN00201,2025-05-14,Shopping,Shopping purchase,3355.2,Expense,Upi,2025,5,May,2025-05,14,Wednesday
+TXN00630,2025-05-14,Shopping,Shopping purchase,204.75,Expense,Credit Card,2025,5,May,2025-05,14,Wednesday
+TXN01052,2025-05-14,Entertainment,Entertainment activity,706.43,Expense,Upi,2025,5,May,2025-05,14,Wednesday
+TXN01138,2025-05-14,Food,Food purchase,1136.21,Expense,Cash,2025,5,May,2025-05,14,Wednesday
+TXN01360,2025-05-14,Food,Food purchase,309.65,Expense,Net Banking,2025,5,May,2025-05,14,Wednesday
+TXN00393,2025-05-15,Education,Education expense,3534.24,Expense,Upi,2025,5,May,2025-05,15,Thursday
+TXN00628,2025-05-15,Education,Education expense,2527.58,Expense,Net Banking,2025,5,May,2025-05,15,Thursday
+TXN01271,2025-05-15,Entertainment,Entertainment activity,1089.63,Expense,Credit Card,2025,5,May,2025-05,15,Thursday
+TXN00022,2025-05-16,Freelance,Freelance payment,2746.0,Income,Upi,2025,5,May,2025-05,16,Friday
+TXN00068,2025-05-16,Shopping,Shopping purchase,3867.57,Expense,Debit Card,2025,5,May,2025-05,16,Friday
+TXN00332,2025-05-16,Travel,Travel booking,8443.9,Expense,Upi,2025,5,May,2025-05,16,Friday
+TXN00909,2025-05-16,Rent,Monthly rent,14160.26,Expense,Net Banking,2025,5,May,2025-05,16,Friday
+TXN01044,2025-05-16,Freelance,Freelance payment,30766.52,Income,Net Banking,2025,5,May,2025-05,16,Friday
+TXN01151,2025-05-16,Entertainment,Entertainment activity,230.77,Expense,Net Banking,2025,5,May,2025-05,16,Friday
+TXN00374,2025-05-17,Food,Food purchase,1121.6,Expense,Cash,2025,5,May,2025-05,17,Saturday
+TXN00498,2025-05-17,Food,Food purchase,264.66,Expense,Credit Card,2025,5,May,2025-05,17,Saturday
+TXN00576,2025-05-17,Education,Education expense,4486.63,Expense,Cash,2025,5,May,2025-05,17,Saturday
+TXN01268,2025-05-17,Food,Food purchase,248.0,Expense,Credit Card,2025,5,May,2025-05,17,Saturday
+TXN00770,2025-05-18,Food,Food purchase,319.87,Expense,Cash,2025,5,May,2025-05,18,Sunday
+TXN00913,2025-05-18,Utilities,Utility payment,756.23,Expense,Upi,2025,5,May,2025-05,18,Sunday
+TXN00379,2025-05-19,Entertainment,Entertainment activity,648.25,Expense,Net Banking,2025,5,May,2025-05,19,Monday
+TXN00634,2025-05-19,Travel,Travel booking,3626.21,Expense,Upi,2025,5,May,2025-05,19,Monday
+TXN00188,2025-05-20,Food,Food purchase,814.0,Expense,Debit Card,2025,5,May,2025-05,20,Tuesday
+TXN00758,2025-05-20,Shopping,Shopping purchase,731.6,Expense,Cash,2025,5,May,2025-05,20,Tuesday
+TXN01285,2025-05-20,Food,Food purchase,860.89,Expense,Upi,2025,5,May,2025-05,20,Tuesday
+TXN00614,2025-05-21,Salary,Salary received,22353.75,Income,Cash,2025,5,May,2025-05,21,Wednesday
+TXN01017,2025-05-21,Travel,Travel booking,2293.4,Expense,Net Banking,2025,5,May,2025-05,21,Wednesday
+TXN01159,2025-05-21,Utilities,Utility payment,1919.12,Expense,Cash,2025,5,May,2025-05,21,Wednesday
+TXN01468,2025-05-21,Travel,Travel booking,8117.12,Expense,Debit Card,2025,5,May,2025-05,21,Wednesday
+TXN00094,2025-05-22,Rent,Monthly rent,7880.6,Expense,Debit Card,2025,5,May,2025-05,22,Thursday
+TXN01066,2025-05-22,Shopping,Shopping purchase,507.07,Expense,Net Banking,2025,5,May,2025-05,22,Thursday
+TXN01385,2025-05-22,Shopping,Shopping purchase,3027.3,Expense,Debit Card,2025,5,May,2025-05,22,Thursday
+TXN00809,2025-05-23,Entertainment,Entertainment activity,509.58,Expense,Upi,2025,5,May,2025-05,23,Friday
+TXN01173,2025-05-23,Shopping,Shopping purchase,3363.22,Expense,Upi,2025,5,May,2025-05,23,Friday
+TXN00552,2025-05-24,Entertainment,Entertainment activity,1035.68,Expense,Debit Card,2025,5,May,2025-05,24,Saturday
+TXN01094,2025-05-24,Travel,Travel booking,1483.35,Expense,Upi,2025,5,May,2025-05,24,Saturday
+TXN01283,2025-05-24,Rent,Monthly rent,9734.75,Expense,Credit Card,2025,5,May,2025-05,24,Saturday
+TXN01352,2025-05-24,Food,Food purchase,199.53,Expense,Debit Card,2025,5,May,2025-05,24,Saturday
+TXN01478,2025-05-24,Food,Food purchase,336.26,Expense,Net Banking,2025,5,May,2025-05,24,Saturday
+TXN01320,2025-05-25,Shopping,Shopping purchase,1672.52,Expense,Cash,2025,5,May,2025-05,25,Sunday
+TXN00440,2025-05-26,Entertainment,Entertainment activity,1071.17,Expense,Cash,2025,5,May,2025-05,26,Monday
+TXN01168,2025-05-26,Healthcare,Healthcare expense,3168.47,Expense,Net Banking,2025,5,May,2025-05,26,Monday
+TXN00027,2025-05-27,Entertainment,Entertainment activity,1156.76,Expense,Credit Card,2025,5,May,2025-05,27,Tuesday
+TXN00957,2025-05-27,Food,Food purchase,54.16,Expense,Upi,2025,5,May,2025-05,27,Tuesday
+TXN01302,2025-05-27,Food,Food purchase,686.18,Expense,Upi,2025,5,May,2025-05,27,Tuesday
+TXN00585,2025-05-28,Travel,Travel booking,6996.52,Expense,Upi,2025,5,May,2025-05,28,Wednesday
+TXN00942,2025-05-28,Travel,Travel booking,755.13,Expense,Net Banking,2025,5,May,2025-05,28,Wednesday
+TXN00164,2025-05-29,Travel,Travel booking,5605.66,Expense,Upi,2025,5,May,2025-05,29,Thursday
+TXN00687,2025-05-29,Food,Food purchase,419.82,Expense,Cash,2025,5,May,2025-05,29,Thursday
+TXN01131,2025-05-29,Shopping,Shopping purchase,1576.37,Expense,Debit Card,2025,5,May,2025-05,29,Thursday
+TXN01340,2025-05-29,Shopping,Shopping purchase,1604.45,Expense,Debit Card,2025,5,May,2025-05,29,Thursday
+TXN00065,2025-05-30,Food,Food purchase,454.94,Expense,Debit Card,2025,5,May,2025-05,30,Friday
+TXN00144,2025-05-30,Food,Food purchase,62.57,Expense,Upi,2025,5,May,2025-05,30,Friday
+TXN00163,2025-05-30,Travel,Travel booking,4460.67,Expense,Net Banking,2025,5,May,2025-05,30,Friday
+TXN00373,2025-05-30,Education,Education expense,1524.35,Expense,Upi,2025,5,May,2025-05,30,Friday
+TXN00962,2025-05-30,Rent,Monthly rent,12012.71,Expense,Upi,2025,5,May,2025-05,30,Friday
+TXN01495,2025-05-30,Rent,Monthly rent,5901.37,Expense,Net Banking,2025,5,May,2025-05,30,Friday
+TXN00496,2025-05-31,Transport,Local transport,632.73,Expense,Debit Card,2025,5,May,2025-05,31,Saturday
+TXN00907,2025-05-31,Transport,Local transport,84.08,Expense,Credit Card,2025,5,May,2025-05,31,Saturday
+TXN00960,2025-05-31,Transport,Local transport,103.42,Expense,Upi,2025,5,May,2025-05,31,Saturday
+TXN01252,2025-05-31,Shopping,Shopping purchase,2938.44,Expense,Cash,2025,5,May,2025-05,31,Saturday
+TXN00248,2025-06-01,Food,Food purchase,293.5,Expense,Upi,2025,6,June,2025-06,1,Sunday
+TXN00572,2025-06-01,Shopping,Shopping purchase,3459.9,Expense,Debit Card,2025,6,June,2025-06,1,Sunday
+TXN01043,2025-06-01,Food,Food purchase,715.88,Expense,Upi,2025,6,June,2025-06,1,Sunday
+TXN01191,2025-06-01,Transport,Local transport,233.31,Expense,Credit Card,2025,6,June,2025-06,1,Sunday
+TXN01309,2025-06-01,Food,Food purchase,766.1,Expense,Upi,2025,6,June,2025-06,1,Sunday
+TXN01485,2025-06-01,Utilities,Utility payment,835.33,Expense,Upi,2025,6,June,2025-06,1,Sunday
+TXN00165,2025-06-02,Travel,Travel booking,5127.6,Expense,Debit Card,2025,6,June,2025-06,2,Monday
+TXN00275,2025-06-02,Entertainment,Entertainment activity,1833.19,Expense,Cash,2025,6,June,2025-06,2,Monday
+TXN00425,2025-06-02,Shopping,Shopping purchase,2993.6,Expense,Credit Card,2025,6,June,2025-06,2,Monday
+TXN00464,2025-06-02,Rent,Monthly rent,6394.99,Expense,Cash,2025,6,June,2025-06,2,Monday
+TXN00624,2025-06-02,Utilities,Utility payment,1098.55,Expense,Credit Card,2025,6,June,2025-06,2,Monday
+TXN00732,2025-06-02,Food,Food purchase,369.95,Expense,Net Banking,2025,6,June,2025-06,2,Monday
+TXN00929,2025-06-02,Education,Education expense,225.31,Expense,Debit Card,2025,6,June,2025-06,2,Monday
+TXN00972,2025-06-02,Transport,Local transport,655.14,Expense,Cash,2025,6,June,2025-06,2,Monday
+TXN01079,2025-06-02,Travel,Travel booking,5311.5,Expense,Upi,2025,6,June,2025-06,2,Monday
+TXN01225,2025-06-02,Food,Food purchase,685.57,Expense,Net Banking,2025,6,June,2025-06,2,Monday
+TXN01480,2025-06-02,Entertainment,Entertainment activity,1538.15,Expense,Net Banking,2025,6,June,2025-06,2,Monday
+TXN01185,2025-06-03,Healthcare,Healthcare expense,396.2,Expense,Credit Card,2025,6,June,2025-06,3,Tuesday
+TXN01374,2025-06-03,Food,Food purchase,1010.84,Expense,Debit Card,2025,6,June,2025-06,3,Tuesday
+TXN00777,2025-06-04,Rent,Monthly rent,7669.34,Expense,Credit Card,2025,6,June,2025-06,4,Wednesday
+TXN01059,2025-06-04,Rent,Monthly rent,10996.19,Expense,Upi,2025,6,June,2025-06,4,Wednesday
+TXN00500,2025-06-05,Travel,Travel booking,812.89,Expense,Credit Card,2025,6,June,2025-06,5,Thursday
+TXN01333,2025-06-05,Healthcare,Healthcare expense,1666.63,Expense,Debit Card,2025,6,June,2025-06,5,Thursday
+TXN01437,2025-06-05,Utilities,Utility payment,1413.64,Expense,Upi,2025,6,June,2025-06,5,Thursday
+TXN00547,2025-06-06,Food,Food purchase,770.78,Expense,Debit Card,2025,6,June,2025-06,6,Friday
+TXN00954,2025-06-06,Entertainment,Entertainment activity,1333.85,Expense,Upi,2025,6,June,2025-06,6,Friday
+TXN00238,2025-06-07,Food,Food purchase,973.11,Expense,Net Banking,2025,6,June,2025-06,7,Saturday
+TXN00473,2025-06-07,Education,Education expense,2260.63,Expense,Net Banking,2025,6,June,2025-06,7,Saturday
+TXN00795,2025-06-07,Shopping,Shopping purchase,3797.67,Expense,Net Banking,2025,6,June,2025-06,7,Saturday
+TXN00994,2025-06-07,Travel,Travel booking,3349.29,Expense,Debit Card,2025,6,June,2025-06,7,Saturday
+TXN01153,2025-06-07,Education,Education expense,3235.86,Expense,Upi,2025,6,June,2025-06,7,Saturday
+TXN01496,2025-06-07,Food,Food purchase,874.57,Expense,Cash,2025,6,June,2025-06,7,Saturday
+TXN00005,2025-06-08,Healthcare,Healthcare expense,3868.19,Expense,Cash,2025,6,June,2025-06,8,Sunday
+TXN00091,2025-06-08,Food,Food purchase,245.87,Expense,Upi,2025,6,June,2025-06,8,Sunday
+TXN00155,2025-06-08,Travel,Travel booking,8154.84,Expense,Cash,2025,6,June,2025-06,8,Sunday
+TXN00354,2025-06-08,Education,Education expense,4570.07,Expense,Cash,2025,6,June,2025-06,8,Sunday
+TXN00407,2025-06-08,Food,Food purchase,503.59,Expense,Cash,2025,6,June,2025-06,8,Sunday
+TXN00435,2025-06-08,Food,Food purchase,378.11,Expense,Net Banking,2025,6,June,2025-06,8,Sunday
+TXN00621,2025-06-08,Food,Food purchase,764.68,Expense,Credit Card,2025,6,June,2025-06,8,Sunday
+TXN00633,2025-06-08,Shopping,Shopping purchase,2838.43,Expense,Cash,2025,6,June,2025-06,8,Sunday
+TXN01100,2025-06-08,Utilities,Utility payment,1556.67,Expense,Net Banking,2025,6,June,2025-06,8,Sunday
+TXN01444,2025-06-08,Food,Food purchase,673.93,Expense,Upi,2025,6,June,2025-06,8,Sunday
+TXN00082,2025-06-09,Shopping,Shopping purchase,2008.33,Expense,Upi,2025,6,June,2025-06,9,Monday
+TXN00140,2025-06-09,Healthcare,Healthcare expense,380.26,Expense,Credit Card,2025,6,June,2025-06,9,Monday
+TXN00756,2025-06-09,Shopping,Shopping purchase,3917.21,Expense,Net Banking,2025,6,June,2025-06,9,Monday
+TXN01039,2025-06-09,Education,Education expense,723.0,Expense,Debit Card,2025,6,June,2025-06,9,Monday
+TXN00004,2025-06-10,Shopping,Shopping purchase,3020.09,Expense,Credit Card,2025,6,June,2025-06,10,Tuesday
+TXN00121,2025-06-10,Utilities,Utility payment,1779.13,Expense,Net Banking,2025,6,June,2025-06,10,Tuesday
+TXN00298,2025-06-10,Utilities,Utility payment,853.37,Expense,Upi,2025,6,June,2025-06,10,Tuesday
+TXN01220,2025-06-10,Shopping,Shopping purchase,4840.47,Expense,Cash,2025,6,June,2025-06,10,Tuesday
+TXN01418,2025-06-10,Shopping,Shopping purchase,817.22,Expense,Upi,2025,6,June,2025-06,10,Tuesday
+TXN00030,2025-06-11,Freelance,Freelance payment,54854.83,Income,Upi,2025,6,June,2025-06,11,Wednesday
+TXN00285,2025-06-11,Rent,Monthly rent,14580.93,Expense,Upi,2025,6,June,2025-06,11,Wednesday
+TXN00800,2025-06-11,Transport,Local transport,221.48,Expense,Debit Card,2025,6,June,2025-06,11,Wednesday
+TXN00935,2025-06-11,Salary,Salary received,6813.53,Income,Debit Card,2025,6,June,2025-06,11,Wednesday
+TXN01293,2025-06-11,Entertainment,Entertainment activity,1783.19,Expense,Net Banking,2025,6,June,2025-06,11,Wednesday
+TXN00047,2025-06-12,Food,Food purchase,887.75,Expense,Upi,2025,6,June,2025-06,12,Thursday
+TXN00186,2025-06-12,Food,Food purchase,1150.52,Expense,Cash,2025,6,June,2025-06,12,Thursday
+TXN00689,2025-06-12,Travel,Travel booking,2823.96,Expense,Upi,2025,6,June,2025-06,12,Thursday
+TXN00869,2025-06-12,Travel,Travel booking,3070.8,Expense,Debit Card,2025,6,June,2025-06,12,Thursday
+TXN00923,2025-06-12,Utilities,Utility payment,2574.44,Expense,Debit Card,2025,6,June,2025-06,12,Thursday
+TXN01263,2025-06-12,Food,Food purchase,1186.13,Expense,Credit Card,2025,6,June,2025-06,12,Thursday
+TXN00219,2025-06-13,Shopping,Shopping purchase,3038.54,Expense,Cash,2025,6,June,2025-06,13,Friday
+TXN00267,2025-06-13,Healthcare,Healthcare expense,668.75,Expense,Credit Card,2025,6,June,2025-06,13,Friday
+TXN00883,2025-06-13,Entertainment,Entertainment activity,286.8,Expense,Net Banking,2025,6,June,2025-06,13,Friday
+TXN01092,2025-06-13,Entertainment,Entertainment activity,1661.37,Expense,Credit Card,2025,6,June,2025-06,13,Friday
+TXN01184,2025-06-13,Utilities,Utility payment,1093.29,Expense,Credit Card,2025,6,June,2025-06,13,Friday
+TXN01319,2025-06-13,Transport,Local transport,674.65,Expense,Cash,2025,6,June,2025-06,13,Friday
+TXN01473,2025-06-13,Rent,Monthly rent,13510.37,Expense,Cash,2025,6,June,2025-06,13,Friday
+TXN00020,2025-06-14,Entertainment,Entertainment activity,1751.79,Expense,Upi,2025,6,June,2025-06,14,Saturday
+TXN00031,2025-06-14,Transport,Local transport,353.57,Expense,Credit Card,2025,6,June,2025-06,14,Saturday
+TXN00214,2025-06-14,Food,Food purchase,731.12,Expense,Credit Card,2025,6,June,2025-06,14,Saturday
+TXN01057,2025-06-14,Food,Food purchase,121.17,Expense,Upi,2025,6,June,2025-06,14,Saturday
+TXN01331,2025-06-14,Rent,Monthly rent,12657.39,Expense,Cash,2025,6,June,2025-06,14,Saturday
+TXN01373,2025-06-14,Transport,Local transport,377.2,Expense,Debit Card,2025,6,June,2025-06,14,Saturday
+TXN00506,2025-06-15,Education,Education expense,4825.6,Expense,Credit Card,2025,6,June,2025-06,15,Sunday
+TXN00792,2025-06-15,Transport,Local transport,741.7,Expense,Cash,2025,6,June,2025-06,15,Sunday
+TXN00833,2025-06-15,Rent,Monthly rent,11593.14,Expense,Credit Card,2025,6,June,2025-06,15,Sunday
+TXN01368,2025-06-15,Food,Food purchase,233.7,Expense,Debit Card,2025,6,June,2025-06,15,Sunday
+TXN00205,2025-06-16,Travel,Travel booking,6435.23,Expense,Net Banking,2025,6,June,2025-06,16,Monday
+TXN00222,2025-06-16,Food,Food purchase,1043.72,Expense,Upi,2025,6,June,2025-06,16,Monday
+TXN00537,2025-06-16,Rent,Monthly rent,11868.5,Expense,Cash,2025,6,June,2025-06,16,Monday
+TXN00871,2025-06-16,Food,Food purchase,236.51,Expense,Debit Card,2025,6,June,2025-06,16,Monday
+TXN01458,2025-06-16,Freelance,Freelance payment,6595.02,Income,Cash,2025,6,June,2025-06,16,Monday
+TXN00114,2025-06-17,Entertainment,Entertainment activity,1784.04,Expense,Credit Card,2025,6,June,2025-06,17,Tuesday
+TXN00335,2025-06-17,Travel,Travel booking,536.99,Expense,Credit Card,2025,6,June,2025-06,17,Tuesday
+TXN00798,2025-06-17,Utilities,Utility payment,2356.08,Expense,Debit Card,2025,6,June,2025-06,17,Tuesday
+TXN00905,2025-06-17,Travel,Travel booking,2268.32,Expense,Upi,2025,6,June,2025-06,17,Tuesday
+TXN00916,2025-06-17,Education,Education expense,4205.75,Expense,Credit Card,2025,6,June,2025-06,17,Tuesday
+TXN00073,2025-06-18,Transport,Local transport,340.52,Expense,Net Banking,2025,6,June,2025-06,18,Wednesday
+TXN00176,2025-06-18,Transport,Local transport,588.79,Expense,Cash,2025,6,June,2025-06,18,Wednesday
+TXN00485,2025-06-18,Food,Food purchase,362.85,Expense,Upi,2025,6,June,2025-06,18,Wednesday
+TXN00612,2025-06-18,Rent,Monthly rent,10252.83,Expense,Debit Card,2025,6,June,2025-06,18,Wednesday
+TXN00647,2025-06-18,Shopping,Shopping purchase,4877.6,Expense,Debit Card,2025,6,June,2025-06,18,Wednesday
+TXN00939,2025-06-18,Entertainment,Entertainment activity,372.27,Expense,Credit Card,2025,6,June,2025-06,18,Wednesday
+TXN01213,2025-06-18,Entertainment,Entertainment activity,112.76,Expense,Cash,2025,6,June,2025-06,18,Wednesday
+TXN00231,2025-06-19,Travel,Travel booking,5298.96,Expense,Cash,2025,6,June,2025-06,19,Thursday
+TXN01248,2025-06-19,Transport,Local transport,613.89,Expense,Credit Card,2025,6,June,2025-06,19,Thursday
+TXN00054,2025-06-20,Entertainment,Entertainment activity,1023.49,Expense,Credit Card,2025,6,June,2025-06,20,Friday
+TXN00277,2025-06-20,Travel,Travel booking,9177.62,Expense,Upi,2025,6,June,2025-06,20,Friday
+TXN00474,2025-06-20,Entertainment,Entertainment activity,879.65,Expense,Debit Card,2025,6,June,2025-06,20,Friday
+TXN00710,2025-06-20,Rent,Monthly rent,14140.2,Expense,Credit Card,2025,6,June,2025-06,20,Friday
+TXN01075,2025-06-20,Utilities,Utility payment,2233.78,Expense,Credit Card,2025,6,June,2025-06,20,Friday
+TXN01499,2025-06-20,Rent,Monthly rent,8095.72,Expense,Net Banking,2025,6,June,2025-06,20,Friday
+TXN00070,2025-06-21,Transport,Local transport,737.82,Expense,Cash,2025,6,June,2025-06,21,Saturday
+TXN00124,2025-06-21,Rent,Monthly rent,7508.53,Expense,Credit Card,2025,6,June,2025-06,21,Saturday
+TXN00367,2025-06-21,Food,Food purchase,277.1,Expense,Net Banking,2025,6,June,2025-06,21,Saturday
+TXN01102,2025-06-21,Travel,Travel booking,1602.94,Expense,Net Banking,2025,6,June,2025-06,21,Saturday
+TXN01431,2025-06-21,Utilities,Utility payment,2661.14,Expense,Debit Card,2025,6,June,2025-06,21,Saturday
+TXN00109,2025-06-22,Rent,Monthly rent,14890.92,Expense,Debit Card,2025,6,June,2025-06,22,Sunday
+TXN00290,2025-06-22,Food,Food purchase,636.19,Expense,Net Banking,2025,6,June,2025-06,22,Sunday
+TXN00076,2025-06-23,Food,Food purchase,1183.93,Expense,Debit Card,2025,6,June,2025-06,23,Monday
+TXN00519,2025-06-23,Shopping,Shopping purchase,4237.38,Expense,Credit Card,2025,6,June,2025-06,23,Monday
+TXN00709,2025-06-23,Travel,Travel booking,2855.5,Expense,Upi,2025,6,June,2025-06,23,Monday
+TXN00944,2025-06-23,Utilities,Utility payment,2539.75,Expense,Net Banking,2025,6,June,2025-06,23,Monday
+TXN00974,2025-06-23,Entertainment,Entertainment activity,1421.55,Expense,Debit Card,2025,6,June,2025-06,23,Monday
+TXN01420,2025-06-23,Shopping,Shopping purchase,2963.94,Expense,Upi,2025,6,June,2025-06,23,Monday
+TXN00622,2025-06-24,Travel,Travel booking,4848.48,Expense,Credit Card,2025,6,June,2025-06,24,Tuesday
+TXN00768,2025-06-24,Travel,Travel booking,1369.82,Expense,Cash,2025,6,June,2025-06,24,Tuesday
+TXN00785,2025-06-24,Food,Food purchase,1183.17,Expense,Debit Card,2025,6,June,2025-06,24,Tuesday
+TXN00973,2025-06-24,Healthcare,Healthcare expense,3063.71,Expense,Net Banking,2025,6,June,2025-06,24,Tuesday
+TXN01202,2025-06-24,Food,Food purchase,693.13,Expense,Cash,2025,6,June,2025-06,24,Tuesday
+TXN00644,2025-06-25,Food,Food purchase,751.83,Expense,Upi,2025,6,June,2025-06,25,Wednesday
+TXN01101,2025-06-25,Transport,Local transport,55.31,Expense,Cash,2025,6,June,2025-06,25,Wednesday
+TXN00276,2025-06-26,Other Income,Other income received,4220.29,Income,Debit Card,2025,6,June,2025-06,26,Thursday
+TXN01146,2025-06-26,Food,Food purchase,1115.97,Expense,Cash,2025,6,June,2025-06,26,Thursday
+TXN00282,2025-06-27,Healthcare,Healthcare expense,2592.93,Expense,Net Banking,2025,6,June,2025-06,27,Friday
+TXN01031,2025-06-27,Food,Food purchase,814.34,Expense,Upi,2025,6,June,2025-06,27,Friday
+TXN00444,2025-06-28,Travel,Travel booking,9875.97,Expense,Cash,2025,6,June,2025-06,28,Saturday
+TXN00651,2025-06-28,Shopping,Shopping purchase,2042.97,Expense,Upi,2025,6,June,2025-06,28,Saturday
+TXN00729,2025-06-28,Shopping,Shopping purchase,3637.43,Expense,Net Banking,2025,6,June,2025-06,28,Saturday
+TXN01116,2025-06-28,Education,Education expense,2115.84,Expense,Upi,2025,6,June,2025-06,28,Saturday
+TXN01244,2025-06-28,Food,Food purchase,751.53,Expense,Debit Card,2025,6,June,2025-06,28,Saturday
+TXN01492,2025-06-28,Food,Food purchase,267.3,Expense,Cash,2025,6,June,2025-06,28,Saturday
+TXN00235,2025-06-29,Food,Food purchase,988.09,Expense,Net Banking,2025,6,June,2025-06,29,Sunday
+TXN00284,2025-06-29,Travel,Travel booking,656.58,Expense,Credit Card,2025,6,June,2025-06,29,Sunday
+TXN00563,2025-06-29,Entertainment,Entertainment activity,1417.66,Expense,Credit Card,2025,6,June,2025-06,29,Sunday
+TXN00718,2025-06-29,Transport,Local transport,248.27,Expense,Upi,2025,6,June,2025-06,29,Sunday
+TXN01477,2025-06-29,Healthcare,Healthcare expense,3851.36,Expense,Net Banking,2025,6,June,2025-06,29,Sunday
+TXN00185,2025-06-30,Utilities,Utility payment,2531.28,Expense,Net Banking,2025,6,June,2025-06,30,Monday
+TXN00203,2025-06-30,Freelance,Freelance payment,26291.08,Income,Cash,2025,6,June,2025-06,30,Monday
+TXN00252,2025-06-30,Shopping,Shopping purchase,3478.47,Expense,Credit Card,2025,6,June,2025-06,30,Monday
+TXN01018,2025-06-30,Food,Food purchase,927.92,Expense,Debit Card,2025,6,June,2025-06,30,Monday
+TXN01120,2025-06-30,Education,Education expense,2758.04,Expense,Cash,2025,6,June,2025-06,30,Monday
+TXN01353,2025-06-30,Utilities,Utility payment,1903.87,Expense,Debit Card,2025,6,June,2025-06,30,Monday
+TXN00055,2025-07-01,Food,Food purchase,551.56,Expense,Debit Card,2025,7,July,2025-07,1,Tuesday
+TXN00183,2025-07-01,Rent,Monthly rent,10861.76,Expense,Cash,2025,7,July,2025-07,1,Tuesday
+TXN01356,2025-07-01,Healthcare,Healthcare expense,115.61,Expense,Net Banking,2025,7,July,2025-07,1,Tuesday
+TXN00021,2025-07-02,Freelance,Freelance payment,34030.77,Income,Cash,2025,7,July,2025-07,2,Wednesday
+TXN00180,2025-07-02,Utilities,Utility payment,2723.52,Expense,Credit Card,2025,7,July,2025-07,2,Wednesday
+TXN00405,2025-07-02,Shopping,Shopping purchase,2373.78,Expense,Cash,2025,7,July,2025-07,2,Wednesday
+TXN00406,2025-07-02,Food,Food purchase,1115.99,Expense,Credit Card,2025,7,July,2025-07,2,Wednesday
+TXN00453,2025-07-02,Utilities,Utility payment,1541.16,Expense,Net Banking,2025,7,July,2025-07,2,Wednesday
+TXN01162,2025-07-02,Food,Food purchase,204.07,Expense,Cash,2025,7,July,2025-07,2,Wednesday
+TXN00667,2025-07-03,Shopping,Shopping purchase,1371.77,Expense,Cash,2025,7,July,2025-07,3,Thursday
+TXN01008,2025-07-03,Freelance,Freelance payment,21362.7,Income,Upi,2025,7,July,2025-07,3,Thursday
+TXN01053,2025-07-03,Food,Food purchase,344.33,Expense,Upi,2025,7,July,2025-07,3,Thursday
+TXN01091,2025-07-03,Food,Food purchase,441.16,Expense,Upi,2025,7,July,2025-07,3,Thursday
+TXN01379,2025-07-03,Food,Food purchase,789.14,Expense,Debit Card,2025,7,July,2025-07,3,Thursday
+TXN00115,2025-07-04,Salary,Salary received,23987.56,Income,Credit Card,2025,7,July,2025-07,4,Friday
+TXN00159,2025-07-04,Transport,Local transport,283.93,Expense,Net Banking,2025,7,July,2025-07,4,Friday
+TXN00420,2025-07-04,Food,Food purchase,587.36,Expense,Credit Card,2025,7,July,2025-07,4,Friday
+TXN00556,2025-07-04,Travel,Travel booking,2825.27,Expense,Credit Card,2025,7,July,2025-07,4,Friday
+TXN00629,2025-07-04,Entertainment,Entertainment activity,1105.17,Expense,Debit Card,2025,7,July,2025-07,4,Friday
+TXN00876,2025-07-04,Utilities,Utility payment,917.62,Expense,Upi,2025,7,July,2025-07,4,Friday
+TXN01152,2025-07-04,Food,Food purchase,1009.59,Expense,Debit Card,2025,7,July,2025-07,4,Friday
+TXN00445,2025-07-05,Education,Education expense,5274.13,Expense,Cash,2025,7,July,2025-07,5,Saturday
+TXN00897,2025-07-05,Transport,Local transport,596.01,Expense,Upi,2025,7,July,2025-07,5,Saturday
+TXN00940,2025-07-05,Rent,Monthly rent,7883.19,Expense,Upi,2025,7,July,2025-07,5,Saturday
+TXN01051,2025-07-05,Entertainment,Entertainment activity,1890.77,Expense,Net Banking,2025,7,July,2025-07,5,Saturday
+TXN01217,2025-07-05,Healthcare,Healthcare expense,2516.89,Expense,Upi,2025,7,July,2025-07,5,Saturday
+TXN01241,2025-07-05,Food,Food purchase,726.51,Expense,Credit Card,2025,7,July,2025-07,5,Saturday
+TXN01490,2025-07-05,Shopping,Shopping purchase,2317.83,Expense,Credit Card,2025,7,July,2025-07,5,Saturday
+TXN00017,2025-07-07,Food,Food purchase,914.25,Expense,Cash,2025,7,July,2025-07,7,Monday
+TXN00344,2025-07-07,Transport,Local transport,125.8,Expense,Net Banking,2025,7,July,2025-07,7,Monday
+TXN00608,2025-07-07,Shopping,Shopping purchase,2272.07,Expense,Debit Card,2025,7,July,2025-07,7,Monday
+TXN01000,2025-07-07,Shopping,Shopping purchase,2468.35,Expense,Net Banking,2025,7,July,2025-07,7,Monday
+TXN01296,2025-07-07,Freelance,Freelance payment,4262.67,Income,Debit Card,2025,7,July,2025-07,7,Monday
+TXN01442,2025-07-07,Entertainment,Entertainment activity,1240.52,Expense,Upi,2025,7,July,2025-07,7,Monday
+TXN00549,2025-07-08,Healthcare,Healthcare expense,2749.99,Expense,Credit Card,2025,7,July,2025-07,8,Tuesday
+TXN00717,2025-07-08,Shopping,Shopping purchase,1738.18,Expense,Debit Card,2025,7,July,2025-07,8,Tuesday
+TXN00803,2025-07-08,Transport,Local transport,529.31,Expense,Debit Card,2025,7,July,2025-07,8,Tuesday
+TXN01165,2025-07-08,Food,Food purchase,394.44,Expense,Net Banking,2025,7,July,2025-07,8,Tuesday
+TXN01207,2025-07-08,Shopping,Shopping purchase,4700.31,Expense,Debit Card,2025,7,July,2025-07,8,Tuesday
+TXN01460,2025-07-08,Food,Food purchase,894.32,Expense,Cash,2025,7,July,2025-07,8,Tuesday
+TXN00366,2025-07-09,Food,Food purchase,618.4,Expense,Net Banking,2025,7,July,2025-07,9,Wednesday
+TXN00701,2025-07-09,Utilities,Utility payment,791.45,Expense,Credit Card,2025,7,July,2025-07,9,Wednesday
+TXN01010,2025-07-09,Salary,Salary received,43465.7,Income,Debit Card,2025,7,July,2025-07,9,Wednesday
+TXN01015,2025-07-09,Food,Food purchase,439.5,Expense,Credit Card,2025,7,July,2025-07,9,Wednesday
+TXN00296,2025-07-10,Transport,Local transport,318.96,Expense,Net Banking,2025,7,July,2025-07,10,Thursday
+TXN00449,2025-07-10,Transport,Local transport,332.84,Expense,Credit Card,2025,7,July,2025-07,10,Thursday
+TXN00679,2025-07-10,Utilities,Utility payment,1468.59,Expense,Cash,2025,7,July,2025-07,10,Thursday
+TXN00712,2025-07-10,Shopping,Shopping purchase,4855.01,Expense,Cash,2025,7,July,2025-07,10,Thursday
+TXN00893,2025-07-10,Shopping,Shopping purchase,4980.88,Expense,Cash,2025,7,July,2025-07,10,Thursday
+TXN00578,2025-07-11,Entertainment,Entertainment activity,517.99,Expense,Cash,2025,7,July,2025-07,11,Friday
+TXN01074,2025-07-11,Entertainment,Entertainment activity,1622.56,Expense,Credit Card,2025,7,July,2025-07,11,Friday
+TXN01195,2025-07-11,Utilities,Utility payment,3112.7,Expense,Credit Card,2025,7,July,2025-07,11,Friday
+TXN01311,2025-07-11,Travel,Travel booking,7255.16,Expense,Net Banking,2025,7,July,2025-07,11,Friday
+TXN00011,2025-07-12,Other Income,Other income received,48827.68,Income,Cash,2025,7,July,2025-07,12,Saturday
+TXN00997,2025-07-12,Utilities,Utility payment,1405.72,Expense,Upi,2025,7,July,2025-07,12,Saturday
+TXN00488,2025-07-13,Shopping,Shopping purchase,2742.2,Expense,Debit Card,2025,7,July,2025-07,13,Sunday
+TXN00507,2025-07-13,Utilities,Utility payment,3082.99,Expense,Net Banking,2025,7,July,2025-07,13,Sunday
+TXN00995,2025-07-13,Healthcare,Healthcare expense,547.86,Expense,Credit Card,2025,7,July,2025-07,13,Sunday
+TXN01147,2025-07-13,Entertainment,Entertainment activity,242.08,Expense,Debit Card,2025,7,July,2025-07,13,Sunday
+TXN01164,2025-07-13,Salary,Salary received,3910.77,Income,Cash,2025,7,July,2025-07,13,Sunday
+TXN01299,2025-07-13,Food,Food purchase,181.61,Expense,Cash,2025,7,July,2025-07,13,Sunday
+TXN01392,2025-07-13,Shopping,Shopping purchase,345.01,Expense,Credit Card,2025,7,July,2025-07,13,Sunday
+TXN00351,2025-07-14,Food,Food purchase,522.88,Expense,Debit Card,2025,7,July,2025-07,14,Monday
+TXN00656,2025-07-14,Transport,Local transport,529.56,Expense,Cash,2025,7,July,2025-07,14,Monday
+TXN00747,2025-07-14,Education,Education expense,3999.66,Expense,Debit Card,2025,7,July,2025-07,14,Monday
+TXN01335,2025-07-14,Freelance,Freelance payment,21551.22,Income,Debit Card,2025,7,July,2025-07,14,Monday
+TXN01341,2025-07-14,Rent,Monthly rent,13038.83,Expense,Upi,2025,7,July,2025-07,14,Monday
+TXN00561,2025-07-15,Rent,Monthly rent,5449.64,Expense,Cash,2025,7,July,2025-07,15,Tuesday
+TXN00606,2025-07-15,Food,Food purchase,1130.48,Expense,Net Banking,2025,7,July,2025-07,15,Tuesday
+TXN00648,2025-07-15,Travel,Travel booking,2438.12,Expense,Credit Card,2025,7,July,2025-07,15,Tuesday
+TXN00931,2025-07-16,Salary,Salary received,9384.9,Income,Debit Card,2025,7,July,2025-07,16,Wednesday
+TXN01140,2025-07-16,Salary,Salary received,44845.71,Income,Credit Card,2025,7,July,2025-07,16,Wednesday
+TXN00289,2025-07-17,Shopping,Shopping purchase,259.51,Expense,Debit Card,2025,7,July,2025-07,17,Thursday
+TXN00539,2025-07-17,Salary,Salary received,8050.72,Income,Debit Card,2025,7,July,2025-07,17,Thursday
+TXN00877,2025-07-17,Rent,Monthly rent,10417.39,Expense,Debit Card,2025,7,July,2025-07,17,Thursday
+TXN00927,2025-07-17,Healthcare,Healthcare expense,3481.32,Expense,Net Banking,2025,7,July,2025-07,17,Thursday
+TXN01259,2025-07-17,Food,Food purchase,833.58,Expense,Cash,2025,7,July,2025-07,17,Thursday
+TXN01380,2025-07-17,Other Income,Other income received,5669.33,Income,Upi,2025,7,July,2025-07,17,Thursday
+TXN00295,2025-07-18,Food,Food purchase,656.68,Expense,Cash,2025,7,July,2025-07,18,Friday
+TXN00305,2025-07-18,Transport,Local transport,249.62,Expense,Upi,2025,7,July,2025-07,18,Friday
+TXN00789,2025-07-18,Utilities,Utility payment,889.79,Expense,Debit Card,2025,7,July,2025-07,18,Friday
+TXN00807,2025-07-18,Travel,Travel booking,6364.8,Expense,Net Banking,2025,7,July,2025-07,18,Friday
+TXN00917,2025-07-18,Education,Education expense,757.91,Expense,Net Banking,2025,7,July,2025-07,18,Friday
+TXN00029,2025-07-19,Utilities,Utility payment,3053.11,Expense,Net Banking,2025,7,July,2025-07,19,Saturday
+TXN00057,2025-07-19,Healthcare,Healthcare expense,2134.69,Expense,Debit Card,2025,7,July,2025-07,19,Saturday
+TXN00229,2025-07-19,Shopping,Shopping purchase,1992.24,Expense,Debit Card,2025,7,July,2025-07,19,Saturday
+TXN00331,2025-07-19,Transport,Local transport,50.03,Expense,Upi,2025,7,July,2025-07,19,Saturday
+TXN00983,2025-07-19,Utilities,Utility payment,1958.57,Expense,Credit Card,2025,7,July,2025-07,19,Saturday
+TXN00879,2025-07-20,Food,Food purchase,842.23,Expense,Credit Card,2025,7,July,2025-07,20,Sunday
+TXN00992,2025-07-20,Transport,Local transport,463.48,Expense,Cash,2025,7,July,2025-07,20,Sunday
+TXN01323,2025-07-20,Transport,Local transport,266.43,Expense,Net Banking,2025,7,July,2025-07,20,Sunday
+TXN00655,2025-07-21,Food,Food purchase,485.99,Expense,Cash,2025,7,July,2025-07,21,Monday
+TXN00762,2025-07-21,Food,Food purchase,1072.7,Expense,Cash,2025,7,July,2025-07,21,Monday
+TXN01222,2025-07-21,Travel,Travel booking,4747.69,Expense,Debit Card,2025,7,July,2025-07,21,Monday
+TXN01497,2025-07-21,Transport,Local transport,222.63,Expense,Net Banking,2025,7,July,2025-07,21,Monday
+TXN00034,2025-07-22,Entertainment,Entertainment activity,1437.18,Expense,Net Banking,2025,7,July,2025-07,22,Tuesday
+TXN00113,2025-07-22,Utilities,Utility payment,1828.48,Expense,Cash,2025,7,July,2025-07,22,Tuesday
+TXN00132,2025-07-22,Entertainment,Entertainment activity,551.32,Expense,Credit Card,2025,7,July,2025-07,22,Tuesday
+TXN00308,2025-07-22,Salary,Salary received,6241.87,Income,Net Banking,2025,7,July,2025-07,22,Tuesday
+TXN00330,2025-07-22,Transport,Local transport,743.16,Expense,Net Banking,2025,7,July,2025-07,22,Tuesday
+TXN00456,2025-07-22,Food,Food purchase,588.67,Expense,Net Banking,2025,7,July,2025-07,22,Tuesday
+TXN00755,2025-07-22,Utilities,Utility payment,570.34,Expense,Upi,2025,7,July,2025-07,22,Tuesday
+TXN01084,2025-07-22,Food,Food purchase,329.08,Expense,Net Banking,2025,7,July,2025-07,22,Tuesday
+TXN01258,2025-07-22,Food,Food purchase,981.43,Expense,Debit Card,2025,7,July,2025-07,22,Tuesday
+TXN01365,2025-07-22,Food,Food purchase,742.94,Expense,Upi,2025,7,July,2025-07,22,Tuesday
+TXN00158,2025-07-23,Food,Food purchase,392.02,Expense,Upi,2025,7,July,2025-07,23,Wednesday
+TXN01003,2025-07-23,Education,Education expense,1771.34,Expense,Cash,2025,7,July,2025-07,23,Wednesday
+TXN01129,2025-07-23,Shopping,Shopping purchase,2383.64,Expense,Credit Card,2025,7,July,2025-07,23,Wednesday
+TXN00134,2025-07-24,Shopping,Shopping purchase,241.36,Expense,Upi,2025,7,July,2025-07,24,Thursday
+TXN01387,2025-07-24,Transport,Local transport,663.04,Expense,Cash,2025,7,July,2025-07,24,Thursday
+TXN01412,2025-07-24,Freelance,Freelance payment,5946.66,Income,Debit Card,2025,7,July,2025-07,24,Thursday
+TXN01434,2025-07-25,Food,Food purchase,610.1,Expense,Upi,2025,7,July,2025-07,25,Friday
+TXN00079,2025-07-26,Other Income,Other income received,23000.37,Income,Cash,2025,7,July,2025-07,26,Saturday
+TXN00126,2025-07-26,Education,Education expense,1069.66,Expense,Cash,2025,7,July,2025-07,26,Saturday
+TXN00131,2025-07-26,Rent,Monthly rent,13476.66,Expense,Net Banking,2025,7,July,2025-07,26,Saturday
+TXN00706,2025-07-26,Food,Food purchase,436.84,Expense,Net Banking,2025,7,July,2025-07,26,Saturday
+TXN00980,2025-07-26,Rent,Monthly rent,9835.12,Expense,Credit Card,2025,7,July,2025-07,26,Saturday
+TXN01029,2025-07-26,Rent,Monthly rent,8238.27,Expense,Credit Card,2025,7,July,2025-07,26,Saturday
+TXN01189,2025-07-26,Transport,Local transport,35.46,Expense,Credit Card,2025,7,July,2025-07,26,Saturday
+TXN00116,2025-07-27,Travel,Travel booking,7009.54,Expense,Upi,2025,7,July,2025-07,27,Sunday
+TXN00437,2025-07-27,Rent,Monthly rent,7387.85,Expense,Upi,2025,7,July,2025-07,27,Sunday
+TXN00288,2025-07-28,Rent,Monthly rent,8772.82,Expense,Upi,2025,7,July,2025-07,28,Monday
+TXN00570,2025-07-28,Education,Education expense,5555.21,Expense,Debit Card,2025,7,July,2025-07,28,Monday
+TXN00708,2025-07-28,Shopping,Shopping purchase,256.68,Expense,Credit Card,2025,7,July,2025-07,28,Monday
+TXN00922,2025-07-28,Entertainment,Entertainment activity,1376.77,Expense,Credit Card,2025,7,July,2025-07,28,Monday
+TXN00978,2025-07-28,Education,Education expense,1330.06,Expense,Upi,2025,7,July,2025-07,28,Monday
+TXN01455,2025-07-28,Transport,Local transport,76.84,Expense,Cash,2025,7,July,2025-07,28,Monday
+TXN00129,2025-07-29,Entertainment,Entertainment activity,354.19,Expense,Upi,2025,7,July,2025-07,29,Tuesday
+TXN01344,2025-07-29,Food,Food purchase,149.82,Expense,Debit Card,2025,7,July,2025-07,29,Tuesday
+TXN00535,2025-07-30,Travel,Travel booking,2558.02,Expense,Debit Card,2025,7,July,2025-07,30,Wednesday
+TXN00930,2025-07-30,Shopping,Shopping purchase,2634.72,Expense,Net Banking,2025,7,July,2025-07,30,Wednesday
+TXN00228,2025-07-31,Rent,Monthly rent,6930.25,Expense,Cash,2025,7,July,2025-07,31,Thursday
+TXN00597,2025-07-31,Shopping,Shopping purchase,1316.25,Expense,Net Banking,2025,7,July,2025-07,31,Thursday
+TXN00677,2025-07-31,Food,Food purchase,836.6,Expense,Net Banking,2025,7,July,2025-07,31,Thursday
+TXN00266,2025-08-01,Food,Food purchase,1012.14,Expense,Upi,2025,8,August,2025-08,1,Friday
+TXN00424,2025-08-01,Utilities,Utility payment,1810.02,Expense,Debit Card,2025,8,August,2025-08,1,Friday
+TXN01161,2025-08-01,Food,Food purchase,807.67,Expense,Cash,2025,8,August,2025-08,1,Friday
+TXN00242,2025-08-02,Utilities,Utility payment,1586.84,Expense,Debit Card,2025,8,August,2025-08,2,Saturday
+TXN01415,2025-08-02,Education,Education expense,1594.75,Expense,Upi,2025,8,August,2025-08,2,Saturday
+TXN00260,2025-08-03,Shopping,Shopping purchase,3283.12,Expense,Upi,2025,8,August,2025-08,3,Sunday
+TXN00786,2025-08-03,Shopping,Shopping purchase,3589.27,Expense,Cash,2025,8,August,2025-08,3,Sunday
+TXN00966,2025-08-03,Utilities,Utility payment,2693.29,Expense,Net Banking,2025,8,August,2025-08,3,Sunday
+TXN00985,2025-08-03,Education,Education expense,1152.67,Expense,Debit Card,2025,8,August,2025-08,3,Sunday
+TXN01118,2025-08-03,Food,Food purchase,794.52,Expense,Cash,2025,8,August,2025-08,3,Sunday
+TXN01156,2025-08-03,Shopping,Shopping purchase,4100.04,Expense,Cash,2025,8,August,2025-08,3,Sunday
+TXN01423,2025-08-03,Shopping,Shopping purchase,1622.02,Expense,Credit Card,2025,8,August,2025-08,3,Sunday
+TXN00270,2025-08-04,Shopping,Shopping purchase,1232.63,Expense,Upi,2025,8,August,2025-08,4,Monday
+TXN00548,2025-08-04,Food,Food purchase,456.28,Expense,Credit Card,2025,8,August,2025-08,4,Monday
+TXN00698,2025-08-04,Shopping,Shopping purchase,4032.08,Expense,Upi,2025,8,August,2025-08,4,Monday
+TXN00981,2025-08-04,Travel,Travel booking,4673.83,Expense,Net Banking,2025,8,August,2025-08,4,Monday
+TXN01318,2025-08-04,Travel,Travel booking,5087.62,Expense,Credit Card,2025,8,August,2025-08,4,Monday
+TXN01396,2025-08-04,Travel,Travel booking,7680.84,Expense,Net Banking,2025,8,August,2025-08,4,Monday
+TXN00520,2025-08-05,Shopping,Shopping purchase,4956.8,Expense,Credit Card,2025,8,August,2025-08,5,Tuesday
+TXN00688,2025-08-05,Shopping,Shopping purchase,612.25,Expense,Upi,2025,8,August,2025-08,5,Tuesday
+TXN00915,2025-08-05,Travel,Travel booking,6207.65,Expense,Cash,2025,8,August,2025-08,5,Tuesday
+TXN00455,2025-08-06,Food,Food purchase,865.99,Expense,Cash,2025,8,August,2025-08,6,Wednesday
+TXN00468,2025-08-06,Entertainment,Entertainment activity,1982.66,Expense,Net Banking,2025,8,August,2025-08,6,Wednesday
+TXN01350,2025-08-06,Transport,Local transport,367.5,Expense,Cash,2025,8,August,2025-08,6,Wednesday
+TXN00394,2025-08-07,Utilities,Utility payment,3061.36,Expense,Net Banking,2025,8,August,2025-08,7,Thursday
+TXN00531,2025-08-07,Rent,Monthly rent,6169.47,Expense,Cash,2025,8,August,2025-08,7,Thursday
+TXN00665,2025-08-07,Food,Food purchase,574.68,Expense,Cash,2025,8,August,2025-08,7,Thursday
+TXN00720,2025-08-07,Food,Food purchase,260.82,Expense,Debit Card,2025,8,August,2025-08,7,Thursday
+TXN01188,2025-08-07,Entertainment,Entertainment activity,712.44,Expense,Credit Card,2025,8,August,2025-08,7,Thursday
+TXN00967,2025-08-08,Transport,Local transport,303.2,Expense,Debit Card,2025,8,August,2025-08,8,Friday
+TXN01048,2025-08-08,Transport,Local transport,412.67,Expense,Credit Card,2025,8,August,2025-08,8,Friday
+TXN00137,2025-08-09,Salary,Salary received,59612.91,Income,Cash,2025,8,August,2025-08,9,Saturday
+TXN00494,2025-08-09,Food,Food purchase,929.53,Expense,Cash,2025,8,August,2025-08,9,Saturday
+TXN00625,2025-08-09,Travel,Travel booking,1625.61,Expense,Debit Card,2025,8,August,2025-08,9,Saturday
+TXN00193,2025-08-10,Food,Food purchase,282.77,Expense,Cash,2025,8,August,2025-08,10,Sunday
+TXN00490,2025-08-10,Food,Food purchase,711.59,Expense,Net Banking,2025,8,August,2025-08,10,Sunday
+TXN00850,2025-08-10,Transport,Local transport,160.85,Expense,Cash,2025,8,August,2025-08,10,Sunday
+TXN01181,2025-08-10,Entertainment,Entertainment activity,1168.8,Expense,Debit Card,2025,8,August,2025-08,10,Sunday
+TXN01305,2025-08-11,Transport,Local transport,255.2,Expense,Net Banking,2025,8,August,2025-08,11,Monday
+TXN00269,2025-08-12,Food,Food purchase,680.91,Expense,Credit Card,2025,8,August,2025-08,12,Tuesday
+TXN00767,2025-08-12,Food,Food purchase,1140.37,Expense,Upi,2025,8,August,2025-08,12,Tuesday
+TXN00896,2025-08-12,Salary,Salary received,48637.76,Income,Debit Card,2025,8,August,2025-08,12,Tuesday
+TXN00956,2025-08-12,Travel,Travel booking,4458.69,Expense,Cash,2025,8,August,2025-08,12,Tuesday
+TXN00323,2025-08-13,Shopping,Shopping purchase,3804.84,Expense,Credit Card,2025,8,August,2025-08,13,Wednesday
+TXN00601,2025-08-13,Utilities,Utility payment,1516.75,Expense,Net Banking,2025,8,August,2025-08,13,Wednesday
+TXN00672,2025-08-13,Shopping,Shopping purchase,235.92,Expense,Net Banking,2025,8,August,2025-08,13,Wednesday
+TXN00702,2025-08-13,Other Income,Other income received,8363.02,Income,Credit Card,2025,8,August,2025-08,13,Wednesday
+TXN00900,2025-08-13,Utilities,Utility payment,888.13,Expense,Debit Card,2025,8,August,2025-08,13,Wednesday
+TXN00953,2025-08-13,Rent,Monthly rent,14166.8,Expense,Cash,2025,8,August,2025-08,13,Wednesday
+TXN01135,2025-08-13,Transport,Local transport,186.06,Expense,Cash,2025,8,August,2025-08,13,Wednesday
+TXN00987,2025-08-14,Education,Education expense,5733.83,Expense,Net Banking,2025,8,August,2025-08,14,Thursday
+TXN00343,2025-08-15,Transport,Local transport,532.48,Expense,Net Banking,2025,8,August,2025-08,15,Friday
+TXN00675,2025-08-15,Rent,Monthly rent,5599.91,Expense,Upi,2025,8,August,2025-08,15,Friday
+TXN01200,2025-08-15,Travel,Travel booking,8305.59,Expense,Cash,2025,8,August,2025-08,15,Friday
+TXN01290,2025-08-15,Utilities,Utility payment,1271.46,Expense,Upi,2025,8,August,2025-08,15,Friday
+TXN01397,2025-08-15,Food,Food purchase,452.55,Expense,Upi,2025,8,August,2025-08,15,Friday
+TXN00825,2025-08-16,Food,Food purchase,1049.46,Expense,Cash,2025,8,August,2025-08,16,Saturday
+TXN01211,2025-08-16,Entertainment,Entertainment activity,957.18,Expense,Cash,2025,8,August,2025-08,16,Saturday
+TXN00240,2025-08-17,Other Income,Other income received,2317.51,Income,Cash,2025,8,August,2025-08,17,Sunday
+TXN00996,2025-08-17,Entertainment,Entertainment activity,1156.82,Expense,Debit Card,2025,8,August,2025-08,17,Sunday
+TXN00085,2025-08-18,Healthcare,Healthcare expense,1770.73,Expense,Cash,2025,8,August,2025-08,18,Monday
+TXN00245,2025-08-18,Travel,Travel booking,8894.83,Expense,Credit Card,2025,8,August,2025-08,18,Monday
+TXN00599,2025-08-18,Rent,Monthly rent,12675.07,Expense,Upi,2025,8,August,2025-08,18,Monday
+TXN00880,2025-08-18,Rent,Monthly rent,14439.47,Expense,Net Banking,2025,8,August,2025-08,18,Monday
+TXN01171,2025-08-18,Shopping,Shopping purchase,4331.68,Expense,Net Banking,2025,8,August,2025-08,18,Monday
+TXN00040,2025-08-19,Entertainment,Entertainment activity,655.39,Expense,Debit Card,2025,8,August,2025-08,19,Tuesday
+TXN00192,2025-08-19,Education,Education expense,1130.26,Expense,Debit Card,2025,8,August,2025-08,19,Tuesday
+TXN01111,2025-08-19,Entertainment,Entertainment activity,704.32,Expense,Upi,2025,8,August,2025-08,19,Tuesday
+TXN01172,2025-08-19,Transport,Local transport,293.55,Expense,Upi,2025,8,August,2025-08,19,Tuesday
+TXN00130,2025-08-20,Entertainment,Entertainment activity,1418.33,Expense,Net Banking,2025,8,August,2025-08,20,Wednesday
+TXN00341,2025-08-20,Transport,Local transport,621.1,Expense,Credit Card,2025,8,August,2025-08,20,Wednesday
+TXN00458,2025-08-20,Shopping,Shopping purchase,1303.75,Expense,Net Banking,2025,8,August,2025-08,20,Wednesday
+TXN00475,2025-08-20,Food,Food purchase,243.13,Expense,Credit Card,2025,8,August,2025-08,20,Wednesday
+TXN00658,2025-08-20,Food,Food purchase,116.24,Expense,Cash,2025,8,August,2025-08,20,Wednesday
+TXN00743,2025-08-20,Salary,Salary received,5404.87,Income,Cash,2025,8,August,2025-08,20,Wednesday
+TXN00958,2025-08-20,Rent,Monthly rent,5625.71,Expense,Debit Card,2025,8,August,2025-08,20,Wednesday
+TXN01196,2025-08-20,Travel,Travel booking,3698.37,Expense,Net Banking,2025,8,August,2025-08,20,Wednesday
+TXN01370,2025-08-20,Transport,Local transport,772.5,Expense,Credit Card,2025,8,August,2025-08,20,Wednesday
+TXN01417,2025-08-20,Education,Education expense,1425.08,Expense,Debit Card,2025,8,August,2025-08,20,Wednesday
+TXN01467,2025-08-20,Food,Food purchase,889.81,Expense,Credit Card,2025,8,August,2025-08,20,Wednesday
+TXN00099,2025-08-21,Food,Food purchase,152.27,Expense,Cash,2025,8,August,2025-08,21,Thursday
+TXN00673,2025-08-21,Shopping,Shopping purchase,973.02,Expense,Net Banking,2025,8,August,2025-08,21,Thursday
+TXN00782,2025-08-21,Food,Food purchase,124.13,Expense,Net Banking,2025,8,August,2025-08,21,Thursday
+TXN00920,2025-08-21,Education,Education expense,3703.98,Expense,Upi,2025,8,August,2025-08,21,Thursday
+TXN01128,2025-08-21,Transport,Local transport,734.86,Expense,Cash,2025,8,August,2025-08,21,Thursday
+TXN01235,2025-08-21,Entertainment,Entertainment activity,1429.96,Expense,Credit Card,2025,8,August,2025-08,21,Thursday
+TXN01337,2025-08-21,Rent,Monthly rent,8904.47,Expense,Net Banking,2025,8,August,2025-08,21,Thursday
+TXN00616,2025-08-22,Shopping,Shopping purchase,794.51,Expense,Credit Card,2025,8,August,2025-08,22,Friday
+TXN01068,2025-08-22,Shopping,Shopping purchase,688.57,Expense,Debit Card,2025,8,August,2025-08,22,Friday
+TXN00569,2025-08-23,Utilities,Utility payment,1690.73,Expense,Net Banking,2025,8,August,2025-08,23,Saturday
+TXN00600,2025-08-23,Food,Food purchase,482.94,Expense,Upi,2025,8,August,2025-08,23,Saturday
+TXN00026,2025-08-24,Education,Education expense,411.3,Expense,Cash,2025,8,August,2025-08,24,Sunday
+TXN00934,2025-08-25,Transport,Local transport,163.81,Expense,Net Banking,2025,8,August,2025-08,25,Monday
+TXN00984,2025-08-25,Transport,Local transport,106.95,Expense,Debit Card,2025,8,August,2025-08,25,Monday
+TXN01130,2025-08-25,Entertainment,Entertainment activity,1913.11,Expense,Upi,2025,8,August,2025-08,25,Monday
+TXN00244,2025-08-26,Food,Food purchase,1111.8,Expense,Debit Card,2025,8,August,2025-08,26,Tuesday
+TXN00502,2025-08-26,Food,Food purchase,882.61,Expense,Debit Card,2025,8,August,2025-08,26,Tuesday
+TXN00771,2025-08-26,Transport,Local transport,332.8,Expense,Credit Card,2025,8,August,2025-08,26,Tuesday
+TXN00824,2025-08-26,Education,Education expense,4396.64,Expense,Credit Card,2025,8,August,2025-08,26,Tuesday
+TXN01089,2025-08-26,Utilities,Utility payment,1235.48,Expense,Upi,2025,8,August,2025-08,26,Tuesday
+TXN01205,2025-08-26,Travel,Travel booking,9913.23,Expense,Cash,2025,8,August,2025-08,26,Tuesday
+TXN01221,2025-08-26,Transport,Local transport,368.19,Expense,Upi,2025,8,August,2025-08,26,Tuesday
+TXN01255,2025-08-26,Food,Food purchase,875.9,Expense,Upi,2025,8,August,2025-08,26,Tuesday
+TXN00003,2025-08-27,Transport,Local transport,321.73,Expense,Cash,2025,8,August,2025-08,27,Wednesday
+TXN00123,2025-08-27,Travel,Travel booking,3402.07,Expense,Debit Card,2025,8,August,2025-08,27,Wednesday
+TXN00652,2025-08-27,Food,Food purchase,1120.93,Expense,Credit Card,2025,8,August,2025-08,27,Wednesday
+TXN00986,2025-08-27,Utilities,Utility payment,724.15,Expense,Cash,2025,8,August,2025-08,27,Wednesday
+TXN01224,2025-08-27,Rent,Monthly rent,9095.02,Expense,Net Banking,2025,8,August,2025-08,27,Wednesday
+TXN01398,2025-08-27,Travel,Travel booking,4198.67,Expense,Cash,2025,8,August,2025-08,27,Wednesday
+TXN01438,2025-08-27,Entertainment,Entertainment activity,1909.34,Expense,Cash,2025,8,August,2025-08,27,Wednesday
+TXN00842,2025-08-28,Food,Food purchase,1103.47,Expense,Net Banking,2025,8,August,2025-08,28,Thursday
+TXN01277,2025-08-28,Utilities,Utility payment,647.48,Expense,Cash,2025,8,August,2025-08,28,Thursday
+TXN00316,2025-08-29,Travel,Travel booking,4262.62,Expense,Credit Card,2025,8,August,2025-08,29,Friday
+TXN00730,2025-08-29,Freelance,Freelance payment,30903.31,Income,Credit Card,2025,8,August,2025-08,29,Friday
+TXN00156,2025-08-30,Entertainment,Entertainment activity,569.81,Expense,Debit Card,2025,8,August,2025-08,30,Saturday
+TXN00255,2025-08-30,Entertainment,Entertainment activity,626.68,Expense,Net Banking,2025,8,August,2025-08,30,Saturday
+TXN00372,2025-08-30,Food,Food purchase,1153.54,Expense,Net Banking,2025,8,August,2025-08,30,Saturday
+TXN00446,2025-08-30,Food,Food purchase,240.75,Expense,Upi,2025,8,August,2025-08,30,Saturday
+TXN00108,2025-08-31,Education,Education expense,3103.83,Expense,Upi,2025,8,August,2025-08,31,Sunday
+TXN00162,2025-08-31,Education,Education expense,5852.62,Expense,Upi,2025,8,August,2025-08,31,Sunday
+TXN00237,2025-08-31,Rent,Monthly rent,12725.06,Expense,Debit Card,2025,8,August,2025-08,31,Sunday
+TXN00479,2025-08-31,Travel,Travel booking,4237.84,Expense,Cash,2025,8,August,2025-08,31,Sunday
+TXN00819,2025-08-31,Shopping,Shopping purchase,3711.81,Expense,Net Banking,2025,8,August,2025-08,31,Sunday
+TXN00822,2025-08-31,Entertainment,Entertainment activity,1931.63,Expense,Cash,2025,8,August,2025-08,31,Sunday
+TXN00122,2025-09-01,Food,Food purchase,425.93,Expense,Credit Card,2025,9,September,2025-09,1,Monday
+TXN00311,2025-09-01,Freelance,Freelance payment,7510.69,Income,Credit Card,2025,9,September,2025-09,1,Monday
+TXN01049,2025-09-01,Shopping,Shopping purchase,2500.27,Expense,Credit Card,2025,9,September,2025-09,1,Monday
+TXN00080,2025-09-02,Transport,Local transport,413.46,Expense,Debit Card,2025,9,September,2025-09,2,Tuesday
+TXN00283,2025-09-02,Shopping,Shopping purchase,3514.38,Expense,Upi,2025,9,September,2025-09,2,Tuesday
+TXN00641,2025-09-02,Travel,Travel booking,1892.19,Expense,Debit Card,2025,9,September,2025-09,2,Tuesday
+TXN00736,2025-09-02,Food,Food purchase,327.49,Expense,Debit Card,2025,9,September,2025-09,2,Tuesday
+TXN00859,2025-09-02,Shopping,Shopping purchase,1096.12,Expense,Cash,2025,9,September,2025-09,2,Tuesday
+TXN01132,2025-09-02,Entertainment,Entertainment activity,1745.92,Expense,Net Banking,2025,9,September,2025-09,2,Tuesday
+TXN00312,2025-09-03,Entertainment,Entertainment activity,1388.79,Expense,Upi,2025,9,September,2025-09,3,Wednesday
+TXN01306,2025-09-03,Shopping,Shopping purchase,4035.72,Expense,Credit Card,2025,9,September,2025-09,3,Wednesday
+TXN01427,2025-09-03,Rent,Monthly rent,8220.34,Expense,Upi,2025,9,September,2025-09,3,Wednesday
+TXN01071,2025-09-04,Travel,Travel booking,618.42,Expense,Net Banking,2025,9,September,2025-09,4,Thursday
+TXN01274,2025-09-04,Transport,Local transport,323.32,Expense,Credit Card,2025,9,September,2025-09,4,Thursday
+TXN01329,2025-09-04,Transport,Local transport,603.87,Expense,Cash,2025,9,September,2025-09,4,Thursday
+TXN01424,2025-09-04,Food,Food purchase,447.73,Expense,Debit Card,2025,9,September,2025-09,4,Thursday
+TXN00049,2025-09-05,Healthcare,Healthcare expense,118.94,Expense,Debit Card,2025,9,September,2025-09,5,Friday
+TXN00257,2025-09-05,Travel,Travel booking,9433.34,Expense,Debit Card,2025,9,September,2025-09,5,Friday
+TXN00416,2025-09-05,Education,Education expense,4873.74,Expense,Upi,2025,9,September,2025-09,5,Friday
+TXN00711,2025-09-05,Utilities,Utility payment,2851.24,Expense,Debit Card,2025,9,September,2025-09,5,Friday
+TXN01298,2025-09-05,Shopping,Shopping purchase,4988.71,Expense,Debit Card,2025,9,September,2025-09,5,Friday
+TXN01327,2025-09-05,Travel,Travel booking,8291.0,Expense,Credit Card,2025,9,September,2025-09,5,Friday
+TXN00550,2025-09-06,Rent,Monthly rent,12703.95,Expense,Cash,2025,9,September,2025-09,6,Saturday
+TXN00827,2025-09-06,Utilities,Utility payment,1379.97,Expense,Upi,2025,9,September,2025-09,6,Saturday
+TXN00060,2025-09-07,Travel,Travel booking,9032.14,Expense,Cash,2025,9,September,2025-09,7,Sunday
+TXN00098,2025-09-07,Healthcare,Healthcare expense,3358.57,Expense,Upi,2025,9,September,2025-09,7,Sunday
+TXN00191,2025-09-07,Transport,Local transport,798.2,Expense,Net Banking,2025,9,September,2025-09,7,Sunday
+TXN00813,2025-09-07,Education,Education expense,1617.96,Expense,Cash,2025,9,September,2025-09,7,Sunday
+TXN00075,2025-09-08,Education,Education expense,1723.83,Expense,Debit Card,2025,9,September,2025-09,8,Monday
+TXN00615,2025-09-08,Shopping,Shopping purchase,2191.29,Expense,Debit Card,2025,9,September,2025-09,8,Monday
+TXN00636,2025-09-08,Food,Food purchase,305.1,Expense,Credit Card,2025,9,September,2025-09,8,Monday
+TXN00788,2025-09-08,Utilities,Utility payment,315.95,Expense,Upi,2025,9,September,2025-09,8,Monday
+TXN01062,2025-09-08,Shopping,Shopping purchase,4697.15,Expense,Upi,2025,9,September,2025-09,8,Monday
+TXN00587,2025-09-09,Food,Food purchase,797.3,Expense,Credit Card,2025,9,September,2025-09,9,Tuesday
+TXN01149,2025-09-09,Food,Food purchase,845.75,Expense,Net Banking,2025,9,September,2025-09,9,Tuesday
+TXN00941,2025-09-10,Utilities,Utility payment,924.09,Expense,Credit Card,2025,9,September,2025-09,10,Wednesday
+TXN01183,2025-09-10,Utilities,Utility payment,3450.74,Expense,Cash,2025,9,September,2025-09,10,Wednesday
+TXN00422,2025-09-11,Utilities,Utility payment,1731.28,Expense,Net Banking,2025,9,September,2025-09,11,Thursday
+TXN00666,2025-09-11,Utilities,Utility payment,795.95,Expense,Upi,2025,9,September,2025-09,11,Thursday
+TXN00008,2025-09-12,Travel,Travel booking,8039.89,Expense,Cash,2025,9,September,2025-09,12,Friday
+TXN00175,2025-09-12,Food,Food purchase,1085.32,Expense,Upi,2025,9,September,2025-09,12,Friday
+TXN00184,2025-09-12,Utilities,Utility payment,1331.88,Expense,Credit Card,2025,9,September,2025-09,12,Friday
+TXN00866,2025-09-12,Food,Food purchase,777.31,Expense,Cash,2025,9,September,2025-09,12,Friday
+TXN00875,2025-09-12,Rent,Monthly rent,6904.2,Expense,Credit Card,2025,9,September,2025-09,12,Friday
+TXN01472,2025-09-12,Shopping,Shopping purchase,2671.71,Expense,Cash,2025,9,September,2025-09,12,Friday
+TXN00043,2025-09-13,Transport,Local transport,500.1,Expense,Net Banking,2025,9,September,2025-09,13,Saturday
+TXN00086,2025-09-13,Entertainment,Entertainment activity,1410.55,Expense,Credit Card,2025,9,September,2025-09,13,Saturday
+TXN00204,2025-09-13,Food,Food purchase,958.78,Expense,Cash,2025,9,September,2025-09,13,Saturday
+TXN00932,2025-09-13,Utilities,Utility payment,1123.46,Expense,Credit Card,2025,9,September,2025-09,13,Saturday
+TXN01303,2025-09-13,Shopping,Shopping purchase,1851.38,Expense,Cash,2025,9,September,2025-09,13,Saturday
+TXN01348,2025-09-13,Shopping,Shopping purchase,4437.67,Expense,Debit Card,2025,9,September,2025-09,13,Saturday
+TXN00223,2025-09-14,Food,Food purchase,881.82,Expense,Upi,2025,9,September,2025-09,14,Sunday
+TXN00982,2025-09-14,Food,Food purchase,178.94,Expense,Net Banking,2025,9,September,2025-09,14,Sunday
+TXN01194,2025-09-14,Freelance,Freelance payment,22704.22,Income,Credit Card,2025,9,September,2025-09,14,Sunday
+TXN00110,2025-09-15,Shopping,Shopping purchase,920.62,Expense,Debit Card,2025,9,September,2025-09,15,Monday
+TXN01041,2025-09-15,Utilities,Utility payment,1428.78,Expense,Upi,2025,9,September,2025-09,15,Monday
+TXN01064,2025-09-15,Other Income,Other income received,56066.21,Income,Upi,2025,9,September,2025-09,15,Monday
+TXN00541,2025-09-16,Shopping,Shopping purchase,4212.14,Expense,Upi,2025,9,September,2025-09,16,Tuesday
+TXN00906,2025-09-16,Rent,Monthly rent,8317.49,Expense,Debit Card,2025,9,September,2025-09,16,Tuesday
+TXN01045,2025-09-16,Travel,Travel booking,5126.33,Expense,Upi,2025,9,September,2025-09,16,Tuesday
+TXN00892,2025-09-17,Food,Food purchase,248.98,Expense,Net Banking,2025,9,September,2025-09,17,Wednesday
+TXN01077,2025-09-17,Shopping,Shopping purchase,2151.21,Expense,Upi,2025,9,September,2025-09,17,Wednesday
+TXN01317,2025-09-17,Shopping,Shopping purchase,4331.52,Expense,Debit Card,2025,9,September,2025-09,17,Wednesday
+TXN01197,2025-09-18,Food,Food purchase,830.94,Expense,Cash,2025,9,September,2025-09,18,Thursday
+TXN01276,2025-09-18,Rent,Monthly rent,9323.25,Expense,Net Banking,2025,9,September,2025-09,18,Thursday
+TXN00015,2025-09-19,Travel,Travel booking,5839.09,Expense,Cash,2025,9,September,2025-09,19,Friday
+TXN00177,2025-09-19,Food,Food purchase,128.91,Expense,Upi,2025,9,September,2025-09,19,Friday
+TXN00212,2025-09-19,Shopping,Shopping purchase,3459.45,Expense,Upi,2025,9,September,2025-09,19,Friday
+TXN00430,2025-09-19,Food,Food purchase,442.59,Expense,Credit Card,2025,9,September,2025-09,19,Friday
+TXN00774,2025-09-19,Utilities,Utility payment,2126.34,Expense,Net Banking,2025,9,September,2025-09,19,Friday
+TXN01332,2025-09-19,Food,Food purchase,960.83,Expense,Upi,2025,9,September,2025-09,19,Friday
+TXN00236,2025-09-20,Travel,Travel booking,4141.76,Expense,Credit Card,2025,9,September,2025-09,20,Saturday
+TXN00395,2025-09-20,Rent,Monthly rent,7910.5,Expense,Cash,2025,9,September,2025-09,20,Saturday
+TXN00174,2025-09-21,Other Income,Other income received,1110.31,Income,Debit Card,2025,9,September,2025-09,21,Sunday
+TXN00225,2025-09-21,Transport,Local transport,313.54,Expense,Net Banking,2025,9,September,2025-09,21,Sunday
+TXN00697,2025-09-21,Travel,Travel booking,3581.85,Expense,Debit Card,2025,9,September,2025-09,21,Sunday
+TXN00727,2025-09-21,Shopping,Shopping purchase,3338.75,Expense,Credit Card,2025,9,September,2025-09,21,Sunday
+TXN00793,2025-09-21,Other Income,Other income received,44069.53,Income,Credit Card,2025,9,September,2025-09,21,Sunday
+TXN01119,2025-09-21,Shopping,Shopping purchase,848.24,Expense,Debit Card,2025,9,September,2025-09,21,Sunday
+TXN01208,2025-09-21,Food,Food purchase,1087.65,Expense,Debit Card,2025,9,September,2025-09,21,Sunday
+TXN00461,2025-09-22,Utilities,Utility payment,3410.38,Expense,Upi,2025,9,September,2025-09,22,Monday
+TXN00676,2025-09-22,Rent,Monthly rent,10897.9,Expense,Net Banking,2025,9,September,2025-09,22,Monday
+TXN00681,2025-09-22,Travel,Travel booking,6145.8,Expense,Debit Card,2025,9,September,2025-09,22,Monday
+TXN01137,2025-09-22,Food,Food purchase,681.32,Expense,Debit Card,2025,9,September,2025-09,22,Monday
+TXN00318,2025-09-23,Healthcare,Healthcare expense,489.81,Expense,Debit Card,2025,9,September,2025-09,23,Tuesday
+TXN00713,2025-09-23,Food,Food purchase,165.88,Expense,Credit Card,2025,9,September,2025-09,23,Tuesday
+TXN00317,2025-09-24,Rent,Monthly rent,5412.53,Expense,Net Banking,2025,9,September,2025-09,24,Wednesday
+TXN00731,2025-09-24,Shopping,Shopping purchase,3145.31,Expense,Credit Card,2025,9,September,2025-09,24,Wednesday
+TXN00737,2025-09-24,Travel,Travel booking,1076.72,Expense,Credit Card,2025,9,September,2025-09,24,Wednesday
+TXN00760,2025-09-24,Utilities,Utility payment,2702.68,Expense,Cash,2025,9,September,2025-09,24,Wednesday
+TXN01033,2025-09-24,Transport,Local transport,242.24,Expense,Debit Card,2025,9,September,2025-09,24,Wednesday
+TXN01009,2025-09-25,Travel,Travel booking,5870.51,Expense,Credit Card,2025,9,September,2025-09,25,Thursday
+TXN01218,2025-09-25,Education,Education expense,1947.29,Expense,Debit Card,2025,9,September,2025-09,25,Thursday
+TXN01232,2025-09-25,Rent,Monthly rent,12052.4,Expense,Cash,2025,9,September,2025-09,25,Thursday
+TXN00013,2025-09-26,Food,Food purchase,577.13,Expense,Cash,2025,9,September,2025-09,26,Friday
+TXN00215,2025-09-26,Travel,Travel booking,2606.51,Expense,Credit Card,2025,9,September,2025-09,26,Friday
+TXN00377,2025-09-26,Shopping,Shopping purchase,2889.79,Expense,Upi,2025,9,September,2025-09,26,Friday
+TXN00557,2025-09-26,Entertainment,Entertainment activity,724.68,Expense,Net Banking,2025,9,September,2025-09,26,Friday
+TXN00631,2025-09-26,Shopping,Shopping purchase,976.97,Expense,Upi,2025,9,September,2025-09,26,Friday
+TXN00662,2025-09-26,Travel,Travel booking,1917.25,Expense,Net Banking,2025,9,September,2025-09,26,Friday
+TXN00886,2025-09-26,Rent,Monthly rent,12610.22,Expense,Cash,2025,9,September,2025-09,26,Friday
+TXN01002,2025-09-26,Food,Food purchase,685.96,Expense,Cash,2025,9,September,2025-09,26,Friday
+TXN01349,2025-09-26,Food,Food purchase,1143.97,Expense,Upi,2025,9,September,2025-09,26,Friday
+TXN00432,2025-09-27,Food,Food purchase,1031.7,Expense,Cash,2025,9,September,2025-09,27,Saturday
+TXN00471,2025-09-27,Food,Food purchase,639.13,Expense,Credit Card,2025,9,September,2025-09,27,Saturday
+TXN00603,2025-09-27,Transport,Local transport,657.58,Expense,Debit Card,2025,9,September,2025-09,27,Saturday
+TXN00739,2025-09-27,Education,Education expense,1129.96,Expense,Upi,2025,9,September,2025-09,27,Saturday
+TXN00757,2025-09-27,Utilities,Utility payment,2187.95,Expense,Credit Card,2025,9,September,2025-09,27,Saturday
+TXN00805,2025-09-27,Transport,Local transport,503.25,Expense,Cash,2025,9,September,2025-09,27,Saturday
+TXN01282,2025-09-27,Shopping,Shopping purchase,279.16,Expense,Debit Card,2025,9,September,2025-09,27,Saturday
+TXN01449,2025-09-27,Transport,Local transport,49.08,Expense,Credit Card,2025,9,September,2025-09,27,Saturday
+TXN01281,2025-09-28,Food,Food purchase,106.03,Expense,Debit Card,2025,9,September,2025-09,28,Sunday
+TXN01394,2025-09-28,Freelance,Freelance payment,7769.49,Income,Cash,2025,9,September,2025-09,28,Sunday
+TXN00059,2025-09-29,Freelance,Freelance payment,49041.1,Income,Debit Card,2025,9,September,2025-09,29,Monday
+TXN00062,2025-09-29,Food,Food purchase,140.55,Expense,Credit Card,2025,9,September,2025-09,29,Monday
+TXN00878,2025-09-29,Food,Food purchase,198.21,Expense,Credit Card,2025,9,September,2025-09,29,Monday
+TXN01036,2025-09-29,Education,Education expense,3904.64,Expense,Net Banking,2025,9,September,2025-09,29,Monday
+TXN01139,2025-09-29,Education,Education expense,2747.78,Expense,Upi,2025,9,September,2025-09,29,Monday
+TXN00378,2025-09-30,Healthcare,Healthcare expense,1436.15,Expense,Credit Card,2025,9,September,2025-09,30,Tuesday
+TXN00391,2025-09-30,Rent,Monthly rent,12166.23,Expense,Debit Card,2025,9,September,2025-09,30,Tuesday
+TXN00512,2025-09-30,Rent,Monthly rent,14191.1,Expense,Upi,2025,9,September,2025-09,30,Tuesday
+TXN00360,2025-10-01,Food,Food purchase,453.91,Expense,Credit Card,2025,10,October,2025-10,1,Wednesday
+TXN00463,2025-10-01,Entertainment,Entertainment activity,574.37,Expense,Debit Card,2025,10,October,2025-10,1,Wednesday
+TXN00895,2025-10-01,Food,Food purchase,1001.06,Expense,Debit Card,2025,10,October,2025-10,1,Wednesday
+TXN01234,2025-10-01,Transport,Local transport,463.5,Expense,Credit Card,2025,10,October,2025-10,1,Wednesday
+TXN00493,2025-10-02,Rent,Monthly rent,6749.78,Expense,Debit Card,2025,10,October,2025-10,2,Thursday
+TXN01065,2025-10-02,Utilities,Utility payment,1234.06,Expense,Credit Card,2025,10,October,2025-10,2,Thursday
+TXN01378,2025-10-02,Transport,Local transport,547.78,Expense,Upi,2025,10,October,2025-10,2,Thursday
+TXN01098,2025-10-03,Entertainment,Entertainment activity,1220.29,Expense,Upi,2025,10,October,2025-10,3,Friday
+TXN00042,2025-10-04,Rent,Monthly rent,12081.84,Expense,Net Banking,2025,10,October,2025-10,4,Saturday
+TXN00234,2025-10-04,Shopping,Shopping purchase,1823.87,Expense,Net Banking,2025,10,October,2025-10,4,Saturday
+TXN00247,2025-10-04,Entertainment,Entertainment activity,1149.28,Expense,Debit Card,2025,10,October,2025-10,4,Saturday
+TXN01073,2025-10-04,Shopping,Shopping purchase,3596.87,Expense,Upi,2025,10,October,2025-10,4,Saturday
+TXN00014,2025-10-05,Food,Food purchase,156.7,Expense,Upi,2025,10,October,2025-10,5,Sunday
+TXN00051,2025-10-05,Utilities,Utility payment,3336.4,Expense,Cash,2025,10,October,2025-10,5,Sunday
+TXN01204,2025-10-05,Other Income,Other income received,2014.44,Income,Debit Card,2025,10,October,2025-10,5,Sunday
+TXN01301,2025-10-05,Travel,Travel booking,8704.98,Expense,Debit Card,2025,10,October,2025-10,5,Sunday
+TXN00207,2025-10-06,Freelance,Freelance payment,6743.86,Income,Credit Card,2025,10,October,2025-10,6,Monday
+TXN00714,2025-10-06,Other Income,Other income received,23492.96,Income,Upi,2025,10,October,2025-10,6,Monday
+TXN00742,2025-10-06,Utilities,Utility payment,2930.02,Expense,Cash,2025,10,October,2025-10,6,Monday
+TXN01134,2025-10-06,Utilities,Utility payment,2081.86,Expense,Upi,2025,10,October,2025-10,6,Monday
+TXN01275,2025-10-06,Shopping,Shopping purchase,2628.63,Expense,Upi,2025,10,October,2025-10,6,Monday
+TXN00128,2025-10-07,Freelance,Freelance payment,29944.55,Income,Debit Card,2025,10,October,2025-10,7,Tuesday
+TXN00423,2025-10-07,Other Income,Other income received,21398.37,Income,Net Banking,2025,10,October,2025-10,7,Tuesday
+TXN00489,2025-10-07,Food,Food purchase,862.7,Expense,Credit Card,2025,10,October,2025-10,7,Tuesday
+TXN00657,2025-10-07,Travel,Travel booking,9695.11,Expense,Cash,2025,10,October,2025-10,7,Tuesday
+TXN00089,2025-10-08,Rent,Monthly rent,10677.46,Expense,Upi,2025,10,October,2025-10,8,Wednesday
+TXN00320,2025-10-08,Rent,Monthly rent,14955.55,Expense,Net Banking,2025,10,October,2025-10,8,Wednesday
+TXN01148,2025-10-08,Transport,Local transport,114.83,Expense,Cash,2025,10,October,2025-10,8,Wednesday
+TXN00173,2025-10-09,Entertainment,Entertainment activity,1554.11,Expense,Upi,2025,10,October,2025-10,9,Thursday
+TXN00370,2025-10-09,Education,Education expense,5432.47,Expense,Credit Card,2025,10,October,2025-10,9,Thursday
+TXN00645,2025-10-09,Education,Education expense,5922.85,Expense,Upi,2025,10,October,2025-10,9,Thursday
+TXN00864,2025-10-09,Rent,Monthly rent,11564.49,Expense,Credit Card,2025,10,October,2025-10,9,Thursday
+TXN00911,2025-10-09,Food,Food purchase,1179.57,Expense,Cash,2025,10,October,2025-10,9,Thursday
+TXN01058,2025-10-09,Shopping,Shopping purchase,322.41,Expense,Upi,2025,10,October,2025-10,9,Thursday
+TXN01061,2025-10-09,Transport,Local transport,748.71,Expense,Credit Card,2025,10,October,2025-10,9,Thursday
+TXN00002,2025-10-10,Transport,Local transport,624.33,Expense,Upi,2025,10,October,2025-10,10,Friday
+TXN00734,2025-10-10,Transport,Local transport,496.81,Expense,Cash,2025,10,October,2025-10,10,Friday
+TXN01278,2025-10-10,Rent,Monthly rent,6535.28,Expense,Upi,2025,10,October,2025-10,10,Friday
+TXN01339,2025-10-10,Freelance,Freelance payment,4993.03,Income,Cash,2025,10,October,2025-10,10,Friday
+TXN00402,2025-10-11,Education,Education expense,2636.94,Expense,Credit Card,2025,10,October,2025-10,11,Saturday
+TXN00815,2025-10-11,Utilities,Utility payment,1496.55,Expense,Net Banking,2025,10,October,2025-10,11,Saturday
+TXN00836,2025-10-11,Travel,Travel booking,3504.62,Expense,Cash,2025,10,October,2025-10,11,Saturday
+TXN01242,2025-10-11,Healthcare,Healthcare expense,109.66,Expense,Debit Card,2025,10,October,2025-10,11,Saturday
+TXN01469,2025-10-11,Travel,Travel booking,9379.49,Expense,Cash,2025,10,October,2025-10,11,Saturday
+TXN00050,2025-10-12,Healthcare,Healthcare expense,2945.03,Expense,Credit Card,2025,10,October,2025-10,12,Sunday
+TXN00107,2025-10-12,Utilities,Utility payment,1864.47,Expense,Upi,2025,10,October,2025-10,12,Sunday
+TXN00112,2025-10-12,Utilities,Utility payment,465.6,Expense,Debit Card,2025,10,October,2025-10,12,Sunday
+TXN00210,2025-10-12,Shopping,Shopping purchase,2731.52,Expense,Credit Card,2025,10,October,2025-10,12,Sunday
+TXN00598,2025-10-12,Rent,Monthly rent,5642.09,Expense,Net Banking,2025,10,October,2025-10,12,Sunday
+TXN00602,2025-10-12,Education,Education expense,2701.65,Expense,Cash,2025,10,October,2025-10,12,Sunday
+TXN00766,2025-10-12,Transport,Local transport,575.89,Expense,Debit Card,2025,10,October,2025-10,12,Sunday
+TXN01313,2025-10-12,Shopping,Shopping purchase,4541.63,Expense,Upi,2025,10,October,2025-10,12,Sunday
+TXN01441,2025-10-12,Food,Food purchase,94.75,Expense,Net Banking,2025,10,October,2025-10,12,Sunday
+TXN01498,2025-10-12,Entertainment,Entertainment activity,1765.15,Expense,Debit Card,2025,10,October,2025-10,12,Sunday
+TXN00025,2025-10-13,Food,Food purchase,1049.41,Expense,Credit Card,2025,10,October,2025-10,13,Monday
+TXN00278,2025-10-13,Rent,Monthly rent,14024.9,Expense,Upi,2025,10,October,2025-10,13,Monday
+TXN00690,2025-10-13,Travel,Travel booking,606.27,Expense,Net Banking,2025,10,October,2025-10,13,Monday
+TXN00806,2025-10-13,Utilities,Utility payment,1885.71,Expense,Credit Card,2025,10,October,2025-10,13,Monday
+TXN01212,2025-10-13,Rent,Monthly rent,12895.58,Expense,Upi,2025,10,October,2025-10,13,Monday
+TXN00016,2025-10-14,Food,Food purchase,195.55,Expense,Net Banking,2025,10,October,2025-10,14,Tuesday
+TXN00160,2025-10-14,Transport,Local transport,747.6,Expense,Debit Card,2025,10,October,2025-10,14,Tuesday
+TXN00476,2025-10-14,Education,Education expense,4496.73,Expense,Net Banking,2025,10,October,2025-10,14,Tuesday
+TXN00613,2025-10-14,Entertainment,Entertainment activity,703.67,Expense,Net Banking,2025,10,October,2025-10,14,Tuesday
+TXN00725,2025-10-14,Shopping,Shopping purchase,2627.48,Expense,Debit Card,2025,10,October,2025-10,14,Tuesday
+TXN00918,2025-10-14,Transport,Local transport,175.19,Expense,Credit Card,2025,10,October,2025-10,14,Tuesday
+TXN00955,2025-10-14,Shopping,Shopping purchase,4655.55,Expense,Debit Card,2025,10,October,2025-10,14,Tuesday
+TXN01416,2025-10-14,Transport,Local transport,353.25,Expense,Net Banking,2025,10,October,2025-10,14,Tuesday
+TXN00106,2025-10-15,Shopping,Shopping purchase,4018.52,Expense,Debit Card,2025,10,October,2025-10,15,Wednesday
+TXN00213,2025-10-15,Food,Food purchase,153.97,Expense,Credit Card,2025,10,October,2025-10,15,Wednesday
+TXN00249,2025-10-15,Travel,Travel booking,8284.78,Expense,Net Banking,2025,10,October,2025-10,15,Wednesday
+TXN00990,2025-10-15,Utilities,Utility payment,1330.66,Expense,Upi,2025,10,October,2025-10,15,Wednesday
+TXN01430,2025-10-15,Travel,Travel booking,1006.68,Expense,Net Banking,2025,10,October,2025-10,15,Wednesday
+TXN01461,2025-10-16,Travel,Travel booking,8742.18,Expense,Debit Card,2025,10,October,2025-10,16,Thursday
+TXN00261,2025-10-17,Entertainment,Entertainment activity,978.94,Expense,Credit Card,2025,10,October,2025-10,17,Friday
+TXN00559,2025-10-17,Freelance,Freelance payment,5099.78,Income,Net Banking,2025,10,October,2025-10,17,Friday
+TXN00639,2025-10-17,Travel,Travel booking,1528.93,Expense,Debit Card,2025,10,October,2025-10,17,Friday
+TXN01133,2025-10-17,Rent,Monthly rent,14223.9,Expense,Debit Card,2025,10,October,2025-10,17,Friday
+TXN01254,2025-10-17,Entertainment,Entertainment activity,1325.26,Expense,Debit Card,2025,10,October,2025-10,17,Friday
+TXN01414,2025-10-17,Shopping,Shopping purchase,3461.36,Expense,Cash,2025,10,October,2025-10,17,Friday
+TXN00071,2025-10-18,Food,Food purchase,87.48,Expense,Debit Card,2025,10,October,2025-10,18,Saturday
+TXN00105,2025-10-18,Food,Food purchase,540.18,Expense,Debit Card,2025,10,October,2025-10,18,Saturday
+TXN00135,2025-10-18,Other Income,Other income received,45067.49,Income,Credit Card,2025,10,October,2025-10,18,Saturday
+TXN00484,2025-10-18,Healthcare,Healthcare expense,1402.97,Expense,Credit Card,2025,10,October,2025-10,18,Saturday
+TXN00692,2025-10-18,Food,Food purchase,305.85,Expense,Debit Card,2025,10,October,2025-10,18,Saturday
+TXN00745,2025-10-18,Shopping,Shopping purchase,2902.45,Expense,Debit Card,2025,10,October,2025-10,18,Saturday
+TXN00716,2025-10-19,Healthcare,Healthcare expense,2217.47,Expense,Net Banking,2025,10,October,2025-10,19,Sunday
+TXN01012,2025-10-19,Food,Food purchase,850.53,Expense,Net Banking,2025,10,October,2025-10,19,Sunday
+TXN00591,2025-10-20,Food,Food purchase,954.98,Expense,Credit Card,2025,10,October,2025-10,20,Monday
+TXN00596,2025-10-20,Freelance,Freelance payment,24054.2,Income,Net Banking,2025,10,October,2025-10,20,Monday
+TXN00686,2025-10-20,Travel,Travel booking,4982.02,Expense,Credit Card,2025,10,October,2025-10,20,Monday
+TXN00852,2025-10-20,Other Income,Other income received,2399.91,Income,Upi,2025,10,October,2025-10,20,Monday
+TXN00860,2025-10-20,Freelance,Freelance payment,3434.86,Income,Net Banking,2025,10,October,2025-10,20,Monday
+TXN01087,2025-10-20,Food,Food purchase,653.37,Expense,Debit Card,2025,10,October,2025-10,20,Monday
+TXN01260,2025-10-20,Healthcare,Healthcare expense,1184.49,Expense,Net Banking,2025,10,October,2025-10,20,Monday
+TXN01284,2025-10-20,Shopping,Shopping purchase,989.02,Expense,Upi,2025,10,October,2025-10,20,Monday
+TXN00092,2025-10-21,Utilities,Utility payment,521.24,Expense,Debit Card,2025,10,October,2025-10,21,Tuesday
+TXN00103,2025-10-21,Education,Education expense,1561.28,Expense,Debit Card,2025,10,October,2025-10,21,Tuesday
+TXN00428,2025-10-21,Freelance,Freelance payment,8960.48,Income,Cash,2025,10,October,2025-10,21,Tuesday
+TXN00472,2025-10-21,Food,Food purchase,978.56,Expense,Net Banking,2025,10,October,2025-10,21,Tuesday
+TXN00551,2025-10-21,Food,Food purchase,1197.96,Expense,Cash,2025,10,October,2025-10,21,Tuesday
+TXN00654,2025-10-21,Transport,Local transport,797.74,Expense,Cash,2025,10,October,2025-10,21,Tuesday
+TXN01199,2025-10-21,Food,Food purchase,427.32,Expense,Upi,2025,10,October,2025-10,21,Tuesday
+TXN00291,2025-10-22,Food,Food purchase,633.27,Expense,Credit Card,2025,10,October,2025-10,22,Wednesday
+TXN01334,2025-10-22,Food,Food purchase,880.85,Expense,Debit Card,2025,10,October,2025-10,22,Wednesday
+TXN00227,2025-10-23,Shopping,Shopping purchase,886.44,Expense,Net Banking,2025,10,October,2025-10,23,Thursday
+TXN00336,2025-10-23,Other Income,Other income received,2834.03,Income,Credit Card,2025,10,October,2025-10,23,Thursday
+TXN00837,2025-10-23,Rent,Monthly rent,7052.6,Expense,Cash,2025,10,October,2025-10,23,Thursday
+TXN01001,2025-10-23,Entertainment,Entertainment activity,1945.58,Expense,Credit Card,2025,10,October,2025-10,23,Thursday
+TXN01219,2025-10-23,Shopping,Shopping purchase,1689.74,Expense,Net Banking,2025,10,October,2025-10,23,Thursday
+TXN00885,2025-10-24,Travel,Travel booking,7353.0,Expense,Upi,2025,10,October,2025-10,24,Friday
+TXN00166,2025-10-25,Travel,Travel booking,1519.23,Expense,Credit Card,2025,10,October,2025-10,25,Saturday
+TXN01426,2025-10-25,Entertainment,Entertainment activity,1768.8,Expense,Net Banking,2025,10,October,2025-10,25,Saturday
+TXN00514,2025-10-26,Travel,Travel booking,3499.76,Expense,Credit Card,2025,10,October,2025-10,26,Sunday
+TXN00741,2025-10-26,Food,Food purchase,959.49,Expense,Net Banking,2025,10,October,2025-10,26,Sunday
+TXN00149,2025-10-27,Food,Food purchase,192.51,Expense,Credit Card,2025,10,October,2025-10,27,Monday
+TXN00849,2025-10-27,Utilities,Utility payment,1124.6,Expense,Cash,2025,10,October,2025-10,27,Monday
+TXN00867,2025-10-27,Food,Food purchase,233.42,Expense,Debit Card,2025,10,October,2025-10,27,Monday
+TXN01025,2025-10-27,Entertainment,Entertainment activity,1437.83,Expense,Net Banking,2025,10,October,2025-10,27,Monday
+TXN01231,2025-10-27,Education,Education expense,2764.46,Expense,Net Banking,2025,10,October,2025-10,27,Monday
+TXN00028,2025-10-28,Food,Food purchase,298.71,Expense,Credit Card,2025,10,October,2025-10,28,Tuesday
+TXN01264,2025-10-28,Shopping,Shopping purchase,4862.05,Expense,Upi,2025,10,October,2025-10,28,Tuesday
+TXN00302,2025-10-29,Food,Food purchase,624.17,Expense,Credit Card,2025,10,October,2025-10,29,Wednesday
+TXN00433,2025-10-29,Food,Food purchase,226.52,Expense,Net Banking,2025,10,October,2025-10,29,Wednesday
+TXN00524,2025-10-29,Entertainment,Entertainment activity,192.86,Expense,Debit Card,2025,10,October,2025-10,29,Wednesday
+TXN00605,2025-10-29,Education,Education expense,4596.61,Expense,Credit Card,2025,10,October,2025-10,29,Wednesday
+TXN00794,2025-10-29,Food,Food purchase,564.49,Expense,Credit Card,2025,10,October,2025-10,29,Wednesday
+TXN01040,2025-10-29,Food,Food purchase,548.38,Expense,Upi,2025,10,October,2025-10,29,Wednesday
+TXN00038,2025-10-30,Transport,Local transport,618.44,Expense,Upi,2025,10,October,2025-10,30,Thursday
+TXN00334,2025-10-30,Education,Education expense,1328.84,Expense,Upi,2025,10,October,2025-10,30,Thursday
+TXN00482,2025-10-30,Entertainment,Entertainment activity,667.64,Expense,Upi,2025,10,October,2025-10,30,Thursday
+TXN00553,2025-10-30,Salary,Salary received,8011.93,Income,Debit Card,2025,10,October,2025-10,30,Thursday
+TXN00084,2025-10-31,Healthcare,Healthcare expense,640.46,Expense,Debit Card,2025,10,October,2025-10,31,Friday
+TXN00090,2025-10-31,Shopping,Shopping purchase,531.87,Expense,Debit Card,2025,10,October,2025-10,31,Friday
+TXN00101,2025-10-31,Food,Food purchase,114.73,Expense,Debit Card,2025,10,October,2025-10,31,Friday
+TXN00388,2025-10-31,Shopping,Shopping purchase,1204.53,Expense,Upi,2025,10,October,2025-10,31,Friday
+TXN00545,2025-10-31,Rent,Monthly rent,13465.98,Expense,Debit Card,2025,10,October,2025-10,31,Friday
+TXN00582,2025-11-01,Salary,Salary received,3931.25,Income,Debit Card,2025,11,November,2025-11,1,Saturday
+TXN00611,2025-11-01,Healthcare,Healthcare expense,1716.27,Expense,Debit Card,2025,11,November,2025-11,1,Saturday
+TXN01097,2025-11-01,Transport,Local transport,642.55,Expense,Credit Card,2025,11,November,2025-11,1,Saturday
+TXN00589,2025-11-02,Education,Education expense,2355.93,Expense,Net Banking,2025,11,November,2025-11,2,Sunday
+TXN00816,2025-11-02,Shopping,Shopping purchase,2340.95,Expense,Upi,2025,11,November,2025-11,2,Sunday
+TXN00868,2025-11-02,Entertainment,Entertainment activity,1379.32,Expense,Upi,2025,11,November,2025-11,2,Sunday
+TXN01016,2025-11-02,Food,Food purchase,312.29,Expense,Credit Card,2025,11,November,2025-11,2,Sunday
+TXN01080,2025-11-02,Shopping,Shopping purchase,1270.57,Expense,Credit Card,2025,11,November,2025-11,2,Sunday
+TXN00019,2025-11-03,Food,Food purchase,881.95,Expense,Credit Card,2025,11,November,2025-11,3,Monday
+TXN00459,2025-11-03,Transport,Local transport,161.2,Expense,Upi,2025,11,November,2025-11,3,Monday
+TXN00513,2025-11-03,Transport,Local transport,107.4,Expense,Cash,2025,11,November,2025-11,3,Monday
+TXN00963,2025-11-03,Travel,Travel booking,8011.16,Expense,Net Banking,2025,11,November,2025-11,3,Monday
+TXN01086,2025-11-03,Food,Food purchase,454.05,Expense,Cash,2025,11,November,2025-11,3,Monday
+TXN01125,2025-11-03,Travel,Travel booking,5318.86,Expense,Upi,2025,11,November,2025-11,3,Monday
+TXN00093,2025-11-04,Shopping,Shopping purchase,3693.83,Expense,Debit Card,2025,11,November,2025-11,4,Tuesday
+TXN00590,2025-11-04,Rent,Monthly rent,5456.62,Expense,Cash,2025,11,November,2025-11,4,Tuesday
+TXN01024,2025-11-04,Education,Education expense,4317.57,Expense,Cash,2025,11,November,2025-11,4,Tuesday
+TXN01093,2025-11-04,Food,Food purchase,231.24,Expense,Cash,2025,11,November,2025-11,4,Tuesday
+TXN01126,2025-11-04,Utilities,Utility payment,1657.88,Expense,Credit Card,2025,11,November,2025-11,4,Tuesday
+TXN01500,2025-11-04,Rent,Monthly rent,7002.71,Expense,Debit Card,2025,11,November,2025-11,4,Tuesday
+TXN00361,2025-11-05,Food,Food purchase,1069.64,Expense,Credit Card,2025,11,November,2025-11,5,Wednesday
+TXN00723,2025-11-05,Food,Food purchase,197.41,Expense,Credit Card,2025,11,November,2025-11,5,Wednesday
+TXN00775,2025-11-05,Healthcare,Healthcare expense,1325.2,Expense,Cash,2025,11,November,2025-11,5,Wednesday
+TXN00865,2025-11-05,Education,Education expense,2817.53,Expense,Credit Card,2025,11,November,2025-11,5,Wednesday
+TXN01144,2025-11-05,Food,Food purchase,82.6,Expense,Upi,2025,11,November,2025-11,5,Wednesday
+TXN00477,2025-11-06,Shopping,Shopping purchase,3966.6,Expense,Upi,2025,11,November,2025-11,6,Thursday
+TXN00650,2025-11-06,Rent,Monthly rent,9200.84,Expense,Upi,2025,11,November,2025-11,6,Thursday
+TXN01163,2025-11-06,Travel,Travel booking,5356.14,Expense,Cash,2025,11,November,2025-11,6,Thursday
+TXN00297,2025-11-07,Food,Food purchase,1165.42,Expense,Upi,2025,11,November,2025-11,7,Friday
+TXN00560,2025-11-07,Travel,Travel booking,2074.65,Expense,Cash,2025,11,November,2025-11,7,Friday
+TXN00780,2025-11-07,Transport,Local transport,321.05,Expense,Upi,2025,11,November,2025-11,7,Friday
+TXN00856,2025-11-07,Transport,Local transport,550.53,Expense,Debit Card,2025,11,November,2025-11,7,Friday
+TXN00882,2025-11-07,Education,Education expense,5426.41,Expense,Net Banking,2025,11,November,2025-11,7,Friday
+TXN01007,2025-11-07,Food,Food purchase,166.65,Expense,Net Banking,2025,11,November,2025-11,7,Friday
+TXN01150,2025-11-07,Food,Food purchase,795.16,Expense,Upi,2025,11,November,2025-11,7,Friday
+TXN01158,2025-11-07,Food,Food purchase,339.47,Expense,Credit Card,2025,11,November,2025-11,7,Friday
+TXN01465,2025-11-07,Travel,Travel booking,8595.7,Expense,Upi,2025,11,November,2025-11,7,Friday
+TXN00146,2025-11-08,Education,Education expense,5949.22,Expense,Credit Card,2025,11,November,2025-11,8,Saturday
+TXN00643,2025-11-08,Food,Food purchase,760.31,Expense,Upi,2025,11,November,2025-11,8,Saturday
+TXN00835,2025-11-08,Entertainment,Entertainment activity,1545.81,Expense,Cash,2025,11,November,2025-11,8,Saturday
+TXN01127,2025-11-08,Transport,Local transport,37.8,Expense,Debit Card,2025,11,November,2025-11,8,Saturday
+TXN01310,2025-11-08,Food,Food purchase,641.47,Expense,Cash,2025,11,November,2025-11,8,Saturday
+TXN01314,2025-11-08,Food,Food purchase,262.11,Expense,Net Banking,2025,11,November,2025-11,8,Saturday
+TXN01401,2025-11-08,Entertainment,Entertainment activity,664.93,Expense,Cash,2025,11,November,2025-11,8,Saturday
+TXN00125,2025-11-09,Salary,Salary received,39967.14,Income,Net Banking,2025,11,November,2025-11,9,Sunday
+TXN00151,2025-11-09,Shopping,Shopping purchase,3062.94,Expense,Upi,2025,11,November,2025-11,9,Sunday
+TXN00232,2025-11-09,Utilities,Utility payment,1051.49,Expense,Credit Card,2025,11,November,2025-11,9,Sunday
+TXN01042,2025-11-09,Transport,Local transport,584.75,Expense,Upi,2025,11,November,2025-11,9,Sunday
+TXN01347,2025-11-09,Food,Food purchase,1049.88,Expense,Net Banking,2025,11,November,2025-11,9,Sunday
+TXN00006,2025-11-10,Transport,Local transport,431.92,Expense,Net Banking,2025,11,November,2025-11,10,Monday
+TXN00037,2025-11-10,Other Income,Other income received,52135.38,Income,Net Banking,2025,11,November,2025-11,10,Monday
+TXN00610,2025-11-10,Food,Food purchase,576.58,Expense,Debit Card,2025,11,November,2025-11,10,Monday
+TXN01247,2025-11-10,Transport,Local transport,582.13,Expense,Debit Card,2025,11,November,2025-11,10,Monday
+TXN01292,2025-11-10,Utilities,Utility payment,2041.11,Expense,Debit Card,2025,11,November,2025-11,10,Monday
+TXN00668,2025-11-11,Shopping,Shopping purchase,4301.09,Expense,Cash,2025,11,November,2025-11,11,Tuesday
+TXN01419,2025-11-11,Transport,Local transport,322.6,Expense,Credit Card,2025,11,November,2025-11,11,Tuesday
+TXN01486,2025-11-11,Education,Education expense,5854.78,Expense,Credit Card,2025,11,November,2025-11,11,Tuesday
+TXN00427,2025-11-12,Shopping,Shopping purchase,2466.29,Expense,Net Banking,2025,11,November,2025-11,12,Wednesday
+TXN00829,2025-11-12,Travel,Travel booking,6283.67,Expense,Upi,2025,11,November,2025-11,12,Wednesday
+TXN01280,2025-11-12,Entertainment,Entertainment activity,1020.33,Expense,Upi,2025,11,November,2025-11,12,Wednesday
+TXN00492,2025-11-13,Transport,Local transport,680.19,Expense,Credit Card,2025,11,November,2025-11,13,Thursday
+TXN00504,2025-11-13,Entertainment,Entertainment activity,253.49,Expense,Debit Card,2025,11,November,2025-11,13,Thursday
+TXN01214,2025-11-13,Food,Food purchase,381.43,Expense,Net Banking,2025,11,November,2025-11,13,Thursday
+TXN01325,2025-11-13,Salary,Salary received,59150.04,Income,Cash,2025,11,November,2025-11,13,Thursday
+TXN01023,2025-11-14,Entertainment,Entertainment activity,1319.15,Expense,Net Banking,2025,11,November,2025-11,14,Friday
+TXN00921,2025-11-15,Transport,Local transport,789.68,Expense,Upi,2025,11,November,2025-11,15,Saturday
+TXN00396,2025-11-16,Transport,Local transport,708.85,Expense,Upi,2025,11,November,2025-11,16,Sunday
+TXN00558,2025-11-16,Healthcare,Healthcare expense,2951.02,Expense,Cash,2025,11,November,2025-11,16,Sunday
+TXN01245,2025-11-16,Shopping,Shopping purchase,819.85,Expense,Cash,2025,11,November,2025-11,16,Sunday
+TXN01408,2025-11-16,Transport,Local transport,351.13,Expense,Credit Card,2025,11,November,2025-11,16,Sunday
+TXN00781,2025-11-17,Transport,Local transport,638.23,Expense,Cash,2025,11,November,2025-11,17,Monday
+TXN00812,2025-11-17,Entertainment,Entertainment activity,939.61,Expense,Credit Card,2025,11,November,2025-11,17,Monday
+TXN01201,2025-11-17,Travel,Travel booking,7072.86,Expense,Net Banking,2025,11,November,2025-11,17,Monday
+TXN00517,2025-11-18,Food,Food purchase,562.06,Expense,Credit Card,2025,11,November,2025-11,18,Tuesday
+TXN01141,2025-11-18,Transport,Local transport,136.48,Expense,Upi,2025,11,November,2025-11,18,Tuesday
+TXN01371,2025-11-18,Transport,Local transport,508.79,Expense,Upi,2025,11,November,2025-11,18,Tuesday
+TXN00904,2025-11-19,Food,Food purchase,192.36,Expense,Upi,2025,11,November,2025-11,19,Wednesday
+TXN00375,2025-11-20,Freelance,Freelance payment,9354.76,Income,Cash,2025,11,November,2025-11,20,Thursday
+TXN01004,2025-11-20,Utilities,Utility payment,1864.72,Expense,Upi,2025,11,November,2025-11,20,Thursday
+TXN01324,2025-11-20,Education,Education expense,2785.25,Expense,Cash,2025,11,November,2025-11,20,Thursday
+TXN01375,2025-11-20,Rent,Monthly rent,11684.44,Expense,Net Banking,2025,11,November,2025-11,20,Thursday
+TXN00035,2025-11-21,Travel,Travel booking,2441.42,Expense,Upi,2025,11,November,2025-11,21,Friday
+TXN00565,2025-11-21,Food,Food purchase,82.54,Expense,Cash,2025,11,November,2025-11,21,Friday
+TXN00048,2025-11-22,Food,Food purchase,99.65,Expense,Net Banking,2025,11,November,2025-11,22,Saturday
+TXN00358,2025-11-22,Rent,Monthly rent,7325.52,Expense,Net Banking,2025,11,November,2025-11,22,Saturday
+TXN00362,2025-11-22,Shopping,Shopping purchase,4132.45,Expense,Net Banking,2025,11,November,2025-11,22,Saturday
+TXN00389,2025-11-22,Food,Food purchase,996.38,Expense,Net Banking,2025,11,November,2025-11,22,Saturday
+TXN01389,2025-11-22,Utilities,Utility payment,2874.55,Expense,Credit Card,2025,11,November,2025-11,22,Saturday
+TXN00364,2025-11-23,Travel,Travel booking,7842.5,Expense,Upi,2025,11,November,2025-11,23,Sunday
+TXN00579,2025-11-23,Transport,Local transport,655.64,Expense,Credit Card,2025,11,November,2025-11,23,Sunday
+TXN01304,2025-11-23,Education,Education expense,3211.51,Expense,Upi,2025,11,November,2025-11,23,Sunday
+TXN00095,2025-11-24,Other Income,Other income received,28619.85,Income,Net Banking,2025,11,November,2025-11,24,Monday
+TXN00304,2025-11-24,Food,Food purchase,1142.5,Expense,Debit Card,2025,11,November,2025-11,24,Monday
+TXN00740,2025-11-24,Shopping,Shopping purchase,3129.96,Expense,Credit Card,2025,11,November,2025-11,24,Monday
+TXN00828,2025-11-24,Education,Education expense,3743.56,Expense,Credit Card,2025,11,November,2025-11,24,Monday
+TXN01384,2025-11-24,Travel,Travel booking,4448.99,Expense,Upi,2025,11,November,2025-11,24,Monday
+TXN01471,2025-11-24,Rent,Monthly rent,11382.87,Expense,Cash,2025,11,November,2025-11,24,Monday
+TXN00179,2025-11-25,Entertainment,Entertainment activity,1300.09,Expense,Credit Card,2025,11,November,2025-11,25,Tuesday
+TXN00220,2025-11-26,Food,Food purchase,439.38,Expense,Debit Card,2025,11,November,2025-11,26,Wednesday
+TXN00592,2025-11-26,Utilities,Utility payment,1685.59,Expense,Upi,2025,11,November,2025-11,26,Wednesday
+TXN01037,2025-11-26,Transport,Local transport,513.93,Expense,Upi,2025,11,November,2025-11,26,Wednesday
+TXN01206,2025-11-26,Travel,Travel booking,7931.7,Expense,Upi,2025,11,November,2025-11,26,Wednesday
+TXN01315,2025-11-26,Salary,Salary received,36063.84,Income,Debit Card,2025,11,November,2025-11,26,Wednesday
+TXN01428,2025-11-26,Utilities,Utility payment,2128.85,Expense,Upi,2025,11,November,2025-11,26,Wednesday
+TXN00067,2025-11-27,Education,Education expense,1212.32,Expense,Cash,2025,11,November,2025-11,27,Thursday
+TXN00345,2025-11-27,Entertainment,Entertainment activity,661.24,Expense,Credit Card,2025,11,November,2025-11,27,Thursday
+TXN00202,2025-11-28,Salary,Salary received,23277.05,Income,Cash,2025,11,November,2025-11,28,Friday
+TXN00843,2025-11-28,Travel,Travel booking,8577.49,Expense,Upi,2025,11,November,2025-11,28,Friday
+TXN01108,2025-11-28,Transport,Local transport,400.07,Expense,Net Banking,2025,11,November,2025-11,28,Friday
+TXN01154,2025-11-28,Food,Food purchase,1093.28,Expense,Upi,2025,11,November,2025-11,28,Friday
+TXN01287,2025-11-28,Travel,Travel booking,2668.82,Expense,Debit Card,2025,11,November,2025-11,28,Friday
+TXN01390,2025-11-28,Education,Education expense,3299.39,Expense,Net Banking,2025,11,November,2025-11,28,Friday
+TXN00840,2025-11-29,Food,Food purchase,1106.95,Expense,Debit Card,2025,11,November,2025-11,29,Saturday
+TXN00943,2025-11-30,Transport,Local transport,456.14,Expense,Upi,2025,11,November,2025-11,30,Sunday
+TXN00153,2025-12-01,Food,Food purchase,916.03,Expense,Credit Card,2025,12,December,2025-12,1,Monday
+TXN00324,2025-12-01,Travel,Travel booking,8354.36,Expense,Upi,2025,12,December,2025-12,1,Monday
+TXN00529,2025-12-01,Education,Education expense,1706.51,Expense,Debit Card,2025,12,December,2025-12,1,Monday
+TXN00642,2025-12-01,Education,Education expense,5891.4,Expense,Upi,2025,12,December,2025-12,1,Monday
+TXN01170,2025-12-01,Travel,Travel booking,8577.7,Expense,Upi,2025,12,December,2025-12,1,Monday
+TXN01354,2025-12-01,Travel,Travel booking,2590.46,Expense,Debit Card,2025,12,December,2025-12,1,Monday
+TXN00669,2025-12-02,Education,Education expense,399.93,Expense,Debit Card,2025,12,December,2025-12,2,Tuesday
+TXN00715,2025-12-02,Entertainment,Entertainment activity,588.59,Expense,Credit Card,2025,12,December,2025-12,2,Tuesday
+TXN00804,2025-12-02,Rent,Monthly rent,12828.38,Expense,Debit Card,2025,12,December,2025-12,2,Tuesday
+TXN00969,2025-12-02,Entertainment,Entertainment activity,633.12,Expense,Upi,2025,12,December,2025-12,2,Tuesday
+TXN01081,2025-12-02,Shopping,Shopping purchase,4731.9,Expense,Upi,2025,12,December,2025-12,2,Tuesday
+TXN01103,2025-12-02,Shopping,Shopping purchase,385.87,Expense,Credit Card,2025,12,December,2025-12,2,Tuesday
+TXN00061,2025-12-03,Food,Food purchase,1194.26,Expense,Net Banking,2025,12,December,2025-12,3,Wednesday
+TXN00530,2025-12-03,Entertainment,Entertainment activity,356.92,Expense,Cash,2025,12,December,2025-12,3,Wednesday
+TXN00733,2025-12-03,Entertainment,Entertainment activity,289.07,Expense,Cash,2025,12,December,2025-12,3,Wednesday
+TXN01006,2025-12-03,Entertainment,Entertainment activity,1627.6,Expense,Upi,2025,12,December,2025-12,3,Wednesday
+TXN00264,2025-12-04,Travel,Travel booking,1419.15,Expense,Debit Card,2025,12,December,2025-12,4,Thursday
+TXN00452,2025-12-04,Shopping,Shopping purchase,2757.15,Expense,Credit Card,2025,12,December,2025-12,4,Thursday
+TXN00527,2025-12-04,Food,Food purchase,795.89,Expense,Cash,2025,12,December,2025-12,4,Thursday
+TXN00577,2025-12-04,Rent,Monthly rent,9652.12,Expense,Net Banking,2025,12,December,2025-12,4,Thursday
+TXN00586,2025-12-04,Education,Education expense,3930.37,Expense,Net Banking,2025,12,December,2025-12,4,Thursday
+TXN01067,2025-12-04,Utilities,Utility payment,2659.87,Expense,Debit Card,2025,12,December,2025-12,4,Thursday
+TXN01262,2025-12-04,Transport,Local transport,574.6,Expense,Credit Card,2025,12,December,2025-12,4,Thursday
+TXN00024,2025-12-05,Education,Education expense,5086.24,Expense,Net Banking,2025,12,December,2025-12,5,Friday
+TXN00421,2025-12-05,Freelance,Freelance payment,4273.61,Income,Cash,2025,12,December,2025-12,5,Friday
+TXN00438,2025-12-05,Travel,Travel booking,6878.33,Expense,Net Banking,2025,12,December,2025-12,5,Friday
+TXN00499,2025-12-05,Education,Education expense,3082.75,Expense,Credit Card,2025,12,December,2025-12,5,Friday
+TXN00862,2025-12-05,Utilities,Utility payment,1116.6,Expense,Cash,2025,12,December,2025-12,5,Friday
+TXN01182,2025-12-05,Entertainment,Entertainment activity,1159.44,Expense,Credit Card,2025,12,December,2025-12,5,Friday
+TXN00693,2025-12-06,Food,Food purchase,987.11,Expense,Net Banking,2025,12,December,2025-12,6,Saturday
+TXN00722,2025-12-06,Food,Food purchase,798.43,Expense,Cash,2025,12,December,2025-12,6,Saturday
+TXN01143,2025-12-06,Shopping,Shopping purchase,4875.73,Expense,Net Banking,2025,12,December,2025-12,6,Saturday
+TXN00470,2025-12-07,Food,Food purchase,689.96,Expense,Net Banking,2025,12,December,2025-12,7,Sunday
+TXN00491,2025-12-07,Education,Education expense,740.03,Expense,Debit Card,2025,12,December,2025-12,7,Sunday
+TXN01273,2025-12-07,Food,Food purchase,176.1,Expense,Credit Card,2025,12,December,2025-12,7,Sunday
+TXN00348,2025-12-08,Utilities,Utility payment,1601.94,Expense,Credit Card,2025,12,December,2025-12,8,Monday
+TXN00382,2025-12-08,Shopping,Shopping purchase,2583.51,Expense,Net Banking,2025,12,December,2025-12,8,Monday
+TXN00409,2025-12-08,Shopping,Shopping purchase,708.52,Expense,Credit Card,2025,12,December,2025-12,8,Monday
+TXN00680,2025-12-08,Shopping,Shopping purchase,3546.96,Expense,Debit Card,2025,12,December,2025-12,8,Monday
+TXN00754,2025-12-08,Shopping,Shopping purchase,3779.24,Expense,Upi,2025,12,December,2025-12,8,Monday
+TXN00764,2025-12-08,Utilities,Utility payment,2534.21,Expense,Cash,2025,12,December,2025-12,8,Monday
+TXN01443,2025-12-08,Healthcare,Healthcare expense,459.8,Expense,Upi,2025,12,December,2025-12,8,Monday
+TXN00181,2025-12-09,Transport,Local transport,667.71,Expense,Upi,2025,12,December,2025-12,9,Tuesday
+TXN00286,2025-12-09,Entertainment,Entertainment activity,1212.65,Expense,Cash,2025,12,December,2025-12,9,Tuesday
+TXN00319,2025-12-09,Food,Food purchase,803.25,Expense,Cash,2025,12,December,2025-12,9,Tuesday
+TXN01447,2025-12-09,Food,Food purchase,394.32,Expense,Credit Card,2025,12,December,2025-12,9,Tuesday
+TXN00081,2025-12-10,Entertainment,Entertainment activity,1202.83,Expense,Debit Card,2025,12,December,2025-12,10,Wednesday
+TXN00936,2025-12-10,Transport,Local transport,92.02,Expense,Net Banking,2025,12,December,2025-12,10,Wednesday
+TXN01109,2025-12-10,Transport,Local transport,552.02,Expense,Upi,2025,12,December,2025-12,10,Wednesday
+TXN00383,2025-12-12,Food,Food purchase,1070.93,Expense,Cash,2025,12,December,2025-12,12,Friday
+TXN00694,2025-12-12,Food,Food purchase,243.94,Expense,Upi,2025,12,December,2025-12,12,Friday
+TXN00926,2025-12-12,Travel,Travel booking,881.72,Expense,Upi,2025,12,December,2025-12,12,Friday
+TXN00949,2025-12-12,Travel,Travel booking,1965.89,Expense,Credit Card,2025,12,December,2025-12,12,Friday
+TXN00571,2025-12-13,Shopping,Shopping purchase,1581.48,Expense,Net Banking,2025,12,December,2025-12,13,Saturday
+TXN00640,2025-12-13,Food,Food purchase,195.89,Expense,Upi,2025,12,December,2025-12,13,Saturday
+TXN00763,2025-12-13,Entertainment,Entertainment activity,1547.94,Expense,Upi,2025,12,December,2025-12,13,Saturday
+TXN00965,2025-12-13,Transport,Local transport,142.76,Expense,Cash,2025,12,December,2025-12,13,Saturday
+TXN01421,2025-12-13,Rent,Monthly rent,8599.33,Expense,Debit Card,2025,12,December,2025-12,13,Saturday
+TXN00340,2025-12-14,Shopping,Shopping purchase,2131.38,Expense,Upi,2025,12,December,2025-12,14,Sunday
+TXN00671,2025-12-14,Healthcare,Healthcare expense,3997.62,Expense,Credit Card,2025,12,December,2025-12,14,Sunday
+TXN00776,2025-12-14,Food,Food purchase,212.48,Expense,Credit Card,2025,12,December,2025-12,14,Sunday
+TXN01269,2025-12-14,Entertainment,Entertainment activity,1132.37,Expense,Upi,2025,12,December,2025-12,14,Sunday
+TXN01295,2025-12-14,Travel,Travel booking,3635.23,Expense,Upi,2025,12,December,2025-12,14,Sunday
+TXN00293,2025-12-15,Entertainment,Entertainment activity,745.46,Expense,Debit Card,2025,12,December,2025-12,15,Monday
+TXN00448,2025-12-15,Entertainment,Entertainment activity,161.08,Expense,Credit Card,2025,12,December,2025-12,15,Monday
+TXN01440,2025-12-15,Travel,Travel booking,4123.4,Expense,Debit Card,2025,12,December,2025-12,15,Monday
+TXN00274,2025-12-16,Shopping,Shopping purchase,3205.56,Expense,Net Banking,2025,12,December,2025-12,16,Tuesday
+TXN00684,2025-12-16,Food,Food purchase,1064.19,Expense,Upi,2025,12,December,2025-12,16,Tuesday
+TXN01054,2025-12-16,Healthcare,Healthcare expense,3997.69,Expense,Net Banking,2025,12,December,2025-12,16,Tuesday
+TXN01083,2025-12-16,Shopping,Shopping purchase,325.77,Expense,Upi,2025,12,December,2025-12,16,Tuesday
+TXN00195,2025-12-17,Shopping,Shopping purchase,2510.6,Expense,Net Banking,2025,12,December,2025-12,17,Wednesday
+TXN00451,2025-12-17,Entertainment,Entertainment activity,1408.63,Expense,Cash,2025,12,December,2025-12,17,Wednesday
+TXN00515,2025-12-17,Entertainment,Entertainment activity,237.66,Expense,Net Banking,2025,12,December,2025-12,17,Wednesday
+TXN00649,2025-12-17,Entertainment,Entertainment activity,1283.84,Expense,Debit Card,2025,12,December,2025-12,17,Wednesday
+TXN00683,2025-12-17,Food,Food purchase,697.61,Expense,Debit Card,2025,12,December,2025-12,17,Wednesday
+TXN00751,2025-12-17,Healthcare,Healthcare expense,3333.96,Expense,Credit Card,2025,12,December,2025-12,17,Wednesday
+TXN01223,2025-12-17,Utilities,Utility payment,2067.46,Expense,Cash,2025,12,December,2025-12,17,Wednesday
+TXN01376,2025-12-17,Rent,Monthly rent,10606.53,Expense,Credit Card,2025,12,December,2025-12,17,Wednesday
+TXN01448,2025-12-17,Shopping,Shopping purchase,427.44,Expense,Cash,2025,12,December,2025-12,17,Wednesday
+TXN00200,2025-12-18,Transport,Local transport,480.6,Expense,Debit Card,2025,12,December,2025-12,18,Thursday
+TXN00337,2025-12-18,Utilities,Utility payment,1369.95,Expense,Cash,2025,12,December,2025-12,18,Thursday
+TXN00503,2025-12-18,Food,Food purchase,1012.99,Expense,Credit Card,2025,12,December,2025-12,18,Thursday
+TXN00853,2025-12-18,Other Income,Other income received,8368.32,Income,Upi,2025,12,December,2025-12,18,Thursday
+TXN00999,2025-12-18,Shopping,Shopping purchase,4421.23,Expense,Upi,2025,12,December,2025-12,18,Thursday
+TXN01210,2025-12-18,Entertainment,Entertainment activity,1604.51,Expense,Upi,2025,12,December,2025-12,18,Thursday
+TXN01243,2025-12-18,Transport,Local transport,689.09,Expense,Credit Card,2025,12,December,2025-12,18,Thursday
+TXN01369,2025-12-18,Food,Food purchase,418.67,Expense,Net Banking,2025,12,December,2025-12,18,Thursday
+TXN01377,2025-12-18,Transport,Local transport,711.58,Expense,Upi,2025,12,December,2025-12,18,Thursday
+TXN00466,2025-12-19,Shopping,Shopping purchase,1286.71,Expense,Credit Card,2025,12,December,2025-12,19,Friday
+TXN00609,2025-12-19,Healthcare,Healthcare expense,3016.38,Expense,Credit Card,2025,12,December,2025-12,19,Friday
+TXN00064,2025-12-20,Entertainment,Entertainment activity,443.34,Expense,Credit Card,2025,12,December,2025-12,20,Saturday
+TXN00208,2025-12-20,Freelance,Freelance payment,1360.28,Income,Net Banking,2025,12,December,2025-12,20,Saturday
+TXN00355,2025-12-20,Food,Food purchase,86.32,Expense,Upi,2025,12,December,2025-12,20,Saturday
+TXN00417,2025-12-20,Utilities,Utility payment,3164.53,Expense,Cash,2025,12,December,2025-12,20,Saturday
+TXN00797,2025-12-20,Freelance,Freelance payment,8356.51,Income,Cash,2025,12,December,2025-12,20,Saturday
+TXN00861,2025-12-20,Transport,Local transport,262.38,Expense,Credit Card,2025,12,December,2025-12,20,Saturday
+TXN01226,2025-12-20,Food,Food purchase,547.19,Expense,Credit Card,2025,12,December,2025-12,20,Saturday
+TXN00046,2025-12-21,Rent,Monthly rent,5395.24,Expense,Upi,2025,12,December,2025-12,21,Sunday
+TXN00404,2025-12-21,Food,Food purchase,906.27,Expense,Upi,2025,12,December,2025-12,21,Sunday
+TXN00959,2025-12-21,Education,Education expense,835.03,Expense,Cash,2025,12,December,2025-12,21,Sunday
+TXN01233,2025-12-21,Education,Education expense,5062.28,Expense,Upi,2025,12,December,2025-12,21,Sunday
+TXN00325,2025-12-22,Education,Education expense,3362.19,Expense,Debit Card,2025,12,December,2025-12,22,Monday
+TXN00441,2025-12-22,Shopping,Shopping purchase,4753.5,Expense,Net Banking,2025,12,December,2025-12,22,Monday
+TXN00947,2025-12-22,Food,Food purchase,688.26,Expense,Credit Card,2025,12,December,2025-12,22,Monday
+TXN00012,2025-12-23,Food,Food purchase,1184.72,Expense,Credit Card,2025,12,December,2025-12,23,Tuesday
+TXN01250,2025-12-23,Shopping,Shopping purchase,4300.17,Expense,Cash,2025,12,December,2025-12,23,Tuesday
+TXN01475,2025-12-23,Education,Education expense,4954.42,Expense,Debit Card,2025,12,December,2025-12,23,Tuesday
+TXN00594,2025-12-24,Entertainment,Entertainment activity,566.18,Expense,Credit Card,2025,12,December,2025-12,24,Wednesday
+TXN00851,2025-12-24,Travel,Travel booking,9555.44,Expense,Net Banking,2025,12,December,2025-12,24,Wednesday
+TXN00894,2025-12-24,Food,Food purchase,123.21,Expense,Net Banking,2025,12,December,2025-12,24,Wednesday
+TXN00914,2025-12-24,Food,Food purchase,872.16,Expense,Net Banking,2025,12,December,2025-12,24,Wednesday
+TXN01381,2025-12-24,Food,Food purchase,172.35,Expense,Upi,2025,12,December,2025-12,24,Wednesday
+TXN00141,2025-12-25,Transport,Local transport,485.94,Expense,Upi,2025,12,December,2025-12,25,Thursday
+TXN01198,2025-12-25,Travel,Travel booking,7687.2,Expense,Credit Card,2025,12,December,2025-12,25,Thursday
+TXN00555,2025-12-26,Utilities,Utility payment,680.88,Expense,Cash,2025,12,December,2025-12,26,Friday
+TXN01203,2025-12-26,Utilities,Utility payment,303.18,Expense,Net Banking,2025,12,December,2025-12,26,Friday
+TXN01228,2025-12-26,Travel,Travel booking,9135.98,Expense,Credit Card,2025,12,December,2025-12,26,Friday
+TXN01246,2025-12-26,Utilities,Utility payment,2912.34,Expense,Net Banking,2025,12,December,2025-12,26,Friday
+TXN01393,2025-12-26,Utilities,Utility payment,2910.67,Expense,Cash,2025,12,December,2025-12,26,Friday
+TXN01457,2025-12-26,Healthcare,Healthcare expense,1391.98,Expense,Credit Card,2025,12,December,2025-12,26,Friday
+TXN00772,2025-12-27,Shopping,Shopping purchase,3763.2,Expense,Credit Card,2025,12,December,2025-12,27,Saturday
+TXN00265,2025-12-28,Rent,Monthly rent,7327.32,Expense,Net Banking,2025,12,December,2025-12,28,Sunday
+TXN00347,2025-12-28,Food,Food purchase,152.04,Expense,Credit Card,2025,12,December,2025-12,28,Sunday
+TXN01082,2025-12-28,Travel,Travel booking,3112.22,Expense,Credit Card,2025,12,December,2025-12,28,Sunday
+TXN01088,2025-12-28,Shopping,Shopping purchase,4439.01,Expense,Upi,2025,12,December,2025-12,28,Sunday
+TXN00145,2025-12-29,Freelance,Freelance payment,47668.27,Income,Net Banking,2025,12,December,2025-12,29,Monday
+TXN00356,2025-12-29,Utilities,Utility payment,761.3,Expense,Cash,2025,12,December,2025-12,29,Monday
+TXN00161,2025-12-30,Utilities,Utility payment,2482.07,Expense,Upi,2025,12,December,2025-12,30,Tuesday
+TXN00511,2025-12-30,Salary,Salary received,3300.65,Income,Cash,2025,12,December,2025-12,30,Tuesday
+TXN00691,2025-12-30,Transport,Local transport,789.7,Expense,Debit Card,2025,12,December,2025-12,30,Tuesday
+TXN00810,2025-12-30,Education,Education expense,1765.42,Expense,Upi,2025,12,December,2025-12,30,Tuesday
+TXN01056,2025-12-30,Healthcare,Healthcare expense,284.72,Expense,Upi,2025,12,December,2025-12,30,Tuesday
+TXN01117,2025-12-30,Travel,Travel booking,7093.43,Expense,Debit Card,2025,12,December,2025-12,30,Tuesday
+TXN01422,2025-12-30,Transport,Local transport,500.33,Expense,Credit Card,2025,12,December,2025-12,30,Tuesday
+TXN00401,2025-12-31,Food,Food purchase,1192.06,Expense,Cash,2025,12,December,2025-12,31,Wednesday
+TXN00820,2025-12-31,Shopping,Shopping purchase,2352.6,Expense,Debit Card,2025,12,December,2025-12,31,Wednesday
+TXN01169,2025-12-31,Salary,Salary received,9678.92,Income,Credit Card,2025,12,December,2025-12,31,Wednesday
+TXN01336,2025-12-31,Transport,Local transport,646.55,Expense,Debit Card,2025,12,December,2025-12,31,Wednesday
+TXN01346,2025-12-31,Rent,Monthly rent,14976.75,Expense,Upi,2025,12,December,2025-12,31,Wednesday
